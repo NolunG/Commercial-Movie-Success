@@ -1,0 +1,42 @@
+us
+on training data ::
+0.598553145489
+0.61081121186
+on testing data ::
+0.768878446489
+0.932416534045
+
+uk
+on training data ::
+0.754562831429
+1.18394425469
+on testing data ::
+0.796157591232
+0.931764797295
+
+germany
+on training data ::
+0.775404355184
+1.2236349872
+on testing data ::
+0.738259417905
+0.886560773497
+
+
+
+france
+on training data ::
+0.901713736756
+1.46630777468
+on testing data ::
+0.859173940228
+1.47780993296
+
+
+aus
+on training data ::
+0.615959965046
+0.888159088905
+on testing data ::
+0.95126996944
+1.70401273665

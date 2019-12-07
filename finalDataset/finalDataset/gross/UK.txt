@@ -1,0 +1,1860 @@
+1	The Jungle Book	Disney	$66,598,923	4/15
+2	Bridget Jones's Baby	UPI	$60,924,463	9/16
+3	Finding Dory	Disney	$56,174,621	7/29
+4	Captain America: Civil War	Disney	$53,779,860	4/29
+5	Deadpool	Fox	$53,538,139	2/10
+6	Fantastic Beasts and Where To Find Them	WB	$53,310,172	11/18
+7	Batman v Superman: Dawn of Justice	WB	$53,128,158	3/25
+8	The Secret Life of Pets	UPI	$48,149,122	6/24
+9	Suicide Squad	WB	$43,800,000	8/5
+10	The BFG	E1	$40,460,338	7/22
+11	Zootopia	Disney	$34,169,763	3/25
+12	The Revenant	Fox	$32,888,019	1/15
+13	The Girl on the Train (2016)	E1	$29,403,920	10/5
+14	Jason Bourne	UPI	$28,987,049	7/29
+15	Trolls	Fox	$28,327,849	10/21
+16	Doctor Strange	Disney	$28,287,747	10/28
+17	X-Men: Apocalypse	Fox	$24,287,465	5/20
+18	Alvin and the Chipmunks The Road Chip	Fox	$23,908,156	2/12
+19	Star Trek Beyond	PPI	$20,979,720	7/22
+20	Kung Fu Panda 3	Fox	$20,321,914	3/11
+21	Absolutely Fabulous: The Movie	Fox	$19,552,282	7/1
+22	London Has Fallen	Lions Gate	$15,939,904	3/4
+23	Independence Day: Resurgence	Fox	$15,702,475	6/24
+24	The Conjuring 2	WB	$15,500,000	6/17
+25	The Angry Birds Movie	Sony	$15,367,738	5/13
+26	Miss Peregrine's Home for Peculiar Children	Fox	$15,285,335	9/30
+27	Alice Through the Looking Glass	Disney	$14,283,300	5/27
+28	Ghostbusters (2016)	Sony	$14,167,996	7/11
+29	Me Before You	WB	$13,700,000	6/3
+30	Goosebumps	Sony	$13,086,846	2/5
+31	Eddie the Eagle	Lions Gate	$12,803,022	4/1
+32	Dad's Army	UPI	$12,311,416	2/5
+33	The Legend of Tarzan	WB	$12,100,000	7/8
+34	Central Intelligence	UPI	$11,166,857	7/1
+35	The Danish Girl	UPI	$10,832,500	1/1
+36	Arrival	E1	$10,691,020	11/10
+37	Bad Moms	n/a	$10,441,780	8/26
+38	The Hateful Eight	n/a	$10,425,114	1/8
+39	Sausage Party	Sony	$10,219,534	9/2
+40	Inferno	Sony	$10,147,078	10/14
+41	Jack Reacher: Never Go Back	PPI	$9,822,013	10/21
+42	Ice Age: Collision Course	Fox	$9,387,299	7/1
+43	Neighbors 2: Sorority Rising	UPI	$9,249,000	5/6
+44	Warcraft	UPI	$8,892,000	6/3
+45	Teenage Mutant Ninja Turtles: Out of the Shadows	PPI	$8,719,985	6/3
+46	How to Be Single	WB	$8,600,000	2/19
+47	Spotlight	E1	$8,417,624	1/29
+48	Creed	WB	$8,246,569	1/15
+49	Storks	WB	$8,223,835	10/14
+50	Ride Along 2	UPI	$7,998,710	1/22
+51	The Magnificent Seven (2016)	Sony	$7,921,183	9/23
+52	Now You See Me 2	E1	$7,858,234	7/4
+53	The Huntsman Winter's War	UPI	$7,665,716	4/8
+54	The Big Short	PPI	$7,624,380	1/22
+55	The Brothers Grimsby	Sony	$7,564,877	2/26
+56	Dirty Grandpa	Lions Gate	$7,473,100	1/29
+57	10 Cloverfield Lane	PPI	$7,107,143	3/18
+58	Joy	Fox	$6,850,975	1/1
+59	Pete's Dragon	Disney	$6,835,587	8/12
+60	Deepwater Horizon	Lions Gate	$6,800,092	9/30
+61	Eye in the Sky	E1	$6,637,511	4/15
+62	Hail, Caesar!	UPI	$6,515,787	3/4
+63	The Accountant	WB	$6,324,066	11/4
+64	The Divergent Series: Allegiant	E1	$6,209,290	3/11
+65	Moana	Disney	$6,041,380	12/2
+66	Zoolander 2	PPI	$5,777,833	2/12
+67	My Big Fat Greek Wedding 2	UPI	$5,492,163	3/25
+68	Sully	WB	$5,417,515	12/2
+69	A Street Cat Named Bob	Sony	$5,179,043	11/4
+70	Don't Breathe	Sony	$5,019,182	9/9
+71	The Nice Guys	Icon	$4,913,256	6/3
+72	War Dogs	WB	$4,700,000	8/26
+73	Allied	PPI	$4,630,155	11/25
+74	Brotherhood	Lions Gate	$4,613,846	9/2
+75	Lights Out	WB	$4,600,000	8/19
+76	David Brent: Life on the Road	E1	$4,525,746	8/19
+77	Room	Studio Canal	$4,418,834	1/15
+78	Florence Foster Jenkins	Fox	$4,173,452	5/6
+79	Kubo and the Two Strings	UPI	$3,939,589	9/9
+80	Money Monster	Sony	$3,930,445	5/27
+81	Swallows and Amazons	Studio Canal	$3,910,272	8/19
+82	I, Daniel Blake	E1	$3,841,630	10/21
+83	Nocturnal Animals	UPI	$3,580,991	11/4
+84	Ouija: Origin of Evil	UPI	$3,452,187	10/21
+85	The Boy (2016)	n/a	$3,405,286	3/18
+86	Mike and Dave Need Wedding Dates	Fox	$3,157,155	8/12
+87	Nerve	Lions Gate	$3,074,151	8/12
+88	The Purge: Election Year	UPI	$3,067,000	8/26
+89	Bastille Day	Studio Canal	$2,948,233	4/22
+90	Blair Witch	Lions Gate	$2,940,039	9/16
+91	High-Rise	Studio Canal	$2,913,572	3/18
+92	The Shallows	Sony	$2,908,236	8/12
+93	Ben-Hur (2016)	PPI	$2,809,225	9/7
+94	Nine Lives (2016)	Lions Gate	$2,738,475	8/19
+95	Miss Saigon: 25th Anniversary Performance	UPI	$2,601,470	10/16
+96	Dirty Dancing (Secret Cinema)	Lions Gate	$2,490,700	7/15
+97	The Boss	UPI	$2,435,799	6/10
+98	A United Kingdom	Fox	$2,345,566	11/25
+99	Love & Friendship	Lions Gate	$2,301,875	5/27
+100	The Light Between Oceans	E1	$2,261,044	11/1
+101	Capture the Flag (Atrapa la bandera)	PPI	$2,211,858	1/29
+102	Bad Santa 2	E1	$2,170,888	11/25
+103	Hell or High Water	Studio Canal	$2,164,087	9/9
+104	Friend Request (Unfriend) [2016]	WB	$2,107,091	4/22
+105	Triple 9	E1	$2,041,254	2/19
+106	Cafe Society	WB	$1,993,746	9/2
+107	28 Days Later (2016 Secret Cinema)	Fox	$1,941,549	4/15
+108	André Rieu's 2016 Maastricht Concert	Cinema Live	$1,854,087	7/22
+109	Sing Street	Lions Gate	$1,836,700	3/18
+110	Ae Dil Hai Mushkil	Fox	$1,817,056	10/28
+111	Mechanic: Resurrection	Lions Gate	$1,763,940	8/26
+112	Julieta	Pathé	$1,759,197	8/26
+113	Our Kind of Traitor	Studio Canal	$1,745,576	5/13
+114	A Bigger Splash	Studio Canal	$1,700,350	2/12
+115	Office Christmas Party	E1	$1,506,359	12/9
+116	The Beatles: Eight Days a Week - The Touring Years	Studio Canal	$1,502,692	9/16
+117	Robinson Crusoe (2016)	Studio Canal	$1,381,128	5/6
+118	Youth	Studio Canal	$1,367,668	1/29
+119	The Infiltrator	WB	$1,365,290	9/16
+120	The Forest	Icon	$1,360,774	2/26
+121	Sultan	Yash Raj	$1,358,423	7/8
+122	My Scientology Movie	Altitude	$1,355,208	10/7
+123	The Girl with All the Gifts	WB	$1,352,325	9/23
+124	Midnight Special	E1	$1,342,203	4/8
+125	Mother's Day	Lions Gate	$1,289,246	6/10
+126	Gods of Egypt	E1	$1,288,806	6/17
+127	The Witch	UPI	$1,278,874	3/11
+128	Point Break (2015)	WB	$1,231,394	2/5
+129	Hunt for the Wilderpeople	Vertigo	$1,098,955	9/16
+130	A Hologram for the King	Icon	$1,062,859	5/20
+131	Pride and Prejudice and Zombies	Lions Gate	$1,037,601	2/12
+132	Anthropoid	Icon	$1,015,298	9/9
+133	Fan	Yash Raj	$994,702	4/15
+134	Oasis: Supersonic	E1	$942,768	9/30
+135	Pitbull. Niebezpieczne Kobiety	Phoenix	$900,975	12/2
+136	The Other Side of the Door	Fox	$868,073	3/4
+137	Keeping Up with the Joneses	Fox	$863,985	10/21
+138	The Man Who Knew Infinity	WB	$765,993	4/8
+139	The 5th Wave	Sony	$709,949	1/22
+140	Pitbull. Nowe porzadki	Phoenix	$688,336	4/15
+141	Maggie's Plan	Sony	$628,457	7/8
+142	American Honey	UPI	$576,117	10/14
+143	Janaan	B4U	$550,527	9/9
+144	Kapoor & Sons - Since 1921	Fox	$546,533	3/18
+145	War on Everyone	Icon	$522,329	10/7
+146	Ratchet & Clank	Lions Gate	$518,804	4/29
+147	Tale of Tales	Art. Eye	$515,762	6/17
+148	Son of Saul	Lions Gate	$484,104	4/29
+149	Everybody Wants Some!!	E1	$470,261	5/13
+150	Norm of the North	Signature	$468,854	3/18
+151	Paterson	Soda	$427,057	11/25
+152	Theri (The Spark)	Q Ent.	$399,933	4/15
+153	Dear Zindagi	Reliance	$395,318	11/25
+154	Thomas & Friends: The Great Race	Nat Amu	$393,396	5/20
+155	Kabali	Ayngaran	$387,262	7/22
+156	Demolition	Fox	$386,646	4/29
+157	Captain Fantastic	E1	$372,449	9/9
+158	The Neon Demon	Icon	$370,829	7/8
+159	Queen of Katwe	Disney	$369,757	10/14
+160	Shakespeare Live!	Picture House	$361,491	4/23
+161	The Finest Hours	Disney	$356,716	2/19
+162	Dishoom	Eros	$354,916	7/29
+163	Criminal (2016)	Lions Gate	$352,892	4/15
+164	The Edge of Seventeen	E1	$347,682	12/2
+165	Chaar Sahibzaade 2	Eros	$343,403	11/11
+166	13 Hours	PPI	$339,443	1/29
+167	Sherlock: The Abominable Bride	n/a	$330,207	1/1
+168	Anomalisa	Art. Eye	$321,379	3/11
+169	Bleed for This	Icon	$319,469	12/2
+170	Hardcore Henry	n/a	$285,187	4/8
+171	Snowden	Vertigo	$263,270	12/9
+172	Morgan	Fox	$257,582	9/2
+173	Your Name (Kimi no na wa.)	Nat Amu	$255,099	11/18
+174	Race (2016)	Altitude	$251,542	6/3
+175	Miles Ahead	Icon	$242,629	4/22
+176	Airlift	B4U	$240,267	1/22
+177	Little Men (2016)	Altitude	$230,588	9/23
+178	M.S. Dhoni: The Untold Story	Fox	$230,293	9/30
+179	The Taming of the Shrew - Bolshoi 2016 (Ballet)	Picture House	$228,755	1/22
+180	Mohenjo Daro	UTV	$228,462	8/12
+181	Lazer Team	n/a	$220,112	1/29
+182	Bobby Sands: 66 Days	n/a	$219,765	8/5
+183	Trumbo (2015)	E1	$211,949	2/5
+184	The Childhood of a Leader	Soda	$209,768	8/19
+185	Green Room	Altitude	$207,595	5/13
+186	Baar Baar Dekho	Eros	$207,500	9/9
+187	The Choice	Lions Gate	$198,772	3/4
+188	Dheepan	Studio Canal	$197,182	4/8
+189	Befikre	Yash Raj	$192,350	12/9
+190	Fitoor	UTV	$191,993	2/12
+191	Michael Buble - Tour Stop 148	MORE2SCR	$188,238	9/23
+192	Whiskey Tango Foxtrot	PPI	$175,508	5/13
+193	The Mermaid (2016)	Sony	$173,553	2/19
+194	The Birth of a Nation	Fox	$169,972	12/9
+195	24	Ayngaran	$167,614	5/6
+196	Ki and Ka	Eros	$166,462	4/1
+197	Concussion (2015)	Sony	$162,499	2/12
+198	The Secret in their Eyes (2015)	UPI	$162,482	2/26
+199	Victoria	Art. Eye	$154,569	4/1
+200	Free State of Jones	Studio Canal	$153,971	9/30
+201	Neerja	Fox	$153,334	2/19
+202	Rustom	Grand Showbiz	$148,974	8/12
+203	Ambarsariya	B4U	$148,157	3/25
+204	Barry Lyndon (2016 re-release)	BFI	$147,295	7/29
+205	The Darkness	UPI	$144,719	5/13
+206	Janis: Little Girl Blue	Dogwoof	$144,510	2/5
+207	Almost Christmas	UPI	$143,141	11/25
+208	Minuscule: Valley of the Lost Ants	Lions Gate	$142,821	5/27
+209	Baaghi: A Rebel For Love	UTV	$141,868	4/29
+210	Omoide no Marnie	Studio Canal	$141,697	6/10
+211	Planeta singli	Phoenix	$138,038	5/20
+212	American Pastoral	n/a	$137,099	11/11
+213	Barbershop: The Next Cut	WB	$135,486	6/17
+214	Lo and Behold, Reveries of the Connected World	Dogwoof	$131,418	10/28
+215	Udta Punjab	n/a	$127,883	6/17
+216	Where to Invade Next	Dogwoof	$121,948	6/10
+217	Wazir	Reliance	$119,178	1/8
+218	Fifty Shades of Black	Vertigo	$118,854	3/11
+219	Les innocentes	Picture House	$116,088	11/11
+220	Train to Busan	Studio Canal	$115,915	10/28
+221	Ip Man 3	n/a	$115,363	1/15
+222	Pulimurugan	n/a	$115,211	11/4
+223	I Saw the Light	Sony	$114,736	5/6
+224	Shivaay	Reliance	$114,400	10/28
+225	Wiener-Dog	Picture House	$111,695	8/12
+226	The Assassin	Studio Canal	$109,213	1/22
+227	Disorder (Maryland)	Soda	$106,438	3/25
+228	Ethel & Ernest	Vertigo	$105,983	10/28
+229	Housefull 3	Eros	$105,588	6/3
+230	Bolshoi Babylon	n/a	$104,845	1/8
+231	Golden Years	n/a	$104,416	4/29
+232	Swiss Army Man	Picture House	$104,352	9/30
+233	Notes on Blindness	Art. Eye	$104,214	7/1
+234	Ardaas	n/a	$103,705	3/11
+235	Don Gato: el inicio de la pandilla (Top Cat Begins)	WB	$102,068	5/27
+236	Risen	Sony	$101,241	3/18
+237	The First Monday in May	Dogwoof	$97,817	9/30
+238	Force 2	Grand Showbiz	$97,665	11/18
+239	Mustang	Art. Eye	$93,425	5/13
+240	Under the Shadow	Vertigo	$93,215	9/30
+241	Remo	Ayngaran	$92,181	10/7
+242	Rajini Murugan	Ayngaran	$87,361	1/15
+243	Azhar	n/a	$85,648	5/13
+244	Blood Father	WB	$85,561	10/7
+245	Ghayal Once Again	B4U	$85,273	2/5
+246	Mum's List	Studio Soho	$84,990	11/25
+247	Elvis & Nixon	E1	$77,812	6/24
+248	Sardaarji 2	Grand Showbiz	$77,253	6/24
+249	Adult Life Skills	Lorton	$75,190	6/24
+250	The Rolling Stones Havana Moon	Studio Canal	$75,001	9/23
+251	2 Countries	n/a	$74,236	1/29
+252	Kahaani 2	Eros	$73,975	12/2
+253	L'économie du couple (After Love)	Art. Eye	$73,189	10/28
+254	Astérix: Le domaine des dieux	Kaleidoscope	$73,012	8/19
+255	Iona	Verve	$72,241	3/25
+256	The Meddler	Sony	$69,417	6/24
+257	A Flying Jatt	n/a	$69,043	8/26
+258	Richard III (BFI Presents - 2016 re-issue)	Park	$68,272	4/28
+259	Our Little Sister	Art. Eye	$68,160	4/15
+260	Miracles from Heaven	Sony	$67,579	6/10
+261	L'avenir (Things To Come)	Art. Eye	$66,977	9/2
+262	Gimme Danger	Dogwoof	$66,859	11/18
+263	Jacob's Kingdom in Heaven (Jacobinte Swargarajyam)	n/a	$65,728	5/6
+264	Finding Mr. Right 2	n/a	$64,750	4/29
+265	L.O.R.D: Legend of Ravaging Dynasties (Jue ji)	Asia	$63,636	9/30
+266	Happy Bhaag Jayegi	Eros	$63,449	8/19
+267	Ho Mann Jahaan	n/a	$63,007	1/1
+268	The Man Who Fell To Earth (2016 re-release)	Park	$61,920	9/9
+269	Naam Hai Akira	Fox	$60,361	9/2
+270	Marguerite	Picture House	$59,836	3/18
+271	A Date for Mad Mary	Element	$59,695	9/2
+272	Iru Mugan	Ayngaran	$59,146	9/9
+273	Embrace of the Serpent	Peccadillo	$59,026	6/10
+274	Oppam	RFT	$58,839	9/23
+275	Jungle Shuffle	Signature	$58,347	2/19
+276	El Clan	Art. Eye	$55,878	9/16
+277	Bambukat	Urban Vibez	$54,290	7/29
+278	Born to be Blue	Munro	$53,504	7/29
+279	Versus: The Life and Films of Ken Loach	Dogwoof	$51,339	6/3
+280	Te3n	Reliance	$51,208	6/10
+281	Sarbjit	n/a	$49,866	5/20
+282	Battle Mountain: Graeme Obree's Story	Miracle	$49,853	4/1
+283	The Daughter (2015)	Metrodome	$49,118	5/27
+284	The Hard Stop	Metrodome	$48,441	7/15
+285	Love Punjab	n/a	$48,427	3/11
+286	Indignation	Vertigo	$48,001	11/18
+287	Wild Goose Lodge	Indep.	$47,288	10/28
+288	David Bowie Is	MORE2SCR	$46,846	7/8
+289	Pink (2016)	Grand Showbiz	$46,611	9/16
+290	Charlie (2015)	n/a	$46,083	1/15
+291	From Vegas to Macau 3 (Du cheng feng yun III)	n/a	$46,066	2/5
+292	Actor in Law	Grand Showbiz	$45,960	9/16
+293	Sanam Teri Kasam	Eros	$45,615	2/5
+294	Learning to Drive	Vertigo	$45,596	6/10
+295	Le tout nouveau testament	Metrodome	$45,416	4/15
+296	Jane Got a Gun	Lions Gate	$45,311	4/22
+297	Ostatnia Rodzina	Indep.	$45,172	11/4
+298	Michael Collins (2016 re-release)	WB	$43,244	3/18
+299	Bone Tomahawk	The Works	$42,443	2/19
+300	Kodi	Ayngaran	$41,707	10/28
+301	Remainder	Soda	$41,314	6/24
+302	Popstar: Never Stop Never Stopping	UPI	$40,904	8/26
+303	Innocence of Memories	Soda	$40,186	1/29
+304	I Am Belfast	BFI	$39,740	4/8
+305	Our Brand Is Crisis (2015)	WB	$39,556	1/22
+306	Napoleon (2016 Re-release)	BFI	$39,448	11/11
+307	God's Not Dead 2	Kaleidoscope	$39,109	4/29
+308	Starfish	Genesius	$39,012	10/28
+309	Hrútar	Soda	$38,978	2/5
+310	The Keeping Room	Lions Gate	$38,793	6/17
+311	Achcham Yenbadhu Madamaiyada	Ayngaran	$38,205	11/11
+312	Truth	WB	$38,000	3/4
+313	The 33	WB	$37,342	1/29
+314	Eksi Elmalar	AFM	$37,334	11/4
+315	Where You're Meant to Be	n/a	$37,100	6/17
+316	Despite the Falling Snow	Altitude	$36,859	4/15
+317	Valley of Love	Art. Eye	$35,462	8/12
+318	Love (Kochaj!)	Phoenix	$35,389	10/14
+319	Rocky Handsome	Reliance	$35,300	3/25
+320	Kali	n/a	$35,247	4/8
+321	I Belonged to You	CL	$34,889	10/7
+322	The Carer	Cinefile	$34,658	8/5
+323	Oddball	Icon	$34,584	2/12
+324	Louder Than Bombs	Soda	$34,204	4/22
+325	Rock On 2	Eros	$34,043	11/11
+326	The Survivalist	n/a	$33,881	2/12
+327	Idol (2016)	Studio Canal	$33,855	8/12
+328	Hitchcock/Truffaut	Dogwoof	$33,571	3/4
+329	Tickled	Studio Canal	$33,489	8/19
+330	The Commune (Kollektivet)	Art. Eye	$33,257	7/29
+331	Mapplethorpe: Look at the Pictures	Dogwoof	$33,196	4/22
+332	Francofonia (Le Louvre sous l'Occupation)	Art. Eye	$32,654	11/11
+333	Life, Animated	Dogwoof	$32,208	12/9
+334	Time Out of Mind	n/a	$31,939	3/4
+335	Couple in a Hole	Verve	$31,928	4/8
+336	Equity	Sony	$31,711	9/2
+337	Channo Kamli Yaar Di	n/a	$31,217	2/19
+338	The Ones Below	Icon	$29,799	3/11
+339	Kaptaan	UTV	$29,318	5/20
+340	Jai Gangaajal	n/a	$29,289	3/4
+341	Beauty and the Bestie	n/a	$29,247	1/8
+342	Tum Bin 2	B4U	$28,719	11/18
+343	Gautas Iskvietimas 3	Nat Amu	$28,030	10/14
+344	Kyaa Kool Hai Hum 3	B4U	$27,969	1/22
+345	The Mirror (Zerkalo) [2016 re-issue]	Art. Eye	$27,915	5/20
+346	Blinky Bill the Movie	n/a	$27,867	8/19
+347	Departure	Peccadillo	$26,448	5/20
+348	Krigen (A War)	Studio Canal	$26,256	1/8
+349	League of Gods	Sony	$25,535	7/29
+350	The Killing$ of Tony Blair	Bulldog	$25,318	7/22
+351	Mastizaade	Eros	$25,180	1/29
+352	Évolution	Metrodome	$25,159	5/6
+353	Boyz n the Hood (2016 re-release)	BFI	$25,001	10/28
+354	Paavada	n/a	$24,985	2/19
+355	The Confession	Dogwoof	$24,538	8/12
+356	Action Hero Biju	n/a	$24,233	2/26
+357	Ikimizin Yerine	AFM	$24,186	10/21
+358	Sid & Nancy (30th Anniversary)	Studio Canal	$24,184	8/5
+359	Kadhalum Kadandhu Pogum	Ayngaran	$24,047	3/11
+360	Aranmanai 2	n/a	$23,980	1/29
+361	Chevalier (2015)	Studio Canal	$23,820	7/22
+362	Black Mountain Poets	Metrodome	$23,722	4/1
+363	White Island	Peccadillo	$23,638	10/21
+364	The Pass	Lions Gate	$23,482	12/9
+365	Heart of a Dog	Dogwoof	$23,430	5/20
+366	Kaashmora	Q Ent.	$23,391	10/28
+367	Dare to be Wild (Jardins Selvagens)	Miracle	$23,380	9/23
+368	Gary Numan: Android in La La Land	n/a	$23,121	8/26
+369	Slugi Boze	Phoenix	$22,881	9/16
+370	Maheshinte Prathikaaram	n/a	$22,361	3/4
+371	Freaky Ali	n/a	$21,981	9/9
+372	Speed Sisters	Dogwoof	$21,931	3/25
+373	Return of the Don	KC	$21,781	6/17
+374	The Divide (2015)	n/a	$21,639	4/22
+375	The Greasy Strangler	Picture House	$21,549	10/7
+376	Blue Velvet (2016 re-release)	Park	$21,487	12/2
+377	Weiner	Dogwoof	$21,479	7/8
+378	Miruthan	Ayngaran	$21,372	2/19
+379	The Intent	Indep.	$21,305	7/29
+380	Chi-Raq	Vertigo	$21,226	12/2
+381	Lahore Se Aagey	n/a	$20,979	11/11
+382	In the Heat of the Night (2016 re-release)	Park	$20,846	11/18
+383	Kobiety bez wstydu	Phoenix	$20,573	11/11
+384	Madaari	Reliance	$20,528	7/22
+385	The Measure of a Man	New Wave	$20,487	6/3
+386	Mirzya	n/a	$20,152	10/7
+387	Burn Burn Burn	Verve	$19,991	10/28
+388	Viva	Element	$19,927	8/19
+389	The Iron Giant (Signature Edition Re-release)	WB	$19,920	2/12
+390	Idhu Namma Aalu	Q Ent.	$19,873	5/27
+391	Savva. Heart of the Warrior	Signature	$19,277	4/1
+392	El botón de nácar (The Pearl Button)	New Wave	$19,203	3/18
+393	ChickLit	n/a	$19,180	9/2
+394	Fuocoammare (Fire at Sea)	Art. Eye	$18,705	6/10
+395	Ran (2016 re-issue)	Studio Canal	$18,692	4/1
+396	The 9th Life of Louis Drax	Soda	$18,531	9/2
+397	Summertime (2016)	Art. Eye	$18,510	7/15
+398	Goodnight Mommy	Vertigo	$18,437	3/4
+399	Freeheld	E1	$18,245	2/19
+400	King Liar	n/a	$18,144	4/22
+401	The Monkey King 2 in 3D	CL	$18,129	2/12
+402	Keanu	WB	$18,118	7/15
+403	Get Squirrely (Animal Crackerz)	Signature	$18,093	8/19
+404	Un homme à la hauteur (Up for Love)	Soda	$17,982	8/5
+405	Kocan Kadar Konus: Dirilis	Kinostar	$17,877	1/8
+406	Imagine You & Me	Indep.	$17,777	7/22
+407	Vaisakhi List	B4U	$17,744	4/22
+408	Saadey CM Saab	Filmonix	$17,489	5/27
+409	Sonita	New Wave	$17,168	10/21
+410	La fille inconnue (The Unknown Girl)	Art. Eye	$17,099	12/2
+411	Saala Khadoos	n/a	$16,936	1/29
+412	Bølgen (The Wave)	Studio Canal	$16,884	8/12
+413	Dobara Phir Se	ARY	$16,818	11/25
+414	The Unmarried Wife	ABS-CBN	$16,526	11/25
+415	Stalker (2016 re-issue)	Art. Eye	$16,447	5/20
+416	Le Mepris (2016 re-release)	BFI	$16,158	1/1
+417	1920 London	Reliance	$16,077	5/6
+418	The Sacrifice (Offret) [2016 re-issue]	Art. Eye	$15,993	5/20
+419	Poor Cow (2016 re-release)	Studio Canal	$15,709	6/24
+420	Suburra	Kaleidoscope	$15,512	6/24
+421	Henry V (2016 re-release)	Park	$15,271	5/27
+422	Revolution: New Art for a New World	Arts Alliance	$15,037	11/4
+423	Sleeping with Other People	Icon	$15,030	1/1
+424	Ivan's Childhood (2016 re-release)	Art. Eye	$14,918	5/20
+425	Knight of Cups	Studio Canal	$14,899	5/6
+426	Just the 3 of Us	n/a	$14,437	5/6
+427	Men & Chicken	Arrow	$14,388	7/15
+428	Chennai 600028 II: Second Innings	Q Ent.	$14,313	12/9
+429	Feast of Varanasi	n/a	$14,282	3/11
+430	Cold War 2	JBG	$14,209	7/8
+431	My Name Is Emily	Eclipse	$14,177	4/8
+432	I Am Not a Serial Killer	Bulldog	$14,126	12/9
+433	The Super Parental Guardians	ABS-CBN	$13,862	12/9
+434	Bang Gang (A Modern Love Story)	Metrodome	$13,778	6/17
+435	This Time	n/a	$13,620	5/20
+436	Dedemin Fisi	Kinostar	$13,312	1/29
+437	El Club	Network	$13,127	3/25
+438	Bobby (2016)	E1	$12,931	5/27
+439	Jem and the Holograms	UPI	$12,869	2/12
+440	Sethupathi	n/a	$12,617	2/19
+441	Sour Grapes (2016)	Dogwoof	$12,505	9/16
+442	My Best Friend's Wedding (2016)	Sony	$12,332	8/12
+443	Iraivi	Ayngaran	$12,211	6/3
+444	In Pursuit of Silence	Dartmouth	$12,079	10/21
+445	Crash & Burn	Wildcard	$12,040	12/2
+446	The Lovers and the Despot	Soda	$12,014	9/23
+447	Mavis!	Dogwoof	$11,970	2/19
+448	El Sur (2016 re-release)	BFI	$11,959	9/16
+449	Main Teri Tu Mera	Urban Vibez	$11,956	8/19
+450	Pokkiri Raja	Ayngaran	$11,794	3/4
+451	Tharai Thappattai	Ayngaran	$11,640	1/15
+452	Lock	Filmonix	$11,605	10/14
+453	The Tunnel (2016)	JBG	$11,601	9/2
+454	Dharam Yudh Morcha	Filmonix	$11,462	9/16
+455	Anuraga Karikkin Vellam	Swamy	$11,405	7/29
+456	The Flag	Element	$11,239	10/14
+457	Osman Pazarlama	Kinostar	$11,199	2/19
+458	United States of Love (Zjednoczone stany milosci)	Matchbox	$10,738	11/18
+459	Traders	Element	$10,696	3/11
+460	Author: The JT LeRoy Story	Dogwoof	$10,575	7/29
+461	Castle in the Sky (2016 re-release)	Studio Canal	$10,488	5/6
+462	Andrei Rublev (2016 re-release)	Art. Eye	$10,357	5/20
+463	The Third Party	ABS-CBN	$10,323	10/21
+464	Manithan	Q Ent.	$10,285	4/29
+465	Kiki's Delivery Service (2015 re-release)	Studio Canal	$10,266	5/27
+466	Maalik	Urban Vibez	$10,121	8/26
+467	Mammal (2016)	n/a	$10,107	4/1
+468	Jil Jung Juk	Ayngaran	$10,064	2/12
+469	Chronic (2015)	Art. Eye	$10,043	2/19
+470	Tere Bin Laden - Dead or Alive	Reliance	$9,903	2/26
+471	Saithan	Swamy	$9,890	12/2
+472	Théo et Hugo dans le même bateau (Paris 05:59)	Peccadillo	$9,839	9/9
+473	Cabin Fever (2016)	n/a	$9,586	5/13
+474	LUCK-KEY	JBG	$9,494	10/28
+475	Delibal	n/a	$9,467	1/1
+476	Close Encounters of the Third Kind - Director's Cut (2016 re-release)	Park	$9,352	5/27
+477	SPL 2: A Time for Consequences	Q Ent.	$9,274	5/13
+478	Strange Occurrences in a Small Irish Village	n/a	$9,173	8/26
+479	Troublemakers: The Story of Land Art	Dogwoof	$9,109	5/13
+480	Ma ma	Metrodome	$8,806	6/24
+481	King Jack	Vertigo	$8,801	2/26
+482	Kanithan	n/a	$8,782	2/26
+483	The Fall (2016)	Picture House	$8,516	7/29
+484	Tutak Tutak Tutiya	Urban Vibez	$8,498	10/14
+485	Detective Chinatown (Tang ren jie tan an)	CL	$8,425	1/15
+486	Thodari	Ayngaran	$8,414	9/23
+487	Kathakali	n/a	$8,361	1/15
+488	Jim: The James Foley Story	Dogwoof	$8,236	9/2
+489	Love Me Tomorrow	ABS-CBN	$8,147	6/3
+490	Lee Scratch Perry's Vision Of Paradise	n/a	$8,068	2/5
+491	Southside with You	Soda	$8,026	9/30
+492	Zorawar	n/a	$7,914	5/6
+493	Dhulla Bhatti	Filmonix	$7,876	6/10
+494	Still Loved	Indep.	$7,835	9/30
+495	Enakku Innoru Per Irukku	Ayngaran	$7,825	6/17
+496	Two Women (2014)	Miracle	$7,821	9/16
+497	Quo vado?	n/a	$7,554	4/22
+498	A Trip to Jamaica	Indep.	$7,540	12/9
+499	Marudhu	Ayngaran	$7,514	5/20
+500	Partisan (2015)	n/a	$7,398	1/8
+501	Bangalore Naatkal	n/a	$7,279	2/5
+502	Velainu Vandhutta Vellaikaaran	Q Ent.	$7,253	6/3
+503	Bachaana	n/a	$7,149	4/22
+504	Oopiri	n/a	$7,124	3/25
+505	25 Kille	n/a	$7,106	8/26
+506	Moscow Never Sleeps	n/a	$6,991	11/11
+507	#WszystkoGra	Metrodome	$6,990	6/17
+508	Call of Heroes	n/a	$6,945	9/2
+509	31st October	Filmonix	$6,940	10/21
+510	Kattappanayile Rithwik Roshan	RFT	$6,867	12/9
+511	Ikinci Sans	AFM	$6,673	11/25
+512	You've Been Trumped Too	n/a	$6,615	11/4
+513	The Sky Trembles and the Earth is Afraid and the Two Eyes are Not Brothers	n/a	$6,487	5/6
+514	Attacking the Devil: Harold Evans and the Last Nazi War Crime	n/a	$6,481	1/22
+515	Kavalai Vendam	Swamy	$6,480	11/25
+516	Raman Raghav 2.0	Reliance	$6,371	6/24
+517	Bir Baba Hindu	n/a	$6,367	10/7
+518	Romeo and Juliet (1968) [2016 re-release]	Park	$6,292	5/20
+519	Arabian Nights: Volume 1 - The Restless One	New Wave	$6,201	4/22
+520	An (2015)	Eureka	$6,145	8/5
+521	The Weekend Movie	Indep.	$5,976	12/2
+522	Mon roi (My King)	Studio Canal	$5,839	5/27
+523	Adi Kapyare Kootamani	n/a	$5,818	1/15
+524	The Propaganda Game	Metrodome	$5,734	2/26
+525	Vaaliba Raja	Ayngaran	$5,642	4/1
+526	Rock The Kasbah	Sony	$5,509	3/18
+527	La chambre bleue	n/a	$5,490	9/9
+528	Kardesim Benim	n/a	$5,454	1/29
+529	Miekkailija (The Fencer)	Munro	$5,454	9/30
+530	Cemetery of Splendor	New Wave	$5,440	6/17
+531	The Silent Storm	Sony	$5,260	5/20
+532	Holding the Man	Peccadillo	$5,206	6/3
+533	Express Raja	n/a	$5,145	1/15
+534	Küçük Esnaf	Kinostar	$5,125	4/8
+535	Ingrid Bergman: In Her Own Words	Soda	$5,118	8/12
+536	Only Yesterday (2016 re-release)	Studio Canal	$5,044	6/3
+537	Dhilluku Dhuddu	Q Ent.	$4,963	7/15
+538	Jackson Durai	Ayngaran	$4,963	7/1
+539	Truman (2015)	Studio Canal	$4,961	5/6
+540	Breaking the Bank	Altive	$4,947	6/3
+541	Efterskalv (The Here After)	Soda	$4,771	3/11
+542	ID2: Shadwell Army	Munro	$4,764	8/12
+543	Richard Linklater: Dream is Destiny	Dogwoof	$4,641	11/4
+544	Johnny Guitar (2016 re-release)	Park	$4,604	5/6
+545	Eat That Question: Frank Zappa in His Own Words	Sony	$4,577	12/2
+546	Le dernier diamant	Swipe	$4,487	1/22
+547	The Passing	Miracle	$4,449	4/8
+548	A Beautiful Planet	IMAX	$4,388	5/27
+549	Noble	Miracle	$4,388	2/12
+550	The Price of Desire	Munro	$4,223	5/27
+551	Aanandam	Q Ent.	$4,131	11/25
+552	Mattress Men	Element	$4,098	10/7
+553	Orthodox (2015)	n/a	$4,077	2/19
+554	Baskin	Vertigo	$4,063	7/15
+555	Queen of Earth	Eureka	$3,965	7/1
+556	Kolpaçino 3. Devre	n/a	$3,936	3/18
+557	Romeo & Juliet from San Francisco Ballet 2015 (Ballet)	n/a	$3,893	2/12
+558	Kammatti Paadam	RFT	$3,891	6/17
+559	Akenfield (2016 re-release)	BFI	$3,847	7/15
+560	Mom and Me	Element	$3,816	7/15
+561	The Young Offenders	Vertigo	$3,786	9/16
+562	L'hermine (Courted)	Studio Canal	$3,742	9/30
+563	Puthiya Niyamam	n/a	$3,735	3/11
+564	Once Upon a Time in Amritsar	Urban Vibez	$3,701	6/10
+565	Into the Inferno	Dogwoof	$3,679	10/28
+566	Born to Be King	n/a	$3,639	3/4
+567	Brown Willy	n/a	$3,565	4/29
+568	Creepy (Kurîpî: Itsuwari no rinjin)	Eureka	$3,439	11/25
+569	Bounty Hunters	JBG	$3,391	7/1
+570	Karingunnam 6's	Swamy	$3,375	8/12
+571	Strangerland	n/a	$3,363	2/5
+572	Arabian Nights: Volume 2 - The Desolate One	New Wave	$3,358	4/29
+573	Gray Matters (2014)	Munro	$3,239	5/27
+574	Remember	Studio Canal	$3,075	2/26
+575	A Good American	n/a	$2,963	9/23
+576	Mission Milano (Wang pai dou wang pai)	JBG	$2,961	10/7
+577	The Black Hen	Matchbox	$2,946	12/9
+578	The Call Up	Altitude	$2,924	5/20
+579	Baden Baden	n/a	$2,911	9/23
+580	Valliyum Thetti Pulliyum Thetti	Swamy	$2,911	5/27
+581	Desi Munde	Urban Vibez	$2,879	10/21
+582	The Darkest Universe	Indep.	$2,875	11/4
+583	Desert Dancer	Metrodome	$2,873	4/22
+584	I'll See You In My Dreams	Picture House	$2,831	2/12
+585	Almost Holy	Art. Eye	$2,815	8/19
+586	De Palma	Studio Canal	$2,808	9/23
+587	Pretham	RFT	$2,804	9/16
+588	Ti guardo (From Afar)	n/a	$2,715	7/1
+589	Gangsters Gamblers Geezers	Indep.	$2,662	9/23
+590	Journey to the Shore (Kishibe no tabi)	Eureka	$2,657	5/20
+591	Imperium	Signature	$2,593	9/23
+592	Hide & Seek (2016)	Matchbox	$2,577	7/8
+593	Oru Muthassi Gadha	RFT	$2,560	10/14
+594	Light Years	Indep.	$2,555	9/23
+595	The Stanford Prison Experiment	Munro	$2,553	6/10
+596	Kids in Love	Signature	$2,553	8/26
+597	Darra	Grand Showbiz	$2,529	9/2
+598	Thoppil Joppan	RFT	$2,483	11/25
+599	Aandavan Kattalai	Swamy	$2,476	9/30
+600	The Truth Commissioner	n/a	$2,464	2/26
+601	Dog Eat Dog (2016)	Signature	$2,430	11/18
+602	The Incident (2015)	Verve	$2,401	11/25
+603	Never Gone	JBG	$2,344	7/22
+604	Black (2015)	Vertigo	$2,302	8/19
+605	In Rahon Se	n/a	$2,277	3/11
+606	Welcome to Me	Vertigo	$2,242	3/25
+607	Notfilm	BFI	$2,241	4/15
+608	Darvinte Parinamam	n/a	$2,239	3/25
+609	America Wild: National Parks	n/a	$2,175	2/12
+610	Last Hijack (2014)	n/a	$2,113	1/8
+611	Arabian Nights: Volume 3 - The Enchanted One	New Wave	$2,093	5/6
+612	Cosmos (2015)	Arrow	$2,058	8/19
+613	The Wailing (Goksung)	Kaleidoscope	$2,013	11/25
+614	The Wait (L'attesa)	Studio Canal	$2,012	7/8
+615	Bizans Oyunlari - Geym of Bizans	n/a	$1,992	1/15
+616	Visaranai	Q Ent.	$1,943	10/21
+617	Ekk Albela	Barakhadi	$1,915	6/24
+618	The Violators	Bulldog	$1,848	6/17
+619	Kate Plays Christine	Dogwoof	$1,800	10/14
+620	MSG the Warrior: Lion Heart	DCPi	$1,798	10/14
+621	Z-Storm 2 (S Storm)	Asia	$1,779	9/16
+622	Les chevaliers blancs (The White Knights)	Studio Canal	$1,767	11/4
+623	Tout en haut du monde (Long Way North)	Soda	$1,750	6/17
+624	Line Walker	JBG	$1,735	9/9
+625	The Music of Strangers	Orchard	$1,720	11/18
+626	Wagah	Q Ent.	$1,693	8/12
+627	Gajalu	n/a	$1,686	8/19
+628	El Degmemis Ask	n/a	$1,667	9/16
+629	Papusza	New Wave	$1,642	4/1
+630	Lost in Karastan	n/a	$1,641	1/22
+631	Someone to Talk To (Yi ju ding yi wan ju)	Asia	$1,592	11/4
+632	Next to Her	Peccadillo	$1,575	3/11
+633	Benim Adim Feridun	AFM	$1,566	11/18
+634	Kickboxer: Vengeance	Kaleidoscope	$1,469	9/30
+635	The Last Man on the Moon	n/a	$1,399	4/8
+636	Kill Command	Vertigo	$1,356	5/13
+637	Heaven Knows What	Axiom	$1,326	4/29
+638	Lakeeran	Blue Sap.	$1,284	10/21
+639	Sant Te Sipahi	n/a	$1,284	2/26
+640	I, Olga Hepnarová	MUBI	$1,260	11/18
+641	Girls Lost (Pojkarna)	AFM	$1,232	11/4
+642	Suddenly Seventeen	Indep.	$1,203	12/9
+643	Kadavul Irukaan Kumaru	Q Ent.	$1,186	11/18
+644	Half Ticket	n/a	$1,135	8/19
+645	Babu Bangaram	Swamy	$1,132	8/12
+646	Magnus	Arrow	$1,122	11/25
+647	Urban Hymn	Bulldog	$1,115	9/30
+648	Backtrack	Arrow	$1,090	1/29
+649	Around China with a Movie Camera	BFI	$1,084	7/22
+650	Mafia Uccide Solo D'estate	Cinefile	$1,047	7/1
+651	Premam	Swamy	$1,046	10/21
+652	Vettah	n/a	$1,012	3/18
+653	Nannaku Prematho	n/a	$1,003	1/29
+654	London Di Heer	DCPi	$997	12/2
+655	The Visit: An Alien Encounter	n/a	$997	1/22
+656	Rupture	Signature	$995	11/4
+657	Before the Flood	Dogwoof	$988	10/21
+658	Nasty Baby	Network	$972	4/8
+659	Molly Moon and the Incredible Book of Hypnotism	Lions Gate	$953	12/2
+660	Szkola uwodzenia Czeslawa M.	Magnetes	$948	11/25
+661	The Guv'nor	Lions Gate	$948	10/7
+662	Tharlo	n/a	$907	9/30
+663	D'Ardennen (The Ardennes)	Studio Canal	$904	12/9
+664	Dark Places	E1	$892	1/22
+665	The Seventh Fire	Metrodome	$865	5/13
+666	Crazy About Tiffany's	Dogwoof	$851	6/24
+667	Taking Stock	Swipe	$837	2/5
+668	Éperdument (Down by Love)	Studio Canal	$814	6/17
+669	K-Shop	Bulldog	$793	7/22
+670	The Girl King	Peccadillo	$760	6/17
+671	Motley's Law	Indep.	$739	4/1
+672	A Flickering Truth	Studio Canal	$734	4/29
+673	Loro chi?	WB	$717	3/4
+674	Breakdown (2016)	Soda	$713	1/15
+675	Aatishbaazi Ishq	Filmonix	$705	10/14
+676	Kavi Uddheshichathu..?	Aashirvad	$646	10/14
+677	Oozham	RFT	$624	10/7
+678	Jet Trash	Indep.	$616	12/2
+679	The Land of the Enlightened	Studio Canal	$609	9/9
+680	Fasandræberne (The Absent One)	Picture House	$578	4/8
+681	13th	Dogwoof	$566	10/7
+682	Brahmotsavam	Saragima	$541	5/20
+683	Aloys	Eureka	$523	9/23
+684	At Any Price	Studio Canal	$510	1/1
+685	Deliormanli	n/a	$499	4/15
+686	Anguish	Arrow	$467	4/1
+687	Heritage of Love	Miracle	$434	12/9
+688	Vanishing Time: A Boy Who Returned (Ga-ryeo-jin Si-gan)	JBG	$406	11/25
+689	Amanda Knox	Dogwoof	$397	9/30
+690	Gethu	Ayngaran	$373	1/15
+691	Welcome to Leith	Metrodome	$370	2/12
+692	Schone Handen (Clean Hands)	Matchbox	$352	8/19
+693	Mojave	Signature	$349	3/25
+694	Marubhoomiyile Aana	Swamy	$348	9/9
+695	The Dreamed Ones	Contemporary Films	$327	12/2
+696	Creature Designers - The Frankenstein Complex	Studio Canal	$314	4/22
+697	100 Streets	Vertigo	$309	11/11
+698	Ming of Harlem	Soda	$287	7/22
+699	Rekka	Swamy	$282	10/14
+700	The Hexecutioners	Studio Canal	$276	2/26
+701	The Neighbor (2016)	Arrow	$268	9/16
+702	Dragon Blade	n/a	$253	1/15
+703	Sarrainodu	Swamy	$239	4/22
+704	Pandorica	Indep.	$228	4/1
+705	The Trust	Signature	$221	5/27
+706	Sky Ladder	Dogwoof	$219	10/14
+707	Sardar Gabbar Singh	Swamy	$218	4/8
+708	Closet Monster	Peccadillo	$194	7/15
+709	A Poem Is a Naked Person (2015 re-issue)	Contemporary Films	$183	7/8
+710	Streetdance Family	n/a	$148	6/3
+711	Misconduct	Bulldog	$141	6/3
+712	Exposed (2015)	Signature	$122	2/26
+713	Yarn	Indep.	$119	9/23
+714	Precious Cargo	Signature	$113	7/15
+715	The Ivory Game	Dogwoof	$105	11/4
+716	The Comedian's Guide to Survival	Signature	$95	10/28
+717	Capture Kill Release	n/a	$72	10/28
+718	The Colony	Signature	$62	7/1
+719	400 Days	Vertigo	$58	8/19
+720	Against the Sun	E1	$52	3/11
+721	Cell	Signature	$51	8/26
+722	The Benefactor	Arrow	$35	2/26
+1	Star Wars: The Force Awakens	Disney	$163,599,922	12/17
+2	Spectre	Sony	$124,526,863	10/26
+3	Jurassic World	n/a	$99,669,369	6/12
+4	Avengers: Age of Ultron	Disney	$76,623,201	4/24
+5	Minions	UPI	$72,674,232	6/26
+6	Furious 7	UPI	$59,927,904	4/3
+7	Inside Out	Disney	$59,436,933	7/24
+8	Fifty Shades of Grey	UPI	$51,603,774	2/13
+9	The Hunger Games: Mockingjay - Part 2	Lions Gate	$43,154,684	11/20
+10	Home	Fox	$38,895,218	3/20
+11	The Martian	Fox	$33,937,841	10/2
+12	Cinderella (2015)	Disney	$32,842,481	3/27
+13	Mission: Impossible - Rogue Nation	PPI	$31,936,699	7/31
+14	The Theory of Everything	UPI	$31,909,172	1/2
+15	Big Hero 6	Disney	$31,565,340	1/30
+16	Hotel Transylvania 2	Sony	$29,832,652	10/16
+17	Legend	Studio Canal	$27,960,112	9/9
+18	Pitch Perfect 2	n/a	$27,259,230	5/15
+19	Mad Max: Fury Road	n/a	$27,107,031	5/15
+20	Taken 3	Fox	$26,894,435	1/8
+21	Ant-Man	Disney	$25,190,193	7/17
+22	Daddy's Home	PPI	$24,287,482	12/25
+23	Kingsman: The Secret Service	Fox	$24,160,744	1/30
+24	The Second Best Exotic Marigold Hotel	Fox	$23,064,109	2/27
+25	Shaun the Sheep Movie	Studio Canal	$21,952,598	2/6
+26	The Good Dinosaur	Disney	$21,333,175	11/27
+27	American Sniper	WB	$20,735,943	1/16
+28	The Lady in the Van	Sony	$19,105,150	11/13
+29	San Andreas	n/a	$17,630,829	5/29
+30	Terminator Genisys	n/a	$16,984,618	7/3
+31	Everest	UPI	$15,794,142	9/18
+32	Ted 2	n/a	$15,248,242	7/10
+33	Spy	n/a	$14,990,584	6/5
+34	Into the Woods	Disney	$14,859,690	1/9
+35	Suffragette	Fox	$14,074,045	10/16
+36	The Peanuts Movie	Fox	$13,886,795	12/25
+37	Pan	WB	$13,446,907	10/16
+38	Maze Runner: The Scorch Trials	Fox	$13,288,343	9/10
+39	Pixels	Sony	$12,800,000	8/14
+40	Southpaw	Ent. Films	$12,283,085	7/24
+41	Straight Outta Compton	UPI	$12,216,965	8/28
+42	The SpongeBob Movie: Sponge Out of Water	PPI	$11,898,007	3/27
+43	Insurgent	E1	$11,869,289	3/20
+44	Bridge of Spies	Fox	$11,044,990	11/27
+45	Focus	WB	$10,972,916	2/27
+46	Magic Mike XXL	n/a	$10,466,689	7/3
+47	The Man from U.N.C.L.E.	n/a	$9,756,904	8/14
+48	The Empire Strikes Back	Fox	$9,593,937	6/5
+49	Fantastic Four	n/a	$8,878,507	8/7
+50	Far from the Madding Crowd	Fox	$8,767,667	5/1
+51	Birdman	Fox	$8,764,178	1/2
+52	Brooklyn	Lions Gate	$8,580,360	11/6
+54	Tomorrowland	n/a	$7,740,556	5/22
+55	The Woman in Black 2: Angel of Death	E1	$7,371,544	1/2
+56	Sicario	Lions Gate	$7,236,353	10/9
+57	Jupiter Ascending	WB	$6,551,281	2/6
+58	Insidious Chapter 3	n/a	$6,104,425	6/5
+59	Poltergeist (2015)	n/a	$5,943,288	5/22
+60	Paranormal Activity: The Ghost Dimension	PPI	$5,864,894	10/23
+61	Amy	n/a	$5,737,984	7/3
+62	Paper Towns	n/a	$5,242,976	8/21
+63	Unfriended	UPI	$5,146,449	5/1
+64	Sinister 2	n/a	$4,838,437	8/21
+65	Black Mass	WB	$4,723,639	11/27
+66	Spooks: The Greater Good	Fox	$4,700,720	5/8
+67	Trainwreck	n/a	$4,348,352	8/14
+68	Macbeth (2015)	Studio Canal	$4,339,629	10/2
+69	The Last Witch Hunter	E1	$4,133,544	10/23
+70	The Intern	WB	$4,121,679	10/2
+71	Mr. Holmes	E1	$3,993,973	6/19
+72	Sisters	UPI	$3,979,713	12/18
+73	Carol	Studio Canal	$3,976,888	11/27
+74	Woman in Gold	Ent. Films	$3,878,626	4/10
+75	Ex Machina	UPI	$3,816,953	1/23
+76	Two by Two	E1	$3,809,182	5/1
+77	In the Heart of the Sea	WB	$3,789,875	12/25
+78	Selma	Fox	$3,738,077	2/6
+79	Bajrangi Bhaijaan	Eros	$3,699,383	7/17
+80	Crimson Peak	UPI	$3,604,199	10/16
+81	Peppa Pig: The Golden Boots	E1	$3,593,395	2/13
+82	Chappie	Sony	$3,542,889	3/6
+83	Still Alice	n/a	$3,482,413	3/6
+84	Steve Jobs	UPI	$3,377,030	11/13
+85	The Wedding Ringer	Sony	$3,189,135	2/20
+86	Dilwale	UTV	$3,173,604	12/18
+87	The Visit	UPI	$3,130,052	9/9
+88	The Bad Education Movie	Ent. Films	$3,121,196	8/21
+89	The DUFF	E1	$3,053,129	4/10
+90	Run All Night	WB	$3,033,411	3/13
+91	Hitman: Agent 47	n/a	$2,919,916	8/28
+92	Love the Coopers	E1	$2,910,763	12/4
+93	Testament of Youth	Lions Gate	$2,877,384	1/15
+94	45 Years	Art. Eye	$2,632,138	8/28
+95	Suite Francaise	E1	$2,621,594	3/13
+96	Foxcatcher	E1	$2,548,126	1/9
+97	Whiplash	Sony	$2,446,616	1/16
+99	Prem Ratan Dhan Payo	Fox	$2,290,181	11/13
+100	Entourage	n/a	$2,278,311	6/19
+101	The Gift (2015)	n/a	$2,268,314	8/7
+102	Miss You Already	E1	$2,215,536	9/25
+103	Paul Blart: Mall Cop 2	Sony	$2,195,452	4/10
+104	The Lobster	Element	$2,164,725	10/16
+105	Absolutely Anything	Lions Gate	$2,126,769	8/14
+106	Vacation	n/a	$2,088,954	8/21
+107	Child 44	E1	$2,078,131	4/17
+108	Bajirao Mastani	Eros	$1,929,856	12/18
+109	The Walk	Sony	$1,922,084	10/9
+110	No Escape	n/a	$1,875,129	9/4
+111	While We're Young	Icon	$1,816,785	4/3
+112	Project Almanac	PPI	$1,799,878	2/20
+113	Krampus	UPI	$1,764,715	12/4
+114	Andre Rieu's 2015 Maastricht Concert	n/a	$1,728,256	7/17
+115	The Age of Adaline	n/a	$1,689,799	5/8
+116	Burnt	n/a	$1,611,291	11/6
+117	A Royal Night Out	n/a	$1,590,567	5/15
+118	Wild (2014)	Fox	$1,575,402	1/16
+119	Man Up	n/a	$1,562,608	5/29
+120	Man Up	Studio Canal	$1,562,608	6/5
+121	It Follows	Icon	$1,561,728	2/27
+122	The Longest Ride	n/a	$1,558,766	6/19
+123	A Little Chaos	Lions Gate	$1,545,193	4/17
+124	Take That Live 2015	n/a	$1,533,182	6/19
+125	The Water Diviner	E1	$1,513,842	4/3
+126	Victor Frankenstein	Fox	$1,395,831	12/4
+127	Big Game	n/a	$1,376,191	5/8
+128	The Gunman	Studio Canal	$1,363,276	3/20
+129	The Legend of Barney Thomson	Icon	$1,295,680	7/24
+130	The Boy Next Door	UPI	$1,229,883	2/27
+131	Seventh Son	UPI	$1,200,723	3/27
+132	The Gallows	n/a	$1,165,784	7/17
+133	Inherent Vice	WB	$1,127,325	1/30
+134	Me and Earl and the Dying Girl	Fox	$1,126,638	9/4
+135	Hot Pursuit	n/a	$1,097,359	7/31
+136	Unfinished Business	Fox	$1,057,035	3/6
+137	American Ultra	n/a	$982,216	9/4
+138	A Walk in the Woods	E1	$980,596	9/18
+139	The Night Before	Sony	$950,963	12/4
+140	Bill (2015)	Vertigo	$896,929	9/18
+141	Thomas & Friends: Sodor's Legend of the Lost Treasure	n/a	$889,927	7/17
+142	We Are Your Friends	Studio Canal	$835,025	8/28
+143	Scouts Guide to the Zombie Apocalypse	PPI	$819,197	11/6
+144	The Dressmaker	n/a	$811,834	11/20
+145	Man Up	Studio Canal	$810,478	5/29
+146	Force Majeure	n/a	$761,992	4/10
+147	Knock Knock	n/a	$735,021	6/26
+148	Mortdecai	Lions Gate	$727,292	1/23
+149	Danny Collins	n/a	$720,695	5/29
+150	Sunset Song	n/a	$715,769	12/4
+151	Solace	n/a	$681,518	9/25
+152	Tamasha	UTV	$663,313	11/27
+153	Irrational Man	WB	$638,508	9/11
+154	Tanu Weds Manu Returns	n/a	$638,315	5/22
+155	Dil Dhadakne Do	n/a	$630,680	6/5
+156	The Legend of Barney Thompson	BVI (Ire.) / Icon (U	$625,822	7/24
+157	Relatos salvajes	n/a	$613,979	3/27
+158	The Program (2015)	Studio Canal	$578,026	10/16
+159	The Gambler	PPI	$572,311	1/23
+160	Slow West	Lions Gate	$559,614	6/26
+161	The Falling	n/a	$554,876	4/24
+162	Singh is Bliing	Eros	$539,272	10/2
+163	Ed Sheeran Jumpers for Goalposts	n/a	$535,686	10/22
+164	The Transporter Refueled	Icon	$534,832	9/4
+165	Bin Roye	n/a	$492,270	7/17
+166	X+Y	n/a	$443,821	3/13
+167	The Interview	Sony	$432,810	2/6
+168	Maya the Bee Movie	n/a	$399,843	10/23
+169	Blade Runner	BFI	$399,260	4/3
+170	Piku	Yash Raj	$369,261	5/8
+171	The Battle of Britain at 75 (Concert)	n/a	$351,087	9/18
+172	Back to the Future Day	UPI	$345,000	10/21
+173	The Perfect Guy	Sony	$342,500	11/20
+174	London Road	n/a	$336,704	6/12
+175	Self/Less	n/a	$336,045	7/17
+176	La Donna Del Lago - Met Opera 2015	n/a	$335,142	3/13
+177	Ricki and the Flash	n/a	$334,055	9/4
+178	Regression	n/a	$329,167	10/9
+179	Welcome Back	Eros	$319,996	9/4
+180	Sardaar Ji	n/a	$318,117	6/26
+181	Gabbar in Back	Eros	$307,651	5/1
+182	Kill Your Friends	Studio Canal	$302,401	11/6
+183	Mistress America	n/a	$257,789	8/14
+184	Shaandaar	n/a	$253,906	10/22
+185	I Believe in Miracles	n/a	$239,770	10/9
+186	Wild Card	Lions Gate	$227,514	3/20
+187	Blackhat	UPI	$226,802	2/20
+188	Brothers: Blood Against Blood	n/a	$222,902	8/14
+189	True Story	n/a	$214,608	7/17
+190	Vedalam	Ayngaran	$206,721	11/13
+191	Survivor	n/a	$200,124	6/5
+192	Survivor	n/a	$200,124	6/5
+193	ABCD (Any Body Can Dance) 2	UTV	$182,501	6/19
+194	Guillaume Tell - Royal Opera, London 2015	n/a	$178,663	7/3
+195	The Voices	Arrow	$176,965	3/20
+196	Dragon Ball Z: Resurrection 'F'	n/a	$168,560	10/2
+197	Love & Mercy	n/a	$164,156	7/10
+198	Yennai Arindhaal	Ayngaran	$160,405	2/6
+199	Puli	Ayngaran	$160,012	10/2
+200	The Lady of the Camellias - Bolshoi 2015	n/a	$159,155	12/4
+201	Katti Batti	UTV	$155,502	9/18
+202	He Named Me Malala	Fox	$154,159	11/6
+203	Love is Strange	n/a	$153,687	2/13
+204	Kurt Cobain: Montage of Heck	n/a	$150,994	4/10
+205	Une nouvelle amie (The New Girlfriend)	n/a	$147,363	5/22
+206	Bombay Velvet	n/a	$145,195	5/15
+207	The Hallow	E1	$144,981	11/13
+208	Hamari Adhuri Kahani	n/a	$136,565	6/12
+209	Peggy Guggenheim Art Addict	Dogwoof	$136,416	12/13
+210	Hot Tub Time Machine 2	PPI	$132,158	4/10
+211	Muumit Rivieralla (Moomins on the Riviera)	n/a	$132,072	5/22
+212	Masss	n/a	$131,748	5/29
+213	Lost in Hong Kong	n/a	$129,556	9/25
+214	The Diary of a Teenage Girl	Vertigo	$125,845	8/7
+215	Song of the Sea	n/a	$112,067	7/10
+216	The Terminator	n/a	$104,771	6/26
+217	Cartel Land	Dogwoof	$103,971	9/4
+218	Top Five	n/a	$98,501	5/8
+219	The Cobbler	n/a	$90,305	7/31
+220	Captive (2015)	PPI	$79,328	9/25
+221	Hector	Miracle	$76,948	12/13
+222	Appropriate Behavior	Peccadillo	$76,787	3/5
+223	Being AP	E1	$76,196	11/27
+224	Theeb	New Wave	$74,035	8/14
+225	Listen to Me Marlon	n/a	$70,558	10/22
+226	The Duke of Burgundy	n/a	$66,493	2/20
+227	Love (2015)	Art. Eye	$65,829	11/20
+228	Thoongaavanam	n/a	$59,322	11/13
+229	Phoenix (2014)	n/a	$58,634	5/8
+230	Life	E1	$58,078	9/25
+231	99 Homes	Studio Canal	$57,837	9/25
+232	The Salvation	WB	$57,240	4/17
+233	Goodbye Mr. Loser	n/a	$55,717	10/23
+234	Grandma (2015)	Sony	$54,711	12/13
+235	Monsters: Dark Continent	Vertigo	$52,750	5/1
+236	Radiator (2014)	n/a	$50,447	11/25
+237	Our Times (2015)	n/a	$50,166	11/20
+238	Baahubali: The Beginning	n/a	$49,855	7/10
+239	Miss Julie	n/a	$45,260	9/4
+240	Taxi Teheran	New Wave	$43,041	10/30
+241	Surprise - Journey To The West	n/a	$42,884	12/18
+242	Fathers and Daughters	WB	$38,420	11/13
+243	By the Sea	UPI	$37,732	12/13
+244	Mr. Six	CL	$30,585	12/25
+245	My Little Pony: Equestria Girls - Friendship Games	n/a	$30,216	10/23
+246	Steve McQueen: The Man & Le Mans	n/a	$30,203	11/20
+247	Mississippi Grind	n/a	$29,592	10/23
+248	Dartmoor Killing	n/a	$29,198	9/18
+249	10 Endrathukulla	n/a	$29,039	10/23
+250	Black Panthers: Vanguard of the Revolution	n/a	$28,523	10/23
+251	Tangerine	n/a	$28,376	11/13
+252	Dugun Dernek 2: Sunnet	Kinostar	$27,857	12/4
+253	Shareek	n/a	$25,627	10/23
+254	Pasanga 2	Ayngaran	$23,953	12/25
+255	Pyaar Ka Punchnama 2	n/a	$22,861	10/16
+256	The Honourable Rebel	Miracle	$21,297	12/4
+257	McFarland, USA	Disney	$19,401	9/25
+258	Rosewater	n/a	$18,047	5/8
+259	Ex-Files 2: The Backup Strikes Back	n/a	$17,081	11/6
+260	Inji Iduppazhagi (Size Zero)	n/a	$16,726	11/27
+261	ChemSex	Peccadillo	$16,354	12/4
+262	What Our Fathers Did: A Nazi Legacy	n/a	$14,484	11/20
+263	The Show of Shows	Dogwoof	$13,824	12/4
+264	The Forbidden Room	Soda	$13,678	12/13
+265	The D Train	Sony	$13,233	9/18
+266	Ghosthunters	n/a	$12,007	10/2
+267	Tangerines	Axiom	$10,419	9/18
+268	Chicken	n/a	$10,412	5/20
+269	Judge Singh LLB	n/a	$10,000	12/4
+270	Red Army	n/a	$9,792	10/9
+271	3 1/2 Minutes, 10 Bullets	Dogwoof	$8,856	10/2
+272	Rise of the Footsoldier Part II	n/a	$8,156	12/13
+273	They Will Have to Kill Us First	n/a	$7,937	10/23
+274	Under Milk Wood	n/a	$7,843	10/30
+275	When Harry Met Sally... (2015 re-issue)	Park	$7,578	12/13
+276	Ali Baba ve 7 Cüceler	n/a	$7,137	11/13
+277	Sherpa	n/a	$6,915	12/18
+278	Paper Planes	n/a	$6,712	10/23
+279	Star Men (2015)	n/a	$6,624	11/20
+280	Out 1, noli me tangere	Arrow	$6,204	11/27
+281	11 Minutes	Element	$5,680	12/4
+282	Madimak: Carina's Diary	n/a	$5,679	10/9
+283	Sankarabharanam	n/a	$5,633	12/4
+284	Grazing the Sky	n/a	$5,399	12/13
+285	The Lesson	New Wave	$4,908	12/4
+286	The Legend of Longwood	n/a	$4,616	10/23
+287	La glace et le ciel (Ice and the Sky)	Art. Eye	$4,448	12/13
+288	Do I Sound Gay?	Kaleidoscope	$3,207	10/30
+289	Su Su Sudhi Vathmeekam	n/a	$3,021	12/13
+290	Anime nere (Black Souls)	Vertigo	$2,985	10/30
+291	Thanga Magan	n/a	$2,443	12/18
+292	Brand: A Second Coming	n/a	$1,562	10/23
+293	Microbe et Gasoil (Microbe & Gasoline)	Studio Canal	$1,301	11/6
+294	To Be Frank, Sinatra at 100	n/a	$925	12/13
+295	Kafes	Kinostar	$648	11/6
+296	The Runner	n/a	$512	11/6
+297	Future Shock! The Story of 2000AD	n/a	$231	12/4
+298	The Vatican Tapes	n/a	$201	10/30
+299	Zarafa	Soda	$178	10/9
+300	Bound to Vengeance	n/a	$133	10/30
+301	Momentum	n/a	$70	11/20
+1	Paddington	Studio Canal	$64,966,170	11/28
+2	The Hobbit: The Battle of the Five Armies	WB	$61,349,032	12/12
+3	The Lego Movie	WB	$56,890,654	2/14
+4	The Inbetweeners 2	n/a	$55,652,783	8/6
+5	Dawn of the Planet of the Apes	Fox	$55,198,182	7/17
+6	The Hunger Games: Mockingjay - Part 1	Lions Gate	$48,669,241	11/21
+7	Guardians of the Galaxy	Disney	$47,385,948	7/31
+8	X-Men: Days of Future Past	Fox	$45,595,814	5/22
+9	How to Train Your Dragon 2	Fox	$41,547,592	7/10
+10	The Amazing Spider-Man 2	n/a	$40,468,688	4/18
+11	The Wolf of Wall Street	UPI	$37,413,041	1/17
+12	Gone Girl	Fox	$34,643,161	10/3
+13	Transformers: Age of Extinction	n/a	$33,175,952	7/10
+14	12 Years a Slave	n/a	$33,011,149	1/10
+15	Maleficent	Disney	$32,725,839	5/28
+16	Captain America: The Winter Soldier	Disney	$32,230,026	3/26
+17	22 Jump Street	n/a	$31,490,585	6/6
+18	Interstellar	WB	$31,379,615	11/7
+19	Godzilla (2014)	WB	$28,924,010	5/15
+20	Neighbors	UPI	$26,923,122	5/9
+21	Rio 2	Fox	$26,342,826	4/4
+22	Mrs. Brown's Boys D'Movie	UPI	$25,046,676	6/27
+23	The Imitation Game	n/a	$24,947,473	11/14
+24	Lucy	UPI	$23,557,600	8/22
+25	Mr. Peabody & Sherman	Fox	$22,511,139	2/7
+26	Teenage Mutant Ninja Turtles (2014)	n/a	$21,569,311	10/17
+27	The Fault in our Stars	Fox	$19,428,900	6/19
+28	The Grand Budapest Hotel	Fox	$18,509,536	3/7
+29	Night at the Museum: Secret of the Tomb	Fox	$17,738,132	12/19
+30	Noah	n/a	$16,755,678	4/4
+31	Non-Stop	n/a	$15,774,889	2/28
+32	The Other Woman (2014)	Fox	$15,515,452	4/23
+33	The Maze Runner	Fox	$13,927,471	10/10
+34	The Boxtrolls	UPI	$13,816,528	9/12
+35	Penguins of Madagascar	Fox	$13,527,386	12/4
+36	Robocop (2014)	n/a	$13,333,956	2/7
+37	Edge of Tomorrow	WB	$13,304,522	5/30
+38	300: Rise of an Empire	WB	$12,925,711	3/7
+39	Fury	n/a	$12,742,222	10/22
+40	Muppets Most Wanted	Disney	$12,698,743	3/28
+41	Annabelle	WB	$12,034,061	10/10
+42	Last Vegas	UPI	$11,476,116	1/3
+43	Annie (2014)	Sony	$11,429,478	12/26
+44	Exodus: Gods and Kings	Fox	$11,418,004	12/26
+45	Nativity 3: Dude, Where's My Donkey?!	E1	$11,283,866	11/14
+46	Divergent	n/a	$11,110,379	4/4
+47	The Equalizer	n/a	$11,052,578	9/26
+48	The Monuments Men	Fox	$10,239,935	2/14
+49	The Pirate Fairy	Disney	$9,889,584	2/14
+50	Mr. Turner	n/a	$9,365,673	10/31
+51	Dumb and Dumber To	UPI	$9,118,292	12/19
+52	Hercules (2014)	n/a	$9,112,916	7/25
+53	The Book of Life (2014)	Fox	$9,103,293	10/24
+54	Dallas Buyers Club	n/a	$8,755,794	2/7
+55	Let's Be Cops	Fox	$8,602,722	8/27
+56	The Railway Man	n/a	$8,455,269	1/10
+57	Need for Speed	Disney	$8,138,409	3/12
+58	Dracula Untold	UPI	$7,840,174	10/3
+59	Planes: Fire & Rescue	Disney	$7,701,150	8/1
+60	The Purge: Anarchy	UPI	$7,697,696	7/25
+61	Mandela: Long Walk to Freedom	Fox	$7,190,817	1/3
+62	Sex Tape	n/a	$7,146,281	9/3
+63	The Nut Job	WB	$7,076,985	8/1
+64	Ride Along	UPI	$6,931,768	2/28
+65	The Book Thief	Fox	$6,826,511	2/14
+66	The Expendables 3	n/a	$6,473,058	8/14
+67	What We Did on Our Holiday	n/a	$6,390,566	9/26
+68	Pride (2014)	Fox	$6,331,824	9/12
+69	A Walk Among the Tombstones	n/a	$5,983,096	9/19
+70	Horrible Bosses 2	WB	$5,674,379	11/28
+71	Back To The Future (2014 re-issue)	UPI	$5,628,876	8/1
+72	Jack Ryan: Shadow Recruit	n/a	$5,579,249	1/24
+73	Postman Pat: The Movie	n/a	$5,515,679	5/23
+74	Before I Go To Sleep	n/a	$5,320,856	9/5
+75	A Million Ways to Die in the West	UPI	$5,303,514	5/30
+76	Delivery Man	n/a	$5,146,759	1/10
+77	Ouija	UPI	$5,095,101	10/31
+78	Calvary	n/a	$4,891,035	4/11
+79	Alexander and the Terrible, Horrible, No Good, Very Bad Day	Disney	$4,881,803	10/10
+80	Earth to Echo	n/a	$4,842,885	7/25
+81	Boyhood	UPI	$4,840,251	7/11
+82	Paranormal Activity: The Marked Ones	n/a	$4,800,827	1/1
+83	That Awkward Moment	n/a	$4,584,759	1/29
+84	Into The Storm	WB	$4,548,316	8/22
+85	Pompeii	n/a	$4,501,310	4/30
+86	Nightcrawler	n/a	$4,408,153	10/31
+87	The Hundred-Foot Journey	n/a	$4,364,114	9/5
+88	Tarzan (2013)	n/a	$4,149,972	5/2
+89	Inside Llewyn Davis	n/a	$4,104,571	1/24
+90	Cuban Fury	n/a	$4,087,346	2/14
+91	Tinker Bell and the Legend of the NeverBeast	Disney	$3,899,317	12/12
+92	The Love Punch	n/a	$3,868,206	4/18
+93	Get Santa	WB	$3,863,403	12/4
+94	Billy Elliot - The Musical Live	n/a	$3,501,362	9/26
+95	Devil's Due	Fox	$3,497,595	1/16
+96	Lone Survivor	UPI	$3,495,458	1/31
+97	The House of Magic	n/a	$3,398,104	7/25
+98	Transcendence	n/a	$3,359,136	4/25
+99	Blended	WB	$3,309,053	5/23
+100	A Most Wanted Man	n/a	$3,254,206	9/12
+101	P.K.	UTV	$3,172,207	12/19
+102	August: Osage County	n/a	$3,167,227	1/24
+103	Belle	Fox	$3,038,702	6/13
+104	Sin City 2	n/a	$2,967,018	8/22
+105	Unbroken	UPI	$2,886,368	12/26
+106	Endless Love (2014)	UPI	$2,864,318	2/14
+107	Tammy	WB	$2,713,949	7/4
+108	The Quiet Ones	n/a	$2,705,349	4/11
+109	Jersey Boys	WB	$2,693,097	6/20
+110	The Two Faces of January	n/a	$2,684,063	5/16
+111	Begin Again	n/a	$2,630,129	7/11
+112	Dolphin Tale 2	WB	$2,618,363	10/3
+113	Chef	n/a	$2,584,350	6/25
+114	If I Stay	WB	$2,582,529	8/29
+115	Pudsey the Dog: The Movie	n/a	$2,549,705	7/18
+116	The Riot Club	UPI	$2,525,772	9/19
+117	Starred Up	Fox	$2,474,323	3/21
+118	The Drop	Fox	$2,376,852	11/14
+119	Her (2013)	n/a	$2,331,512	2/14
+120	Monty Python Live (Mostly)	n/a	$2,316,656	7/18
+121	I, Frankenstein	n/a	$2,271,158	1/29
+122	Kick	n/a	$2,198,214	7/25
+123	Deliver Us From Evil	n/a	$2,149,207	8/20
+124	Happy New Year (2014)	n/a	$2,096,109	10/24
+125	Walking on Sunshine	n/a	$2,071,453	6/27
+126	The Babadook	Icon	$2,036,647	10/24
+127	Step Up All In	UPI	$2,020,045	8/1
+128	NT Live: A Streetcar Named Desire	n/a	$2,017,232	10/17
+129	What If (2014)	n/a	$1,970,239	8/20
+130	Under the Skin (2014)	n/a	$1,911,826	3/14
+131	Oculus	WB	$1,909,880	6/13
+132	Love, Rosie	n/a	$1,888,461	10/22
+133	Escape From Planet Earth	n/a	$1,860,356	3/7
+134	The Best of Me	n/a	$1,852,936	10/17
+135	Bang Bang	n/a	$1,850,443	10/2
+136	The Raid 2	n/a	$1,796,027	4/11
+137	One Direction: Where We Are	n/a	$1,642,207	10/10
+138	The Judge	WB	$1,623,014	10/17
+139	As Above/So Below	UPI	$1,600,382	8/29
+140	'71	n/a	$1,567,094	10/10
+141	A Long Way Down	n/a	$1,493,867	3/21
+142	Locke	n/a	$1,434,082	4/18
+143	Magic in the Moonlight	WB	$1,422,133	9/19
+144	The Invisible Woman	n/a	$1,373,682	2/7
+145	The Guest (2014)	Icon	$1,352,579	9/5
+146	The Double (2014)	n/a	$1,272,555	4/4
+147	Foosball	n/a	$1,260,890	8/8
+148	3 Days to Kill	n/a	$1,236,902	6/20
+149	Grace of Monaco	WB	$1,228,541	6/6
+150	St. Vincent	Ent. Films	$1,226,418	12/4
+151	Kaze tachinu (The Wind Rises)	n/a	$1,210,181	5/9
+152	Labor Day	n/a	$1,164,374	3/21
+153	Deux jours, une nuit	n/a	$1,125,914	8/22
+154	Northern Soul	n/a	$1,083,473	10/17
+155	The Stag	n/a	$1,019,275	3/7
+156	Horns	n/a	$1,009,441	10/29
+157	Chaar Sahibzaade	n/a	$1,004,891	11/20
+158	The Rewrite	n/a	$960,135	10/10
+159	Fading Gigolo	n/a	$922,878	5/23
+160	2 States	n/a	$880,895	4/18
+161	Dr. Who: Deep Breath	n/a	$866,563	8/22
+162	Frank	n/a	$850,919	5/9
+163	20,000 Days on Earth	n/a	$849,051	9/19
+164	Sabotage (2014)	n/a	$844,654	5/7
+165	Jimmy's Hall	n/a	$834,030	5/30
+166	Khumba	n/a	$828,859	4/11
+167	Tracks	n/a	$824,883	4/25
+168	The Lunchbox	n/a	$800,271	4/11
+169	Grudge Match	WB	$746,713	1/24
+170	Jai Ho	n/a	$745,518	1/24
+171	Winter's Tale	WB	$744,442	2/21
+172	Hector And The Search For Happiness	n/a	$734,619	8/15
+173	Gunday	n/a	$693,153	2/14
+174	Yves Saint Laurent	n/a	$689,489	3/21
+175	Cold in July	Icon	$682,258	6/27
+176	Khoobsurat	n/a	$657,005	9/19
+177	About Last Night (2014)	n/a	$631,550	3/21
+178	The 100-Year-Old Man Who Climbed Out the Window and Disappeared	n/a	$631,050	7/4
+179	Ida	n/a	$600,324	9/26
+180	Maps to the Stars	n/a	$599,795	9/26
+181	Singham Returns	n/a	$596,561	8/15
+182	The Legend of Hercules	n/a	$586,983	3/28
+183	Think Like a Man Too	n/a	$582,941	9/19
+184	Legends of Oz: Dorothy's Return	n/a	$576,044	5/23
+185	The Pyramid	Fox	$571,058	12/4
+186	The Crucible - The Old Vic	n/a	$540,754	12/4
+187	Kaththi	n/a	$532,580	10/24
+188	Blue Ruin	n/a	$527,770	5/2
+189	The Giver	n/a	$519,087	9/19
+190	Out of the Furnace	n/a	$518,492	1/29
+191	2001: A Space Odyssey (2014 re-release)	BFI	$503,126	11/28
+192	Waar	n/a	$502,796	1/17
+193	Million Dollar Arm	Disney	$485,618	8/29
+194	Shaadi Ke Side Effects	n/a	$470,545	2/28
+195	Brick Mansions	WB	$468,079	5/2
+196	Only Lovers Left Alive	n/a	$452,958	2/21
+197	It's Entertainment	n/a	$443,151	8/8
+198	My Old Lady	n/a	$434,042	11/20
+199	Ek Villain	n/a	$428,741	6/27
+200	Holiday (2014)	n/a	$415,719	6/6
+201	Devil's Knot	n/a	$407,483	6/13
+202	Jilla	n/a	$400,138	1/10
+203	Plastic (2014)	n/a	$396,917	4/30
+204	Punjab 1984	n/a	$390,051	6/27
+205	Black Sea	UPI	$384,042	12/4
+206	This is Where I Leave You	WB	$378,151	10/24
+207	The Past	n/a	$372,348	3/28
+208	Effie Gray	n/a	$368,609	10/10
+209	Humshakals	Fox	$368,159	6/20
+210	Finding Vivian Maier	n/a	$365,455	7/18
+211	Bogowie	n/a	$356,717	10/24
+212	Queen (2014)	n/a	$337,529	3/7
+213	Il Barbiere di Siviglia (Met Opera)	n/a	$331,102	11/21
+214	MET Opera: Macbeth	n/a	$331,064	10/10
+215	Serena	n/a	$320,907	10/24
+216	20 Feet from Stardom	n/a	$318,163	3/28
+217	Highway (2014)	n/a	$315,486	2/21
+218	Finding Fanny	Fox	$315,316	9/12
+219	God's Not Dead	KC	$313,027	4/18
+220	Die Meistersinger von Nurnberg - Met Opera 2014	n/a	$302,187	12/12
+221	Haider	n/a	$289,932	10/3
+222	Mood Indigo	n/a	$278,108	8/1
+223	Laggies	Icon	$276,585	11/7
+224	Kochadaiiyaan	n/a	$275,884	5/23
+225	The Rover	n/a	$274,068	8/15
+226	Lingaa	n/a	$268,986	12/12
+227	Recep Ivedik 4	n/a	$264,027	2/21
+228	Humpty Sharma Ki Dulhania	n/a	$263,356	7/11
+229	Hockney	n/a	$252,346	11/28
+230	Noble	n/a	$249,737	9/19
+231	Hasee Toh Phasee	n/a	$247,924	2/7
+232	L'inconnu du lac (Stranger By the Lake)	n/a	$243,243	2/21
+233	Road (2014)	n/a	$241,744	6/6
+234	God's Pocket	n/a	$233,737	8/8
+235	Kvinden i buret (The Keeper of Lost Causes)	n/a	$227,017	8/29
+236	Half of a Yellow Sun	n/a	$214,101	4/11
+237	Main Tera Hero	n/a	$213,691	4/4
+238	Disco Singh	n/a	$213,579	4/11
+239	Daawat-e-Ishq	n/a	$213,249	9/19
+240	Big Eyes	Ent. Films	$211,052	12/26
+241	Snezhnaya koroleva (The Snow Queen)	n/a	$208,879	10/24
+242	What We Do in the Shadows	Metrod.	$200,108	11/21
+243	Bhoothnath Returns	n/a	$199,186	4/11
+244	God Help the Girl	n/a	$197,969	8/22
+245	Lilting	n/a	$197,588	8/8
+246	Obvious Child	n/a	$197,361	8/29
+247	Anjaan	n/a	$196,681	8/15
+248	The Grand Seduction	n/a	$191,063	8/29
+249	A Haunted House 2	n/a	$184,366	6/27
+250	The Zero Theorem	n/a	$180,237	3/14
+251	Bangalore Days	n/a	$180,217	6/20
+252	Vi är bäst!	n/a	$179,730	4/18
+253	Total Siyapaa	n/a	$179,716	3/7
+254	Holiday (2010)	n/a	$179,131	6/6
+255	Veeram	n/a	$175,421	1/10
+256	Get On Up	UPI	$172,937	11/20
+257	Mardaani	n/a	$172,332	8/22
+258	Mr. Morgan's Last Love	n/a	$171,561	7/4
+259	Kaum De Heere	n/a	$171,193	3/21
+260	Joe (2014)	n/a	$170,656	7/25
+261	The Guvnors	n/a	$168,588	8/29
+262	Mary Kom	n/a	$167,265	9/5
+263	Drishyam	n/a	$162,072	1/3
+264	Seve (2014)	n/a	$161,874	6/27
+265	Jack Strong	n/a	$161,616	2/14
+266	Life After Beth	n/a	$157,531	10/3
+267	Nymphomaniac (2013)	n/a	$155,414	2/21
+268	Velaiyilla Pattathari	n/a	$154,594	7/18
+269	Jatt James Bond	n/a	$153,477	4/25
+270	Citizenfour	n/a	$146,864	10/31
+271	Tusen Ganger God Natt	n/a	$146,853	5/2
+272	Fruitvale Station	n/a	$145,080	6/6
+273	The Wizard Of Oz: An Imax 3D Experience	WB	$145,002	9/12
+274	The Young and Prodigious T.S. Spivet	n/a	$138,298	6/13
+275	Leviathan (2014)	n/a	$138,238	11/7
+276	The Congress	n/a	$135,664	8/15
+277	Double DI Trouble	n/a	$135,526	8/29
+278	One Night in Istanbul	n/a	$133,588	9/12
+279	Avant l'hiver (Before the Winter Chill)	n/a	$128,989	5/9
+280	Raja Natwarlal	n/a	$125,873	8/29
+281	Dedh Ishqiya	n/a	$124,351	1/10
+282	The Armstrong Lie	n/a	$123,083	1/31
+283	Barbie and the Secret Door	n/a	$117,008	8/29
+284	Gulaab Gang	n/a	$115,852	3/7
+285	Veronica Mars	WB	$114,643	3/14
+286	Men, Women & Children	PPI	$114,433	12/4
+287	Jack to a King - The Swansea Story	n/a	$114,061	9/12
+288	Aa Gaye Munde U.K. De	n/a	$110,868	8/8
+289	Maan Karate	n/a	$108,599	4/4
+290	Bewakoofiyaan	n/a	$102,244	3/14
+291	Chinese Puzzle	n/a	$101,704	6/20
+292	Stalingrad (2013)	n/a	$101,469	2/21
+293	Thomas & Friends: Tale of the Brave	n/a	$99,826	8/22
+294	My Little Pony: Equestria Girls - Rainbow Rocks	n/a	$96,742	10/24
+295	Redirected	n/a	$92,551	11/7
+296	Nymphomaniac: Part 2	n/a	$92,015	2/28
+297	Kraftidioten	n/a	$91,199	9/12
+298	Bobby Jasoos	n/a	$88,567	7/4
+299	Night Moves	n/a	$83,506	8/29
+300	How Old Are You?	n/a	$78,897	6/6
+301	The Last Days on Mars	UPI	$78,520	4/11
+302	Eyyvah Eyvah 3	n/a	$73,754	1/31
+303	Wakolda	n/a	$72,836	8/8
+304	Les beaux jours	n/a	$71,929	6/20
+305	Alceste à bicyclette	n/a	$70,503	7/4
+306	Heaven is for Real	n/a	$69,425	5/30
+307	Arthur Newman	n/a	$69,209	6/27
+308	Welcome to New York	n/a	$68,442	8/8
+309	Mistaken for Strangers	n/a	$68,227	6/27
+310	A Touch of Sin	n/a	$67,376	5/16
+311	My Little Pony: Equestria Girls	n/a	$67,083	2/28
+312	Dil Vil Pyaar Vyaar	n/a	$65,363	5/2
+313	The Skeleton Twins	n/a	$63,571	11/7
+314	Venus in Fur	n/a	$63,411	5/30
+315	Gone Too Far	n/a	$55,304	10/10
+316	Romeo Ranjha	n/a	$49,530	5/16
+317	Goreyan Nu Daffa Karo	n/a	$49,499	9/12
+318	La jaula de oro (The Golden Dream)	n/a	$49,092	6/27
+319	Peruchazhi	n/a	$46,265	9/5
+320	Wish I Was Here	n/a	$45,181	9/19
+321	Ragini MMS 2	n/a	$43,957	3/21
+322	The Rocket (2013)	n/a	$43,160	3/14
+323	Pantani: The Accidental Death of a Cyclist	n/a	$40,882	5/16
+324	Jimi: All Is by My Side	n/a	$39,007	10/24
+325	Bjork - Biophilia Live	n/a	$38,087	10/17
+326	Run and Jump	n/a	$37,128	5/2
+327	Concussion	n/a	$36,351	5/16
+328	Incir Receli 2	n/a	$35,417	10/31
+329	Vikramadithyan	n/a	$34,767	8/8
+330	Life of Crime	n/a	$34,617	9/5
+331	I Am Divine	n/a	$34,242	7/18
+332	Blood Ties (2013)	n/a	$33,817	8/15
+333	The Sea (2014)	n/a	$33,735	4/18
+334	Camille Claudel, 1915	n/a	$33,671	6/20
+335	Grand Piano	n/a	$33,669	9/19
+336	Omar (2013)	n/a	$31,824	5/30
+337	Finding Fela	n/a	$31,366	9/5
+338	Downhill	n/a	$31,314	5/30
+339	Manam	n/a	$28,369	5/30
+340	Of Horses and Men	n/a	$28,215	6/13
+341	The Calling (2014)	n/a	$27,412	10/10
+342	Grand Central	n/a	$26,548	7/18
+343	1983	n/a	$25,646	2/14
+344	The Unknown Known	n/a	$25,107	3/21
+345	The Machine	n/a	$24,912	3/21
+346	I Origins	Fox	$24,299	9/26
+347	Jigarthanda	n/a	$24,274	8/1
+348	The Punk Singer	n/a	$23,258	5/23
+349	Charlie Countryman	n/a	$19,482	10/31
+350	A Promise	n/a	$19,433	8/1
+351	Les salauds (Bastards)	n/a	$19,383	2/14
+352	Patron Mutlu Son Istiyor	n/a	$17,305	1/10
+353	Ilo Ilo	n/a	$16,998	5/2
+354	Palo Alto	n/a	$16,034	10/17
+355	Therese (2013)	n/a	$15,982	5/16
+356	Salvo	n/a	$15,784	3/21
+357	Ring Master	n/a	$15,159	4/18
+358	Honeymoon	n/a	$15,025	9/26
+359	The November Man	Disney	$14,862	11/7
+360	Svengali	n/a	$14,482	3/21
+361	Tim's Vermeer	n/a	$13,802	1/17
+362	Art of the Steal	n/a	$13,385	6/20
+363	Kiss the Water	n/a	$13,295	1/10
+364	Love is in the Air	n/a	$13,089	2/14
+365	A Story of Children and Film	n/a	$12,943	4/4
+366	Violette	n/a	$12,751	10/3
+367	Grzeli nateli dgeebi (In Bloom)	n/a	$12,499	5/2
+368	Tom à la ferme	n/a	$12,322	4/4
+369	Chambaili	n/a	$12,296	3/21
+370	Plot for Peace	n/a	$11,900	3/14
+371	The Hooligan Factory	n/a	$11,060	6/9
+372	Still the Enemy Within	n/a	$10,507	10/3
+373	Blackwood (2014)	n/a	$9,985	8/1
+374	Flores Raras (Reaching for the Moon)	n/a	$8,730	4/18
+375	Gold (2014)	n/a	$8,729	10/10
+376	Yaan (2014)	n/a	$8,403	10/3
+377	Unforgiven (2013)	WB	$8,001	2/28
+378	Journal de France	n/a	$7,836	1/31
+379	Lama Shoftak	n/a	$7,365	6/6
+380	Suzanne	n/a	$7,362	3/14
+381	Night Train to Lisbon	n/a	$7,327	10/24
+382	Supermensch: The Legend of Shep Gordon	n/a	$7,001	7/18
+383	Au bout du conte	n/a	$6,984	6/27
+384	Beyond the Edge	n/a	$6,852	5/23
+385	Goltzius and the Pelican Company	n/a	$5,797	7/11
+386	Heli	n/a	$5,465	5/23
+387	Creature (2014)	n/a	$5,352	9/12
+388	Life Itself	n/a	$5,191	11/14
+389	Miss Violence	n/a	$4,505	6/20
+390	Third Person	n/a	$3,595	11/14
+391	Salala Mobiles	n/a	$3,196	1/31
+392	The Food Guide to Love	n/a	$2,194	6/13
+393	L'enlèvement de Michel Houellebecq	n/a	$1,928	9/19
+394	Barbecue	n/a	$1,873	9/19
+395	Yunus Emre Aºkin Sesi	n/a	$1,862	1/17
+396	Ironclad: Battle For Blood	WB	$1,477	3/14
+397	Afternoon Delight	n/a	$1,259	3/28
+398	Birlesen Gonuller	n/a	$586	11/14
+1	Despicable Me 2	UPI	$72,278,042	6/28
+2	The Hobbit: The Desolation of Smaug	WB	$70,275,514	12/13
+3	Frozen	Disney	$64,733,660	12/6
+4	Les Miserables (2012)	UPI	$63,201,221	1/11
+5	Iron Man 3	Disney	$57,074,453	4/25
+6	The Hunger Games: Catching Fire	n/a	$55,501,664	11/21
+7	Monsters University	Disney	$47,166,338	7/12
+8	Man of Steel	WB	$46,198,857	6/14
+9	Gravity	WB	$45,432,405	11/8
+10	The Croods	Fox	$43,146,580	3/22
+11	Star Trek Into Darkness	n/a	$39,356,029	5/9
+12	Fast & Furious 6	UPI	$38,277,406	5/17
+13	Wreck-It Ralph	Disney	$36,182,022	2/8
+14	Thor: The Dark World	Disney	$31,811,834	10/30
+15	The Hangover Part III	WB	$29,519,798	5/23
+16	Captain Phillips	n/a	$25,642,369	10/18
+17	Django Unchained	Sony	$24,893,462	1/18
+18	The Great Gatsby	WB	$23,925,733	5/16
+19	Anchorman 2: The Legend Continues	n/a	$23,475,178	12/18
+20	Oz the Great and Powerful	Disney	$23,391,077	3/8
+21	American Hustle	n/a	$22,518,549	12/20
+22	World War Z	n/a	$22,009,608	6/21
+23	The Wolverine	Fox	$21,087,118	7/26
+24	Epic	Fox	$20,981,796	5/22
+25	The Impossible	E1	$20,705,247	1/4
+26	Cloudy with a Chance of Meatballs 2	n/a	$20,100,028	10/25
+27	Turbo	Fox	$19,076,286	10/18
+28	The Smurfs 2	n/a	$18,884,203	7/31
+29	Philomena	Fox	$18,474,238	11/1
+30	Now You See Me	n/a	$16,823,365	7/3
+31	A Good Day to Die Hard	Fox	$16,564,201	2/14
+32	Oblivion	UPI	$16,281,137	4/10
+33	The Conjuring	WB	$16,201,474	8/2
+34	Rush (2013)	n/a	$16,131,221	9/13
+35	Elysium	n/a	$14,040,874	8/21
+36	Planes	Disney	$14,035,447	8/16
+37	Grown Ups 2	n/a	$13,566,641	8/9
+38	We're the Millers	WB	$13,433,112	8/23
+39	The World's End	UPI	$13,354,358	7/19
+40	Lincoln	Fox	$13,264,838	1/25
+41	Pacific Rim	WB	$12,785,909	7/12
+42	Quartet	Momentum	$12,406,069	1/4
+43	One Direction: This is Us	n/a	$12,367,162	8/29
+44	About Time	UPI	$12,098,359	9/4
+45	Prisoners	n/a	$11,696,672	9/27
+46	Jack the Giant Slayer	WB	$11,611,710	3/22
+47	Insidious Chapter 2	n/a	$11,556,462	9/13
+48	G.I. Joe: Retaliation	n/a	$11,544,884	3/27
+49	Percy Jackson: Sea of Monsters	Fox	$11,375,595	8/9
+50	The Heat	Fox	$11,222,329	7/31
+51	The Secret Life of Walter Mitty	Fox	$10,940,932	12/26
+52	Jackass Presents: Bad Grandpa	n/a	$10,493,198	10/23
+53	Walking with Dinosaurs	Fox	$9,876,065	12/20
+54	After Earth	n/a	$9,737,192	6/7
+55	Alan Partridge: The Movie	n/a	$9,573,673	8/9
+56	Olympus Has Fallen	n/a	$9,537,868	4/17
+57	I Give It a Year	Studio Canal	$9,454,026	2/8
+58	Kick-Ass 2	UPI	$8,527,780	8/14
+59	Blue Jasmine	WB	$8,367,912	9/27
+60	Mama	UPI	$8,331,347	2/22
+61	Gangster Squad	WB	$8,209,350	1/11
+62	Side Effects (2013)	n/a	$7,595,556	3/8
+63	Flight	PPI	$7,535,112	2/1
+64	Identity Thief	UPI	$7,462,409	3/22
+65	Sunshine on Leith	n/a	$7,268,764	10/4
+66	The Lone Ranger	Disney	$7,109,260	8/7
+67	Saving Mr. Banks	Disney	$7,101,128	11/29
+68	White House Down	n/a	$7,066,280	9/13
+69	Trance	Fox	$7,011,363	3/27
+70	2 Guns	n/a	$6,903,295	8/16
+71	Lee Daniels' The Butler	n/a	$6,804,034	11/15
+72	This is the End	n/a	$6,270,430	6/28
+73	Filth	n/a	$6,231,007	9/27
+74	Zero Dark Thirty	UPI	$5,745,075	1/25
+75	Hansel and Gretel: Witch Hunters	n/a	$5,384,007	2/27
+76	The Host (2013)	n/a	$5,372,492	3/29
+77	The Purge	UPI	$5,333,028	5/31
+78	The Internship	Fox	$5,331,311	7/3
+79	47 Ronin	UPI	$5,282,209	12/26
+80	The Place Beyond the Pines	n/a	$5,266,240	4/12
+81	Behind the Candelabra	n/a	$5,253,380	6/7
+82	Evil Dead (2013)	n/a	$5,252,030	4/18
+83	Justin and the Knights of Valour	n/a	$4,883,095	9/13
+84	Ender's Game	n/a	$4,790,708	10/25
+85	Escape Plan	n/a	$4,524,887	10/18
+86	Riddick	n/a	$4,476,967	9/4
+87	Dhoom 3	n/a	$4,446,998	12/20
+88	Red 2	n/a	$4,398,563	8/2
+89	Runner Runner	Fox	$4,393,445	9/27
+90	Free Birds	n/a	$4,380,164	11/29
+91	This Is 40	UPI	$4,291,296	2/14
+92	Warm Bodies	E1	$4,250,343	2/8
+93	The Harry Hill Movie	n/a	$4,107,208	12/20
+94	The Mortal Instruments: City of Bones	n/a	$4,045,193	8/21
+95	One Chance	n/a	$3,892,895	10/25
+96	Scary Movie 5	n/a	$3,824,691	4/12
+97	Beautiful Creatures (2013)	n/a	$3,760,105	2/13
+98	Pain and Gain	n/a	$3,759,641	8/30
+99	21 and Over	n/a	$3,699,398	5/3
+100	Safe Haven	n/a	$3,567,381	3/1
+101	All Stars (2013)	n/a	$3,494,791	5/3
+102	Monsters, Inc. (in 3D)	Disney	$3,449,130	1/18
+103	Chennai Express	n/a	$3,380,074	8/9
+104	Dark Skies	n/a	$3,262,258	4/3
+105	Texas Chainsaw 3D	Lions Gate	$3,125,247	1/11
+106	Diana	n/a	$3,035,442	9/20
+107	The Counselor	Fox	$3,027,450	11/15
+108	Doctor Who: Day Of The Doctor	n/a	$2,986,297	11/22
+109	Movie 43	Momentum	$2,942,128	1/25
+110	Unfinished Song	n/a	$2,899,297	2/22
+111	Carrie (2013)	n/a	$2,893,937	11/29
+112	Moshi Monsters: The Movie	UPI	$2,807,041	12/20
+113	Parker	n/a	$2,616,679	3/8
+114	Cloud Atlas	WB	$2,524,295	2/22
+115	Sammy's Adventures 2	WB	$2,519,734	2/15
+116	The Way, Way Back	Fox	$2,405,782	8/28
+117	Hitchcock	Fox	$2,392,662	2/8
+118	R.I.P.D.	UPI	$2,244,840	9/20
+119	Le Weekend	n/a	$2,243,316	10/11
+120	Arbitrage	n/a	$2,155,376	3/1
+121	The Big Wedding	n/a	$1,981,441	5/29
+122	Only God Forgives	n/a	$1,888,222	8/2
+123	Finding Nemo (in 3D)	Disney	$1,873,148	3/29
+124	The Call	WB	$1,845,743	9/20
+125	Homefront	n/a	$1,841,216	12/6
+126	You're Next	n/a	$1,828,877	8/28
+127	The Family (2013)	n/a	$1,793,788	11/22
+128	Broken City	n/a	$1,741,726	3/1
+129	Royal Shakespeare Company: Richard II	n/a	$1,723,097	11/8
+130	Yeh Jawaani Hai Deewani	n/a	$1,649,352	5/31
+131	Welcome to the Punch	n/a	$1,647,029	3/15
+132	The Odd Life of Timothy Green	Disney	$1,644,431	4/5
+133	The Fifth Estate	n/a	$1,617,475	10/11
+134	La grande bellezza (The Great Beauty)	n/a	$1,516,117	9/6
+135	Ram-Leela	n/a	$1,503,029	11/15
+136	The Guilt Trip	n/a	$1,500,680	3/8
+137	The Last Stand	Lions Gate	$1,493,147	1/25
+138	Race 2	UTV	$1,412,528	1/25
+139	Spring Breakers	n/a	$1,336,958	4/5
+140	Stoker	Fox	$1,331,944	3/1
+141	Den skaldede frisør (Love Is All You Need)	n/a	$1,329,936	4/19
+142	Krrish 3	n/a	$1,325,600	11/1
+143	Mud	n/a	$1,307,110	5/10
+144	Don Jon	WB	$1,296,985	11/15
+145	Bullet to the Head	E1	$1,294,004	2/1
+146	I'm So Excited	Fox	$1,286,199	5/3
+147	Dans la maison (In the House)	n/a	$1,268,772	3/29
+148	All Is Lost	UPI	$1,259,533	12/26
+149	Before Midnight	n/a	$1,241,899	6/21
+150	Playing for Keeps	Lions Gate	$1,162,000	1/4
+151	Frances Ha	n/a	$1,125,410	7/26
+152	Blue Is the Warmest Color	n/a	$1,072,502	11/22
+153	Dead Man Down	n/a	$1,023,651	5/3
+154	Nebraska	n/a	$995,670	12/6
+155	The Bling Ring	n/a	$937,497	7/5
+156	The Incredible Burt Wonderstone	WB	$919,831	3/15
+157	The Iceman (2013)	n/a	$868,569	6/7
+158	Enough Said	Fox	$809,422	10/18
+159	Snitch	n/a	$792,416	6/21
+160	The Stone Roses: Made of Stone	n/a	$784,111	6/7
+161	Baggage Claim	Fox	$773,389	10/11
+162	Thanks for Sharing	n/a	$768,175	10/4
+163	A Late Quartet	n/a	$758,076	4/5
+164	How I Live Now	n/a	$746,312	10/4
+165	The Best Man Holiday	UPI	$731,738	11/29
+166	The Look of Love	n/a	$710,619	4/26
+167	Red Dawn (2012)	n/a	$679,139	3/15
+168	Jurassic Park (3D)	UPI	$633,512	8/23
+169	Besharam	n/a	$631,773	10/4
+170	The Wee Man	n/a	$609,607	1/18
+171	Summer in February	n/a	$603,779	6/14
+172	The Paperboy	n/a	$597,639	3/15
+173	Redemption (2013)	n/a	$595,736	6/28
+174	Wadjda	n/a	$558,785	7/19
+175	The Hardy Bucks Movie	UPI	$540,419	2/22
+176	What Maisie Knew	n/a	$538,676	8/23
+177	Believe	n/a	$527,591	12/27
+178	Hyde Park on Hudson	UPI	$523,332	2/1
+179	Machete Kills	n/a	$506,917	10/11
+180	Populaire	n/a	$506,330	5/31
+181	The Frozen Ground	n/a	$501,238	7/19
+182	Stolen (2012)	n/a	$490,395	3/20
+183	Boss	n/a	$488,565	10/18
+184	Much Ado About Nothing (2013)	n/a	$471,546	6/14
+185	Vishwaroopam	Ayngaran	$465,169	1/25
+186	Good Vibrations	n/a	$453,974	3/29
+187	The Selfish Giant	n/a	$450,086	10/25
+188	No (Chile - 2012)	Network	$447,048	2/8
+189	Parkland	n/a	$443,897	11/22
+190	Romeo and Juliet (2013)	n/a	$430,786	10/11
+191	The Last Exorcism Part II	n/a	$406,934	6/7
+192	Bhaag Milkha Bhaag	n/a	$400,862	7/12
+193	Sadda Haq	n/a	$397,535	4/5
+194	A Haunted House	n/a	$396,265	6/21
+195	Lore	n/a	$391,439	2/22
+196	Byzantium	n/a	$382,833	5/31
+197	The Sessions	Fox	$374,044	1/18
+198	Special Chabbis	Tip Top	$373,624	2/8
+199	Robot & Frank	n/a	$369,669	3/8
+200	Thalaivaa	n/a	$367,197	8/9
+201	Satyagraha	n/a	$362,283	8/30
+202	The Spirit of '45	n/a	$349,132	3/15
+203	To The Wonder	n/a	$323,156	2/22
+204	Himmatwala	n/a	$314,893	3/29
+205	Oldboy (2013)	UPI	$314,468	12/6
+206	Gori Tere Pyaar Mein	n/a	$312,453	11/22
+207	Lovelace	n/a	$307,346	8/23
+208	Once Upon a Time in Mumbai Dobaara	n/a	$302,019	3/16
+209	Yamla Pagla Deewana 2	n/a	$299,814	6/7
+210	Grand Masti	n/a	$298,763	9/13
+211	Arrambam	n/a	$296,764	11/1
+212	Metallica Through the Never	n/a	$295,007	10/4
+213	Singam 2	n/a	$289,851	7/5
+214	Jatt & Juliet 2	n/a	$285,541	6/28
+215	Kai Po Che	n/a	$282,248	2/22
+216	Matru Ki Bijlee Ka Mandola	Fox	$270,843	1/11
+217	Compliance	n/a	$265,193	3/22
+218	Girl Most Likely	n/a	$264,134	9/27
+219	Shootout at Wadala	n/a	$250,591	5/3
+220	Black Nativity	Fox	$245,894	12/6
+221	The East	Fox	$233,165	6/28
+222	Phata Poster Nikla Hero	n/a	$230,104	9/20
+223	R... Rajkumar	n/a	$226,929	12/6
+224	Raanjhana	n/a	$225,712	6/21
+225	Bullett Raja	Fox	$224,683	11/29
+226	Kapringen (A Hijacking)	n/a	$224,073	5/10
+227	Walesa. Czlowiek z nadziei	n/a	$223,798	10/18
+228	Dom Hemingway	n/a	$221,449	11/15
+229	Jeune & jolie (Young and Beautiful)	n/a	$215,403	11/29
+230	Ghanchakkar	n/a	$214,779	6/28
+231	Thomas & Friends: King of the Railway	n/a	$212,345	8/23
+232	Broken (2012)	n/a	$211,794	3/8
+233	Blackfish	n/a	$203,916	7/26
+234	Chimpanzee	Disney	$197,793	5/3
+235	Promised Land (2012)	UPI	$195,716	4/19
+236	Ain't Them Bodies Saints	n/a	$192,834	9/6
+237	Thérèse Desqueyroux	n/a	$184,403	6/7
+238	A Belfast Story	n/a	$181,108	9/20
+239	Cirque Du Soleil: Worlds Away	PPI	$180,992	2/1
+240	Raja Rani	n/a	$180,148	9/27
+241	Kill Your Darlings	n/a	$178,287	12/6
+242	Shuddh Desi Romance	n/a	$173,653	9/6
+243	Lootera	n/a	$172,393	7/5
+244	Lemale et ha'halal (Fill the Void)	n/a	$167,316	12/13
+245	The Haunting in Connecticut 2: Ghosts of Georgia	n/a	$163,966	10/31
+246	The Act of Killing	n/a	$163,777	6/28
+247	The Reluctant Fundamentalist	n/a	$160,634	5/10
+248	The Reef 2: High Tide	n/a	$158,097	10/25
+249	The Gatekeepers	n/a	$157,889	4/12
+250	Bha Ji in Problem	n/a	$157,742	11/15
+251	Spike Island	n/a	$157,036	6/21
+252	The Moth Diaries	n/a	$156,153	5/24
+253	Hannah Arendt	n/a	$153,612	9/27
+254	Chashme Baddoor	n/a	$151,822	4/5
+255	Bernie	n/a	$146,730	4/26
+256	Kokuriko-zaka kara	n/a	$144,555	8/2
+257	Breathe In	n/a	$143,084	7/19
+258	Dügün dernek	n/a	$139,493	12/6
+259	Hükümet kadin 2	n/a	$138,726	11/8
+260	Doctor Zhivago (2015 re-issue)	BFI	$138,448	12/11
+261	Kiseki (I Wish)	n/a	$136,418	2/8
+262	Lucky DI Unlucky Story	n/a	$132,618	4/26
+263	Wu Xia (Dragon)	n/a	$130,892	5/3
+264	Black Rock	n/a	$130,106	6/21
+265	McCullin	Art. Eye	$129,365	1/4
+266	Citadel	n/a	$128,509	6/21
+267	Day of the Flowers	n/a	$126,223	11/29
+268	Papadopoulos & Sons	n/a	$124,791	3/29
+269	Renoir	n/a	$124,482	6/28
+270	Go Goa Gone	n/a	$120,994	5/10
+271	Singh Saab The Great	n/a	$120,858	11/29
+272	In a World	n/a	$120,292	9/13
+273	Stand Up Guys	n/a	$119,824	6/28
+274	Maniac	n/a	$117,911	3/15
+275	Todos tenemos un plan (Everybody Has a Plan)	n/a	$114,878	5/31
+276	Après mai (Something in the Air)	n/a	$110,870	5/24
+277	Jadoo	Fox	$110,073	9/6
+278	Admission	UPI	$104,917	6/14
+279	Stuck in Love	n/a	$104,128	6/14
+280	Pilgrim Hill	n/a	$103,519	4/12
+281	Life's a Breeze	n/a	$99,668	7/19
+282	Vulture (2013)	n/a	$96,985	1/25
+283	Cherchez Hortense	n/a	$96,800	8/9
+284	Blancanieves	n/a	$96,173	7/12
+285	Deadfall (2012)	WB	$95,401	5/10
+286	Celal ile Ceren	Kinostar	$94,615	1/18
+287	Beware of Mr. Baker	n/a	$93,647	5/17
+288	Gloria	n/a	$93,427	11/1
+289	Hükümet kadin	n/a	$92,741	2/8
+290	Ek Thi Daayan	n/a	$89,689	4/19
+291	The Pervert's Guide to Ideology	n/a	$89,271	10/4
+292	We Steal Secrets: The Story of Wikileaks	UPI	$87,277	7/12
+293	Upstream Color	n/a	$83,683	8/30
+294	Stories We Tell	n/a	$82,808	6/28
+295	Uklad zamkniety	n/a	$82,518	4/5
+296	Soshite chichi ni naru (Like Father, Like Son)	n/a	$81,441	10/18
+297	Getaway (2013)	WB	$80,818	12/6
+298	Best of Luck	n/a	$78,921	7/26
+299	Battle of the Year	n/a	$78,274	11/15
+300	Chasing Mavericks	n/a	$76,066	7/5
+301	Snabba Cash (Easy Money)	n/a	$74,788	7/19
+302	The Eye of the Storm	n/a	$74,758	5/3
+303	Kevin Hart: Let Me Explain	n/a	$73,648	8/30
+304	Aurangzeb	n/a	$71,045	5/17
+305	All Things to All Men	n/a	$68,859	4/5
+306	Dupa dealuri (Beyond the Hills)	n/a	$67,614	3/15
+307	In Fear	n/a	$66,624	11/15
+308	Jatt Boys Putt Jattan De	n/a	$66,448	8/23
+309	Closed Circuit	UPI	$64,762	10/25
+310	A Field in England	n/a	$64,349	7/5
+311	Benim dünyam	n/a	$63,683	11/1
+312	Museum Hours	n/a	$61,934	9/6
+313	I, Me Aur Main	n/a	$61,863	3/1
+314	Drinking Buddies	n/a	$58,573	11/1
+315	D-Day	n/a	$56,327	7/19
+316	Fukrey	n/a	$55,052	6/14
+317	Settai	n/a	$54,323	4/5
+318	Jatts in Golmaal	n/a	$54,072	5/24
+319	Bullhead	Soda	$53,883	2/1
+320	Nos enfants nous accuseront	n/a	$53,190	5/10
+321	All in All Azhagu Raja	n/a	$53,154	11/1
+322	Fer Mamla Gadbad Gadbad	n/a	$53,106	7/12
+323	The Class of 92	n/a	$50,410	11/29
+324	Liar's Autobiography	Trinity	$50,019	2/8
+325	Kelebegin rüyasi (The Dream of a Butterfly)	n/a	$49,191	2/22
+326	ABCD: American-Born Confused Desi	n/a	$48,711	6/28
+327	Daddy Cool Munde Fool	n/a	$48,558	4/12
+328	Short Term 12	n/a	$47,749	11/1
+329	Call Girl (2012)	n/a	$47,083	8/16
+330	Saving Santa	n/a	$45,480	11/29
+331	Austenland	n/a	$42,898	9/27
+332	L' Artiste Et Son Modele (Artist And His Model)	n/a	$41,704	9/13
+333	Like Someone in Love	n/a	$41,692	6/21
+334	Pattathu Yaanai	n/a	$41,217	7/26
+335	Naughty Jatts	n/a	$40,938	8/2
+336	Jiro Dreams of Sushi	Soda	$40,660	1/11
+337	Tu Mera 22 Main Tera 22	n/a	$40,619	1/25
+338	The Stuart Hall Project	n/a	$38,959	9/6
+339	Maryan	n/a	$38,796	7/19
+340	Kadal	n/a	$38,615	2/1
+341	Metro Manila	n/a	$36,956	9/20
+342	King of the Travellers	n/a	$36,590	4/19
+343	Theeya Velai Seiyyanum Kumaru	n/a	$36,277	6/14
+344	Prince Avalanche	n/a	$35,355	10/18
+345	The Summit	n/a	$34,101	11/22
+346	Rangeelay	n/a	$32,369	5/17
+347	Table No. 21	Eros	$30,901	1/4
+348	Murder 3	Fox	$30,881	2/14
+349	Irandam Ulagam	n/a	$30,868	11/22
+350	Bachelorette	n/a	$30,314	8/16
+351	Fire With Fire	WB	$28,874	3/8
+352	Dirty Wars	n/a	$26,260	11/29
+353	Naiyaandi	n/a	$26,126	10/11
+354	Chinatown (2013 re-release)	BFI	$25,935	1/4
+355	Elefante blanco	n/a	$25,920	4/26
+356	Computer Chess	n/a	$25,811	11/22
+357	Su ve Ates (Water and Fire)	n/a	$25,327	11/22
+358	Reality (2012)	n/a	$25,237	3/22
+359	Foxfire (2013)	n/a	$24,286	8/9
+360	The Kings of Summer	n/a	$24,189	8/23
+361	Suspects in Love	n/a	$23,482	2/8
+362	Djúpið (The Deep)	n/a	$23,352	7/12
+363	La Trilogie Marseillaise: Marius	n/a	$22,905	11/29
+364	Silence	n/a	$21,995	8/9
+365	The To-Do List	n/a	$21,633	10/4
+366	Kuma	n/a	$21,100	8/16
+367	V/H/S	Momentum	$20,937	1/18
+368	Daivathinte Swantham Cleetus	n/a	$20,305	9/27
+369	David (2013)	Ayngaran	$17,828	2/1
+370	Ishkq in Paris	n/a	$16,726	5/24
+371	Im Nebel (In the Fog)	n/a	$16,404	4/26
+372	Philips and the Monkey Pen	n/a	$16,332	12/6
+373	Bajatey Raho	n/a	$13,688	7/26
+374	Village at the End of the World	n/a	$13,471	5/10
+375	Paradies: Liebe	n/a	$13,463	6/14
+376	Muscle Shoals	n/a	$13,174	10/25
+377	42	WB	$13,091	9/13
+378	Post Tenebras Lux	n/a	$13,070	3/22
+379	The Christmas Candle	n/a	$12,628	12/13
+380	Gimme the Loot	n/a	$12,341	5/3
+381	Vanakkam Chennai	n/a	$11,594	10/11
+382	La religieuse (The Nun)	n/a	$11,438	11/1
+383	It's a Lot	n/a	$11,211	10/25
+384	Samar	Ayngaran	$11,132	1/18
+385	Cesare deve morire	n/a	$10,896	3/1
+386	Mademoiselle C	n/a	$10,058	9/20
+387	I Am Nasrine	n/a	$9,937	6/14
+388	Emperor	n/a	$9,799	10/4
+389	Ivan Veramaathiri	n/a	$9,562	12/13
+390	Io sono Li	n/a	$9,099	6/21
+391	In the Name Of	n/a	$8,500	9/27
+392	Rurouni Kenshin	WB	$8,389	10/4
+393	Byc jak Kazimierz Deyna	n/a	$8,388	3/8
+394	Side By Side	n/a	$8,229	2/15
+395	Vendetta	n/a	$8,197	11/22
+396	Cold Comes the Night	n/a	$7,761	9/20
+397	Benjamin Britten: Peace and Conflict	n/a	$7,371	5/24
+398	Paris Manhattan	n/a	$7,260	7/5
+399	L'ordre et la morale (Rebellion)	n/a	$7,252	4/19
+400	Hors Satan	New Wave	$7,226	1/4
+401	Neighboring Sounds	n/a	$6,558	3/22
+402	Io e te (Me and You)	n/a	$6,483	4/19
+403	Fanny	n/a	$6,257	11/29
+404	Mumbai Mirror	Tip Top	$5,988	1/18
+405	Thira	n/a	$5,973	11/22
+406	Kamki (Flu)	n/a	$5,934	11/22
+407	Antiviral	Momentum	$5,825	2/1
+408	Mirchi	n/a	$5,676	2/8
+409	For Ellen	n/a	$5,427	2/15
+410	The Patience Stone	n/a	$5,137	12/6
+411	Tamam miyiz?	n/a	$5,012	12/13
+412	Tajemnica Westerplatte	n/a	$4,923	2/15
+413	Aftershock	n/a	$4,870	8/16
+414	The Broken Circle Breakdown	n/a	$4,486	10/18
+415	Geograf globus propil	n/a	$4,450	11/8
+416	Trap for Cinderella	n/a	$4,298	7/12
+417	For Those In Peril	n/a	$3,886	10/4
+418	Selam	n/a	$3,862	5/3
+419	Paradies: Hoffnung	n/a	$3,816	8/2
+420	Sajjan: The Real Friend	n/a	$3,350	2/8
+421	The Moo Man	n/a	$3,026	7/12
+422	The Comedian	n/a	$2,921	5/31
+423	Paradies: Glaube (Paradise: Faith)	n/a	$2,656	7/5
+424	Ballroom Dancer	Dogwoof	$2,442	1/18
+425	Robosapien	Momentum	$2,347	5/3
+426	The Lebanese Rocket Society	n/a	$1,997	10/18
+427	Die Wand (The Wall)	n/a	$1,852	7/5
+428	Kovasikajuttu (The Punk Syndrome)	November	$1,824	2/1
+429	Magnifica presenza	n/a	$1,738	10/25
+430	Future My Love	n/a	$1,621	11/15
+431	May I Kill U?	n/a	$1,514	1/11
+432	Babamin sesi	n/a	$1,473	6/7
+433	The Words	Disney	$1,165	4/19
+434	Won't Back Down	Disney	$1,163	1/25
+435	Lal gece	n/a	$1,101	6/28
+436	Karaoglan	n/a	$1,010	1/25
+437	Midnight Son	n/a	$973	1/11
+438	Hasta la Vista!	n/a	$944	6/7
+439	The Bay	n/a	$862	3/1
+440	King of Swine	n/a	$727	1/25
+441	Vehicle 19	n/a	$367	5/10

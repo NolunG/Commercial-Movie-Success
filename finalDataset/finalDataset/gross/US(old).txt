@@ -1,0 +1,698 @@
+1	Finding Dory	BV	$486,295,561	4,305	$135,060,273	4,305	6/17	12/8
+2	Captain America: Civil War	BV	$408,084,349	4,226	$179,139,142	4,226	5/6	9/22
+3	The Secret Life of Pets	Uni.	$368,166,780	4,381	$104,352,905	4,370	7/8	-
+4	The Jungle Book (2016)	BV	$364,001,123	4,144	$103,261,464	4,028	4/15	9/29
+5	Deadpool	Fox	$363,070,709	3,856	$132,434,639	3,558	2/12	6/16
+6	Zootopia	BV	$341,268,248	3,959	$75,063,401	3,827	3/4	8/4
+7	Batman v Superman: Dawn of Justice	WB	$330,360,194	4,256	$166,007,347	4,242	3/25	6/16
+8	Suicide Squad	WB	$325,100,054	4,255	$133,682,248	4,255	8/5	11/10
+9	Doctor Strange	BV	$224,050,027	3,882	$85,058,311	3,882	11/4	-
+10	Fantastic Beasts and Where To Find Them	WB	$202,651,095	4,144	$74,403,387	4,144	11/18	-
+11	Jason Bourne	Uni.	$162,192,920	4,039	$59,215,365	4,026	7/29	10/27
+12	Star Trek Beyond	Par.	$158,848,340	3,928	$59,253,211	3,928	7/22	10/20
+13	X-Men: Apocalypse	Fox	$155,442,489	4,153	$65,769,562	4,150	5/27	7/28
+14	Moana	BV	$150,194,745	4,157	$56,631,401	3,875	11/23	-
+15	Trolls	Fox	$146,055,937	4,066	$46,581,142	4,060	11/4	-
+16	Kung Fu Panda 3	Fox	$143,528,619	3,987	$41,282,042	3,955	1/29	7/21
+17	Ghostbusters (2016)	Sony	$128,350,574	3,963	$46,018,755	3,963	7/15	11/10
+18	Central Intelligence	WB (NL)	$127,440,871	3,508	$35,535,250	3,508	6/17	9/1
+19	The Legend of Tarzan	WB	$126,643,061	3,591	$38,527,856	3,561	7/1	9/15
+20	Sully	WB	$124,789,011	3,955	$35,028,301	3,525	9/9	-
+21	Bad Moms	STX	$113,257,297	3,215	$23,817,340	3,215	7/29	10/27
+22	The Angry Birds Movie	Sony	$107,509,366	3,932	$38,155,177	3,932	5/20	9/15
+23	Independence Day: Resurgence	Fox	$103,144,286	4,130	$41,039,944	4,130	6/24	9/15
+24	The Conjuring 2	WB (NL)	$102,470,008	3,356	$40,406,314	3,343	6/10	8/25
+25	Sausage Party	Sony	$97,670,358	3,135	$34,263,534	3,103	8/12	11/3
+26	The Magnificent Seven (2016)	Sony	$93,361,211	3,696	$34,703,397	3,674	9/23	-
+27	Ride Along 2	Uni.	$90,862,685	3,192	$35,243,095	3,175	1/15	4/7
+28	Don't Breathe	SGem	$89,199,147	3,384	$26,411,706	3,051	8/26	-
+29	Miss Peregrine's Home for Peculiar Children	Fox	$86,602,353	3,835	$28,871,140	3,522	9/30	-
+30	The Accountant	WB	$85,164,453	3,402	$24,710,273	3,332	10/14	-
+31	Arrival	Par.	$83,693,367	3,115	$24,074,047	2,317	11/11	-
+32	Teenage Mutant Ninja Turtles: Out of the Shadows	Par.	$82,051,601	4,071	$35,316,382	4,071	6/3	9/8
+33	The Purge: Election Year	Uni.	$79,042,440	2,821	$31,515,110	2,796	7/1	8/18
+34	Alice Through the Looking Glass	BV	$77,041,381	3,763	$26,858,726	3,763	5/27	9/1
+35	Pete's Dragon (2016)	BV	$76,233,151	3,702	$21,514,095	3,702	8/12	12/15
+36	The Girl on the Train (2016)	Uni.	$75,270,065	3,241	$24,536,265	3,144	10/7	-
+37	Boo! A Madea Halloween	LGF	$73,083,198	2,299	$28,501,448	2,260	10/21	-
+38	10 Cloverfield Lane	Par.	$72,082,998	3,427	$24,727,437	3,391	3/11	6/2
+39	Storks	WB	$71,741,218	3,922	$21,311,407	3,922	9/23	-
+40	Lights Out	WB (NL)	$67,268,835	2,835	$21,688,103	2,818	7/22	9/29
+41	The Divergent Series: Allegiant	LG/S	$66,184,051	3,740	$29,027,348	3,740	3/18	6/2
+42	Now You See Me 2	LG/S	$65,075,540	3,232	$22,383,146	3,232	6/10	8/25
+43	Ice Age: Collision Course	Fox	$64,063,008	3,997	$21,373,064	3,992	7/22	11/3
+44	The Boss	Uni.	$63,077,560	3,495	$23,586,645	3,480	4/8	6/16
+45	London Has Fallen	Focus	$62,524,260	3,492	$21,635,601	3,490	3/4	6/2
+46	Hacksaw Ridge	LGF	$61,898,104	2,971	$15,190,758	2,886	11/4	-
+47	Miracles from Heaven	TriS	$61,705,123	3,155	$14,812,393	3,047	3/16	7/21
+48	Deepwater Horizon	LG/S	$61,433,527	3,403	$20,223,544	3,259	9/30	12/15
+49	My Big Fat Greek Wedding 2	Uni.	$59,689,605	3,179	$17,861,950	3,133	3/25	5/26
+50	Jack Reacher: Never Go Back	Par.	$58,163,077	3,780	$22,872,490	3,780	10/21	-
+51	Me Before You	WB (NL)	$56,245,075	2,762	$18,723,269	2,704	6/3	8/18
+52	The BFG	BV	$55,483,770	3,392	$18,775,350	3,357	7/1	10/13
+53	Neighbors 2: Sorority Rising	Uni.	$55,340,730	3,416	$21,760,405	3,384	5/20	7/14
+54	The Shallows	Sony	$55,124,043	2,962	$16,800,868	2,962	6/24	9/29
+55	Barbershop: The Next Cut	WB (NL)	$54,030,051	2,676	$20,242,415	2,661	4/15	7/14
+56	13 Hours: The Secret Soldiers of Benghazi	Par.	$52,853,219	2,917	$16,194,738	2,389	1/15	3/24
+57	Kubo and the Two Strings	Focus	$48,023,088	3,279	$12,608,372	3,260	8/19	12/1
+58	The Huntsman: Winter's War	Uni.	$48,003,015	3,802	$19,445,035	3,791	4/22	6/16
+59	Warcraft	Uni.	$47,225,655	3,406	$24,166,110	3,400	6/10	7/28
+60	How to Be Single	WB (NL)	$46,843,513	3,357	$17,878,911	3,343	2/12	4/14
+61	Mike and Dave Need Wedding Dates	Fox	$46,009,673	3,008	$16,628,170	2,982	7/8	10/13
+62	War Dogs	WB	$43,034,523	3,258	$14,685,305	3,258	8/19	10/20
+63	Money Monster	TriS	$41,012,075	3,104	$14,788,157	3,104	5/13	8/4
+64	Almost Christmas	Uni.	$40,599,930	2,379	$15,134,235	2,376	11/11	-
+65	Nerve	LGF	$38,583,626	2,538	$9,445,456	2,538	7/27	10/6
+66	Allied	Par.	$37,208,917	3,160	$12,701,743	3,160	11/23	-
+67	Risen	Sony	$36,880,033	2,915	$11,801,271	2,915	2/19	5/19
+68	The Nice Guys	WB	$36,261,763	2,865	$11,203,270	2,865	5/20	8/4
+69	The Boy (2016)	STX	$35,819,556	2,671	$10,778,392	2,671	1/22	3/31
+70	Dirty Grandpa	LGF	$35,593,113	2,912	$11,111,875	2,912	1/22	3/17
+71	Ouija: Origin of Evil	Uni.	$34,992,970	3,168	$14,065,500	3,167	10/21	11/24
+72	The 5th Wave	Sony	$34,912,982	2,908	$10,326,356	2,908	1/22	5/22
+73	Inferno	Sony	$34,079,961	3,576	$14,860,425	3,576	10/28	-
+74	Mother's Day	ORF	$32,492,859	3,291	$8,369,184	3,035	4/29	6/16
+75	Gods of Egypt	LG/S	$31,153,464	3,117	$14,123,903	3,117	2/26	5/12
+76	Hail, Caesar!	Uni.	$30,080,225	2,248	$11,355,225	2,232	2/5	3/24
+77	When the Bough Breaks	SGem	$29,747,603	2,246	$14,202,323	2,246	9/9	11/17
+78	Zoolander 2	Par.	$28,848,693	3,418	$13,841,146	3,394	2/12	3/31
+79	The Finest Hours	BV	$27,569,558	3,143	$10,288,932	3,143	1/29	4/7
+80	Florence Foster Jenkins	Par.	$27,383,770	1,528	$6,601,313	1,528	8/12	10/27
+81	Hell or High Water	LGF	$27,007,844	1,505	$621,329	32	8/12	11/17
+82	The Forest	Focus	$26,594,261	2,509	$12,741,176	2,451	1/8	3/17
+83	Ben-Hur (2016)	Par.	$26,410,477	3,084	$11,203,815	3,084	8/19	10/6
+84	The Witch	A24	$25,138,705	2,204	$8,800,230	2,046	2/19	5/26
+85	Bridget Jones's Baby	Uni.	$24,139,805	2,930	$8,571,785	2,927	9/16	11/3
+86	Kevin Hart: What Now?	Uni.	$23,574,605	2,567	$11,767,210	2,567	10/14	11/24
+87	Whiskey Tango Foxtrot	Par.	$23,083,334	2,413	$7,450,275	2,374	3/4	4/28
+88	Office Christmas Party	Par.	$23,068,267	3,210	$16,890,204	3,210	12/9	-
+89	Snowden	ORF	$21,587,519	2,443	$8,000,058	2,443	9/16	11/17
+90	Mechanic: Resurrection	LG/S	$21,218,403	2,258	$7,456,525	2,258	8/26	10/27
+91	Free State of Jones	STX	$20,810,036	2,815	$7,572,206	2,815	6/24	7/28
+92	Blair Witch	LGF	$20,777,061	3,121	$9,576,057	3,121	9/16	10/27
+93	God's Not Dead 2	PFR	$20,774,575	2,419	$7,623,662	2,419	4/1	7/21
+94	Keanu	WB (NL)	$20,591,853	2,681	$9,453,224	2,658	4/29	6/30
+95	Middle School: The Worst Years of My Life	LGF	$20,007,149	2,822	$6,878,437	2,822	10/7	12/1
+96	Nine Lives (2016)	EC	$19,700,032	2,264	$6,249,915	2,264	8/5	10/27
+97	Race (2016)	Focus	$19,115,191	2,387	$7,353,922	2,369	2/19	4/21
+98	The Choice	LGF	$18,730,891	2,631	$6,050,443	2,631	2/5	3/31
+99	Eye in the Sky	BST	$18,704,595	1,089	$113,803	5	3/11	7/21
+100	Masterminds (2016)	Rela.	$17,368,022	3,042	$6,541,205	3,042	9/30	11/10
+101	Bad Santa 2	BG	$17,307,746	2,945	$6,176,680	2,920	11/23	-
+102	Norm of the North	LGF	$17,062,499	2,411	$6,844,137	2,411	1/15	3/17
+103	The Birth of a Nation	FoxS	$15,861,566	2,105	$7,004,254	2,105	10/7	12/8
+104	Eddie the Eagle	Fox	$15,789,389	2,044	$6,084,682	2,042	2/26	5/26
+105	The Infiltrator	BG	$15,436,808	1,601	$5,303,775	1,601	7/13	10/6
+106	Keeping Up with the Joneses	Fox	$14,870,140	3,022	$5,461,475	3,022	10/21	-
+107	Criminal (2016)	LG/S	$14,708,696	2,683	$5,767,278	2,683	4/15	5/26
+108	Hello, My Name is Doris	RAtt.	$14,444,999	979	$84,986	4	3/11	7/28
+109	The Edge of Seventeen	STX	$14,149,369	1,945	$4,754,215	1,945	11/18	-
+110	Love & Friendship	RAtt.	$14,016,568	826	$133,513	4	5/13	9/22
+111	Hillary's America: The Secret History of the Democratic Party	QF	$13,099,931	1,217	$74,814	3	7/15	10/13
+112	Triple 9	ORF	$12,639,297	2,205	$6,109,085	2,205	2/26	4/14
+113	The Light Between Oceans	BV	$12,545,979	1,500	$4,765,838	1,500	9/2	11/3
+114	Fifty Shades of Black	ORF	$11,686,940	2,075	$5,900,528	2,075	1/29	3/25
+115	No Manches Frida	LGF	$11,528,613	465	$3,676,235	362	9/2	11/3
+116	Cafe Society	LGF	$11,103,205	631	$359,289	5	7/15	10/6
+117	Moonlight (2016)	A24	$11,101,676	650	$402,075	4	10/21	-
+118	Pride and Prejudice and Zombies	SGem	$10,907,291	2,931	$5,324,240	2,931	2/5	2/28
+119	The Darkness	HTR	$10,753,574	1,769	$4,950,859	1,755	5/13	6/30
+120	Manchester by the Sea	RAtt.	$9,860,305	1,208	$256,498	4	11/18	-
+121	The Perfect Match	LGF	$9,669,521	925	$4,294,232	925	3/11	4/28
+122	Popstar: Never Stop Never Stopping	Uni.	$9,496,130	2,313	$4,698,715	2,311	6/3	6/23
+123	Hardcore Henry	STX	$9,252,038	3,015	$5,107,604	3,015	4/8	5/12
+124	Meet the Blacks	Free	$9,097,072	1,015	$4,055,940	1,015	4/1	6/21
+125	Ratchet & Clank	Focus	$8,821,329	2,895	$4,869,278	2,891	4/29	6/2
+126	Queen of Katwe	BV	$8,785,681	1,259	$304,933	52	9/23	-
+127	The Lobster (US Release)	A24	$8,700,374	560	$190,252	4	5/13	9/29
+128	The Wild Life (2016)	LG/S	$8,005,586	2,493	$3,342,696	2,493	9/9	10/13
+129	A Beautiful Planet	Imax	$7,813,994	155	$223,983	137	4/29	-
+130	Nocturnal Animals	Focus	$7,421,366	1,262	$492,648	37	11/18	-
+131	Loving	Focus	$6,894,242	572	$159,615	4	11/4	-
+132	The Brothers Grimsby	Sony	$6,874,837	2,235	$3,258,327	2,235	3/11	4/14
+133	Shut In	EC	$6,840,347	2,058	$3,613,567	2,058	11/11	-
+134	The Young Messiah	Focus	$6,469,813	1,769	$3,294,876	1,761	3/11	4/21
+135	Southside with You	RAtt.	$6,304,223	897	$2,868,403	813	8/26	11/3
+136	Sultan	Yash	$6,200,000	283	$2,371,100	282	7/6	7/21
+137	Captain Fantastic	BST	$5,879,736	550	$93,824	4	7/8	10/27
+138	Hunt for the Wilderpeople	Orch.	$5,205,468	200	$78,439	5	6/24	11/3
+139	Bleed for This	ORF	$5,083,906	1,549	$2,366,810	1,549	11/18	12/15
+140	Absolutely Fabulous: The Movie	FoxS	$4,761,241	355	$1,861,118	313	7/22	9/22
+141	Hands of Stone	Wein.	$4,712,792	2,011	$1,751,388	810	8/26	10/13
+142	Incarnate	HTR	$4,539,409	1,737	$2,534,884	1,737	12/2	-
+143	Don't Think Twice	TFA	$4,417,667	175	$92,835	1	7/22	-
+144	The Meddler	SPC	$4,267,218	464	$57,022	4	4/22	8/25
+145	Ae Dil Hai Mushkil	FIP	$4,264,983	302	$2,190,042	302	10/28	11/24
+146	A Hologram for the King	RAtt.	$4,212,494	523	$1,138,578	401	4/22	7/7
+147	Swiss Army Man	A24	$4,210,454	636	$105,453	3	6/24	9/29
+148	Denial	BST	$4,064,393	648	$93,728	5	9/30	-
+149	Morgan	Fox	$3,915,251	2,020	$2,012,709	2,020	9/2	10/6
+150	Kabali	CineGalaxy	$3,903,095	236	$1,977,716	236	7/21	-
+151	The Man Who Knew Infinity	IFC	$3,866,794	288	$80,325	6	4/29	8/4
+152	Where to Invade Next	Drft.	$3,827,261	308	$897,034	308	2/12	4/28
+153	Max Steel	ORF	$3,818,664	2,034	$2,182,216	2,034	10/14	11/3
+154	Batman: The Killing Joke	WB	$3,775,000	1,325	N/A	N/A	7/25	7/26
+155	Midnight Special	WB	$3,712,282	521	$190,012	5	3/18	5/26
+156	Rules Don't Apply	Fox	$3,642,724	2,386	$1,589,625	2,382	11/23	-
+157	Indignation	RAtt.	$3,401,155	317	$93,125	4	7/29	11/3
+158	Everybody Wants Some!!	Par.	$3,400,278	454	$312,355	19	3/30	5/19
+159	Maggie's Plan	SPC	$3,351,735	335	$63,308	5	5/20	9/29
+160	A Man Called Ove	MBox	$3,270,075	194	$54,608	9	9/30	-
+161	Sing Street	Wein.	$3,237,118	525	$63,573	5	4/15	7/28
+162	The Mermaid (Mei ren yu)	Sony	$3,232,685	106	$985,052	35	2/19	4/7
+163	Green Room	A24	$3,220,371	777	$87,984	3	4/15	7/14
+164	Our Kind of Traitor	RAtt.	$3,153,157	399	$984,698	373	7/1	9/15
+165	Compadres	PNT	$3,127,773	368	$1,397,434	368	4/22	5/26
+166	The Other Side of the Door	Fox	$3,000,342	585	$1,211,210	546	3/4	4/14
+167	Anthropoid	BST	$2,964,845	452	$1,233,519	452	8/12	9/22
+168	The Beatles: Eight Days a Week - The Touring Years	Abr.	$2,899,403	155	$785,336	85	9/15	-
+169	2016 Oscar Nominated Short Films	Shrts.	$2,816,816	260	$559,502	123	1/29	3/24
+170	Miss Sloane	EC	$2,739,636	1,648	$59,797	3	11/25	-
+171	Ip Man 3	WGUSA	$2,679,437	115	$784,839	103	1/22	2/28
+172	Miles Ahead	SPC	$2,610,896	527	$114,530	4	4/1	7/28
+173	Kapoor & Sons - Since 1921	FIP	$2,607,036	153	$986,992	143	3/18	4/14
+174	The Disappointments Room	Rela.	$2,423,468	1,554	$1,402,823	1,554	9/9	10/27
+175	Hillsong - Let Hope Rise	PFR	$2,394,386	816	$1,357,243	816	9/16	10/23
+176	Dear Zindagi	Relbig.	$2,376,479	156	$977,862	153	11/23	-
+177	A Aa	BSC	$2,313,043	115	$1,213,057	115	6/1	6/16
+178	Fan	Yash	$2,300,000	307	$1,382,871	307	4/15	4/21
+179	Train to Busan	WGUSA	$2,125,786	36	$284,776	27	7/22	-
+180	I'm Not Ashamed	PFR	$2,082,980	516	$927,161	505	10/21	12/1
+181	A Bigger Splash	FoxS	$2,024,099	378	$114,419	5	5/4	7/7
+182	The Dressmaker	BG	$2,020,516	174	$185,165	36	9/23	-
+183	Desierto	STX	$2,002,036	168	$514,282	73	10/14	11/17
+184	Greater	Ham	$2,000,093	340	$627,974	340	8/26	-
+185	Demolition	FoxS	$1,978,592	862	$1,100,042	854	4/8	4/21
+186	Shin Godzilla	FUN	$1,918,403	490	$458,342	34	10/11	11/10
+187	Purple Rain (2016 re-release)	WB	$1,868,075	87	N/A	N/A	4/23	4/27
+188	M.S. Dhoni: The Untold Story	FIP	$1,801,550	256	$1,108,650	256	9/30	10/20
+189	The Handmaiden	Magn.	$1,796,133	125	$92,129	5	10/21	-
+190	Busco Novio Para Mi Mujer	LGF	$1,741,889	357	$902,457	357	2/19	3/17
+191	Billy Lynn's Long Halftime Walk	TriS	$1,738,477	1,176	$114,129	2	11/11	-
+192	Harry Potter IMAX Marathon	WB	$1,729,226	330	$1,357,376	330	10/14	10/20
+193	Weiner	IFC	$1,676,108	88	$84,173	5	5/20	-
+194	I Saw the Light	SPC	$1,646,788	741	$45,471	5	3/25	6/9
+195	Equity	SPC	$1,605,463	255	$82,434	4	7/29	11/17
+196	Neerja	FIP	$1,585,687	121	$626,528	73	2/19	3/10
+197	The Eagle Huntress	SPC	$1,573,279	122	$52,574	4	11/2	-
+198	Jane Got a Gun	Wein.	$1,513,793	1,210	$835,572	1,210	1/29	2/25
+199	Priceless (2016)	RAtt.	$1,498,975	303	$707,021	303	10/14	-
+200	Genius	RAtt.	$1,361,045	152	$98,274	16	6/10	8/18
+201	The Little Prince	EOne	$1,339,152	163	$116,927	52	2/12	-
+202	The Neon Demon	BG	$1,333,124	783	$589,014	783	6/24	8/4
+203	Embrace of the Serpent	Osci.	$1,329,249	93	$50,955	3	2/17	6/23
+204	Housefull 3	Eros	$1,326,999	145	$683,620	145	6/3	6/23
+205	Mohenjo Daro	UTV	$1,264,339	246	$747,791	246	8/12	-
+206	La La Land	LG/S	$1,240,166	200	$881,104	5	12/9	-
+207	Lazer Team	Ampl.	$1,186,426	35	$108,586	35	1/27	2/11
+208	The Music of Strangers	Orch.	$1,176,781	82	$24,614	3	6/10	-
+209	Vaxxed: From Cover-Up to Catastrophe	Libre	$1,163,265	95	$28,339	1	4/1	-
+210	Dough	Men.	$1,148,304	55	$50,871	9	2/12	8/14
+211	Wazir	Relbig.	$1,124,045	111	$586,028	111	1/8	2/11
+212	Papa: Hemingway in Cuba	YFG	$1,115,615	325	$475,224	325	4/29	6/16
+213	The Insanity of God	LifeWay	$1,102,525	531	N/A	N/A	8/30	9/13
+214	Rustom	Zee	$1,087,419	133	$773,662	133	8/12	-
+215	The Innocents	MBox	$1,065,665	69	$30,896	3	7/1	-
+216	Certain Women	IFC	$1,056,847	138	$60,898	5	10/14	-
+217	Elvis & Nixon	BST	$1,055,287	381	$466,447	381	4/22	5/12
+218	Jackie	FoxS	$1,042,735	84	$278,715	5	12/2	-
+219	Operation Chromite	CJ	$1,023,348	114	$31,662	1	8/5	-
+220	The Hollars	SPC	$1,016,985	298	$38,210	4	8/26	-
+221	Baar Baar Dekho	Eros	$981,947	146	$612,363	146	9/9	-
+222	Dark Horse (2016)	SPC	$940,715	74	$13,838	3	5/6	-
+223	Gentleman	Gaatri	$897,876	126	$537,490	126	6/17	7/14
+224	Believe (2016)	Free	$861,707	638	$477,387	638	12/2	-
+225	Ki & Ka	Eros	$857,986	148	$539,521	148	4/1	4/14
+226	Premam	BSC	$828,278	112	$448,129	112	10/6	11/14
+227	Dishoom	Eros	$812,737	113	$442,299	113	7/29	8/18
+228	Operation Mekong	WGUSA	$800,012	29	$85,082	25	9/30	-
+229	The Wailing (Goksung)	WGUSA	$786,633	35	$77,892	2	5/20	-
+230	31	Saban	$779,820	538	N/A	N/A	8/26	-
+231	Chongqing Hot Pot	CL	$779,818	46	$201,960	20	4/1	4/26
+232	I Belonged to You	CL	$744,541	50	$311,738	50	9/30	11/10
+233	Saturday's Warrior	Purd.	$744,046	28	$96,041	9	4/1	10/20
+234	The Monkey King 2 in 3D	CL	$709,982	38	$166,391	38	2/5	4/7
+235	Little Men (2016)	Magn.	$702,537	61	$30,368	2	8/5	-
+236	Chaar Sahibzaade: Rise of Band Singh Bahadur	Eros	$700,723	103	$303,863	103	11/11	-
+237	Mr. Church	Free	$685,780	354	$338,551	354	9/16	10/31
+238	Born to be Blue (US Release)	IFC	$678,203	79	$46,184	3	3/25	6/9
+239	American Honey	A24	$663,246	135	$71,203	4	9/30	12/8
+240	Elle	SPC	$660,696	36	$50,934	2	11/11	-
+241	El Jeremias	Sony	$647,701	192	$314,109	192	10/21	11/17
+242	Remember (US Release)	A24	$637,555	60	$20,489	2	3/11	6/5
+243	Range 15	TUG	$621,738	260	$1,044	1	6/15	-
+244	The Bronze	SPC	$615,816	1,167	$386,328	1,167	3/18	4/21
+245	Tickled	Magn.	$613,956	53	$21,898	2	6/17	-
+246	City of Gold	IFC	$611,702	50	$62,959	4	3/11	5/19
+247	Lo and Behold, Reveries of the Connected World	Magn.	$594,912	51	$114,273	39	8/19	-
+248	Gleason	ORF	$583,664	148	$91,583	9	7/29	9/1
+249	A Tale of Love and Darkness	Focus	$572,212	66	$37,170	2	8/19	10/6
+250	Lion	Wein.	$571,074	16	$123,360	4	11/25	-
+251	Tunnel	WGUSA	$568,876	36	$172,521	36	8/26	-
+252	Knight of Cups	BG	$566,006	68	$60,551	4	3/4	5/12
+253	Cold War 2	WGUSA	$560,824	23	$157,385	22	7/8	8/18
+254	American Pastoral	LGF	$544,098	70	$149,038	50	10/21	12/1
+255	The Age of Shadows	CJ	$541,719	33	$165,685	33	9/23	-
+256	Harry & Snowman	FR	$539,490	25	$56,842	18	9/30	-
+257	Fitoor	UTV	$528,799	147	$347,164	147	2/12	2/28
+258	The First Monday in May	Magn.	$527,474	45	$99,242	20	4/15	6/16
+259	Willy Wonka and the Chocolate Factory (2016 re-release)	WB	$526,633	155	$526,633	155	9/3	9/4
+260	Unsullied	Indic.	$510,957	102	$179,112	102	4/22	5/26
+261	Befikre	Yash	$498,000	284	$498,000	284	12/9	-
+262	Marguerite	Cohen	$497,323	46	$19,924	3	3/11	5/29
+263	The Boy and the Beast	FUN	$490,643	123	$274,247	122	3/4	3/31
+264	Detective Chinatown (Tang ren jie tan an)	CL	$474,252	36	$280,281	33	1/15	1/31
+265	Wiener-Dog	IFC	$470,575	73	$24,311	2	6/24	-
+266	Our Little Sister	SPC	$467,555	33	$25,118	3	7/8	11/17
+267	Luck-Key	JBG	$466,505	26	$113,846	21	10/21	-
+268	Only Yesterday (2016 re-release)	GK	$453,243	44	$14,970	1	1/1	4/21
+269	Baaghi	UTV	$438,207	78	$237,215	78	4/29	5/26
+270	Gimme Danger	Magn.	$435,705	71	$44,725	3	10/28	-
+271	I Am Not Madame Bovary	WGUSA	$433,061	39	$181,552	38	11/18	-
+272	Mad Max: Fury Road (Black & Chrome Edition)	WB	$421,986	N/A	N/A	N/A	11/4	11/10
+273	Voiceless	AAE	$419,952	100	$292,438	100	10/7	-
+274	Embrace: The Documentary	Gathr	$412,340	77	N/A	N/A	9/19	-
+275	The Lobster (Canada Release)	Mon	$376,871	15	N/A	N/A	3/25	-
+276	Mr. Donkey	CL	$356,255	27	$86,931	20	10/28	12/8
+277	Eat That Question: Frank Zappa in His Own Words	SPC	$355,074	29	$16,695	2	6/24	11/10
+278	Happy Bhaag Jayegi	Eros	$351,840	78	$159,895	78	8/19	-
+279	Kahaani 2	Eros	$350,703	81	$279,009	81	12/2	-
+280	L.O.R.D: Legend of Ravaging Dynasties	AR	$350,456	68	$170,676	68	9/30	10/20
+281	High-Rise	Magn.	$346,472	41	$79,887	39	5/13	8/4
+282	Te3n	Rel.	$331,507	104	$258,066	104	6/10	6/26
+283	Kaashmora	CineGalaxy	$327,929	70	$298,674	70	10/28	-
+284	AmeriGeddon	Forewarned	$316,554	30	$125,571	30	5/13	6/26
+285	Francofonia	MBox	$307,040	25	$22,083	2	4/1	7/7
+286	Mia Madre	MBox	$303,002	35	$34,098	6	8/26	-
+287	April and the Extraordinary World	GK	$295,488	35	$11,413	1	3/25	6/9
+288	Ixcanul	KL	$295,157	18	$5,980	1	4/9	-
+289	Christine (2016)	Orch.	$294,050	57	$13,384	1	10/14	-
+290	The People vs. Fritz Bauer	Cohen	$288,483	35	$33,781	6	8/19	-
+291	Aquarius	Vita.	$285,930	31	$29,129	3	10/14	-
+292	Kingsglaive: Final Fantasy: XV	VE	$269,980	26	$119,801	24	8/19	-
+293	My Golden Days	Magn.	$269,144	32	$26,847	3	3/18	5/26
+294	The Family Fang	SM	$262,921	52	$14,506	1	4/29	6/30
+295	Minimalism: A Documentary About the Important Things	Gathr	$261,865	80	N/A	N/A	5/24	8/4
+296	Yo-kai Watch: The Movie	Elev.	$257,343	329	N/A	N/A	10/15	-
+297	Life, Animated	Orch.	$255,388	60	$21,883	3	7/1	-
+298	Dheepan	IFC	$248,392	26	$20,249	2	5/6	8/4
+299	Oasis: Supersonic	A24	$242,867	106	$16,880	14	10/26	11/10
+300	The Invitation	Drft.	$231,737	31	$67,877	10	4/8	6/30
+301	Jimmy Vestvood: Amerikan Hero	SkyI	$230,069	6	$60,860	4	5/13	-
+302	The Bounce Back	VPD	$227,354	615	$227,354	615	12/9	-
+303	Miss Hokusai	GK	$222,670	84	$24,524	2	10/14	-
+304	Spirit of the Game	Gold.	$222,565	27	$45,580	24	10/7	-
+305	Naam Hai Akira	FIP	$219,401	71	$136,644	71	9/2	9/15
+306	Ho Mann Jahaan	Eros	$208,611	23	$77,548	19	1/1	2/7
+307	Kaptaan	UTV	$203,790	29	$109,993	29	5/20	6/2
+308	El Clan	Fox	$201,227	19	$12,519	3	3/18	4/14
+309	White Girl	FR	$200,242	16	$34,058	3	9/2	-
+310	Complete Unknown	IFC	$187,145	63	$14,149	2	8/26	-
+311	The Masked Saint	Free	$182,695	482	$123,839	482	1/8	1/21
+312	Viva	Magn.	$178,008	17	$48,995	14	4/29	6/30
+313	The Wave	Magn.	$177,404	37	$60,321	33	3/4	5/5
+314	Asura: The City of Madness	CJ	$175,702	28	$21,253	2	10/7	-
+315	Hieronymus Bosch: Touched by the Devil	KL	$172,533	9	N/A	N/A	7/16	-
+316	Apparition Hill	Little Flowe	$170,457	26	$4,152	1	8/5	-
+317	The Fits	Osci.	$166,425	20	$10,602	1	6/3	-
+318	De Palma	A24	$165,237	19	$30,355	3	6/10	8/7
+319	Louder than Bombs	Orch.	$163,807	40	$24,259	4	4/8	6/2
+320	Howards End (2016 Restoration)	Cohen	$160,282	10	$23,840	2	8/26	-
+321	Beauty and the Beast (2016 re-issue)	Jan.	$160,215	3	$8,264	1	2/12	2/25
+322	Sunset Song	Magn.	$159,714	19	$12,995	3	5/13	-
+323	Eva Hesse	Zeit.	$157,481	7	$12,780	1	4/27	-
+324	The Witness	FR	$156,821	15	$14,523	1	6/3	-
+325	Tampopo (2016 re-release)	Jan.	$154,711	4	$16,410	1	10/21	-
+326	Born to be Blue	EOne	$151,926	23	$14,069	23	3/4	-
+327	Generation Found	Gathr	$151,751	22	N/A	N/A	8/29	-
+328	Kicks	FCW	$150,191	65	$32,111	3	9/9	9/29
+329	Rams (Hrútar)	Cohen	$149,250	10	$13,289	3	2/3	4/21
+330	Michael Moore In TrumpLand	Moore	$149,090	51	$50,200	2	10/19	-
+331	The Love Witch	Osci.	$148,896	22	$17,980	6	11/11	-
+332	Touched with Fire	RAtt.	$146,487	67	$16,816	6	2/12	3/10
+333	Krisha	A24	$144,822	26	$9,880	2	3/18	6/2
+334	League of Gods	Col.	$143,430	54	$84,779	54	7/29	8/4
+335	Psycho-Pass: The Movie	FUN	$138,366	161	N/A	N/A	3/15	3/16
+336	The Kind Words	Strand	$135,382	8	$8,571	1	6/24	-
+337	Tumbledown	SM	$135,026	55	$7,331	2	2/5	2/28
+338	ISM	CineGalaxy	$134,165	79	$120,155	79	10/21	-
+339	Requiem for the American Dream	TFC	$130,152	14	N/A	N/A	1/29	-
+340	Chimes at Midnight (2016 re-release)	Jan.	$126,724	4	$20,480	2	1/1	3/24
+341	Spirits' Homecoming	PM&E	$125,616	17	$10,012	2	3/11	4/10
+342	Sweet Bean	KL	$124,800	6	$4,630	1	3/18	9/15
+343	A War	Magn.	$122,902	30	$9,095	5	2/12	4/21
+344	Miss Sharon Jones	SM	$120,880	12	$10,323	1	7/29	-
+345	Hockney	FM	$120,745	10	$13,683	4	4/22	8/4
+346	Three	WGUSA	$119,550	23	$58,196	23	6/24	-
+347	Caged No More	Free	$114,959	116	$69,372	116	1/22	2/11
+348	The Measure of a Man	KL	$112,391	6	$10,011	2	4/15	9/15
+349	Remember the Goal	5&2	$109,815	77	$70,136	77	8/26	-
+350	Zero Days	Magn.	$109,649	20	$49,110	18	7/8	-
+351	Things To Come	IFC	$109,089	26	$31,936	3	12/2	-
+352	Elevator to the Gallows (2016 re-issue)	Rialto	$109,072	5	$14,334	1	8/3	-
+353	Aferim!	BWP	$108,110	8	$15,892	5	1/22	-
+354	Dekalog (2016 re-release)	Jan.	$106,494	5	$18,532	3	9/2	-
+355	Dictator	Eros	$104,734	19	$30,593	19	1/13	1/28
+356	Demon	Orch.	$104,038	24	$13,023	3	9/9	-
+357	Puerto Ricans in Paris	FCW	$102,890	41	$26,674	41	6/10	6/16
+358	Victor	CZ	$102,482	12	$38,594	12	9/15	-
+359	Under the Sun (2016)	Icar.	$102,407	6	$15,454	2	7/6	-
+360	Tale of Tales	IFC	$102,186	15	$8,871	2	4/22	6/16
+361	Cameraperson	Jan.	$102,033	7	$12,760	1	9/9	-
+362	Our Last Tango	Strand	$100,086	6	$6,550	1	4/15	-
+363	Rock On 2	Eros	$98,868	97	$81,023	97	11/11	-
+364	Tower	KL	$98,814	13	N/A	N/A	9/28	-
+365	Seondal: The Man Who Sells the River	CJ	$97,477	7	$36,415	7	7/14	-
+366	So Young 2: Never Gone	CL	$96,421	21	$52,134	21	7/15	7/28
+367	The Fight Within	GVN	$94,326	103	$57,124	103	8/12	-
+368	New York, New York (2016)	CL	$92,377	16	$42,239	16	4/15	5/12
+369	Other People	VE	$91,441	12	$36,997	12	9/9	10/13
+370	Morris from America	A24	$91,151	20	$15,673	2	8/19	10/6
+371	Fireworks Wednesday	Grasshopper	$90,519	5	$6,132	1	3/18	-
+372	No One's Life Is Easy: So I Married an Anti-Fan	CL	$89,282	22	$58,767	22	7/1	7/17
+373	My Love, Don't Cross that River	FM	$88,018	6	$6,340	2	6/17	-
+374	Sand Storm	KL	$86,800	6	$6,849	2	9/28	11/10
+375	Seasons	MBox	$86,040	22	$27,134	13	11/25	-
+376	Author: The JT LeRoy Story	Magn.	$85,999	27	$23,413	5	9/9	-
+377	Los Sures	Osci.	$83,992	2	$26,088	1	4/15	-
+378	Mountains May Depart	KL	$82,913	12	$5,550	1	2/12	-
+379	Cock and Bull	CL	$82,778	12	$33,231	12	9/16	10/13
+380	Best Worst Thing That Ever Could Have Happened	Abr.	$82,646	5	$23,490	2	11/18	-
+381	A Street Cat Named Bob	Cleopatra	$82,171	24	$32,887	24	11/18	-
+382	Vita Activa: The Spirit of Hannah Arendt	Zeit.	$82,143	4	$13,244	1	4/6	-
+383	Les cowboys	Cohen	$80,843	12	$13,178	4	6/24	7/17
+384	Colliding Dreams	ICir	$78,288	14	$16,438	4	3/4	-
+385	My Best Friend's Wedding (2016)	Sony	$77,043	37	$39,984	37	8/12	8/25
+386	Saala Khadoos	UTV	$76,931	70	$76,931	70	1/29	1/31
+387	Don't Blink - Robert Frank	Grasshopper	$76,134	4	$10,382	1	7/15	-
+388	Sky on Fire	WGUSA	$75,191	21	$39,589	21	12/2	-
+389	King Cobra	IFC	$74,712	17	$11,624	1	10/21	-
+390	Raiders!: The Story of the Greatest Fan Film Ever Made	Drft.	$71,916	27	$26,059	24	6/17	-
+391	Sweet 20	CJ	$71,775	6	$24,715	4	3/11	4/28
+392	The Congressman	Shad.	$71,451	13	$14,260	3	4/29	6/9
+393	Do Not Resist	Vanish	$71,195	8	$7,150	1	9/30	-
+394	Norman Lear: Just Another Version of You	MBox	$70,950	6	$16,912	2	7/8	-
+395	For the Love of Spock	Grav.	$70,455	38	N/A	N/A	9/9	-
+396	Until Forever (Por Siempre)	CZ	$69,519	12	$26,687	12	11/17	-
+397	The Dark Horse	BG	$67,533	10	$8,152	2	4/1	5/19
+398	Phantom Detective	CJ	$67,054	15	$7,804	1	5/11	6/16
+399	Max Rose	Pala.	$66,680	29	$4,000	1	9/2	-
+400	Fire at Sea	KL	$66,419	7	$11,350	2	9/18	-
+401	Ran (2016 re-issue)	Rialto	$66,097	5	$11,462	1	2/26	6/26
+402	Microbe & Gasoline	Scre.	$63,802	9	$11,882	2	7/1	-
+403	The Tenth Man	KL	$63,564	4	N/A	N/A	7/29	-
+404	Trapped (2016)	Abr.	$63,241	8	$17,626	3	3/4	3/31
+405	Creative Control	Magn.	$63,014	72	$6,964	3	3/11	-
+406	Dancer	IFC	$62,578	10	$7,140	1	9/9	-
+407	Sword Master	WGUSA	$61,461	29	$40,113	29	12/9	-
+408	Too Late	Vanishing	$60,438	7	$7,000	1	3/18	5/19
+409	Girl Asleep	Osci.	$60,289	24	$2,567	1	9/23	-
+410	Presenting Princess Shaw	Magn.	$60,197	12	$4,814	3	5/27	-
+411	Time Renegades	CJ	$59,425	11	$6,068	1	4/15	-
+412	The Fallen Idol (2016 re-issue)	Rialto	$58,117	4	$12,136	2	5/27	-
+413	Vanishing Time: A Boy Who Returned	Dreamwest	$57,759	17	$4,156	2	11/18	-
+414	Command and Control	AEF	$57,635	6	$5,385	1	9/14	-
+415	Sold	Mats.	$57,527	9	$5,070	1	4/1	-
+416	Wedding Doll	Strand	$56,196	7	$2,771	3	4/15	-
+417	DONGJU: The Portrait of a Poet	CJ	$56,184	5	$17,724	5	4/1	4/24
+418	L'attesa	Osci.	$55,804	9	$5,686	2	4/29	-
+419	The Lovers and the Despot	Magn.	$55,511	13	$14,925	8	9/23	-
+420	Voyage of Time: The IMAX Experience	Imax	$55,409	15	$55,409	15	10/7	-
+421	The Battle of Algiers (2016)	Rialto	$55,102	7	$13,536	3	10/7	-
+422	Regression	W/Dim.	$55,039	100	$33,915	100	2/5	2/25
+423	Clown	W/Dim.	$55,007	100	$26,920	100	6/17	6/30
+424	Diary of a Chambermaid	Cohen	$54,235	9	$10,053	2	6/10	7/4
+425	My King (Mon roi)	FM	$54,114	11	$6,273	1	8/12	-
+426	In a Valley of Violence	FCW	$53,647	33	$29,343	33	10/21	11/3
+427	High Strung (2016)	Pala.	$53,447	100	$40,708	100	4/8	4/14
+428	The Club	MBox	$52,761	14	$6,514	2	2/5	3/10
+429	The Last Man on the Moon	Grav.	$52,482	14	$30,880	13	2/26	4/7
+430	Cemetery of Splendor	Strand	$51,950	6	$7,780	2	3/4	6/9
+431	Being 17	Strand	$51,910	7	$8,838	2	10/7	-
+432	King Georges	IFC	$51,663	10	$15,031	4	2/26	3/24
+433	The Unknowns	Gathr	$51,035	21	N/A	N/A	5/30	-
+434	Like for Likes	CJ	$50,839	18	$25,107	18	2/26	3/20
+435	In the Shadow of Women	Distrib.	$50,291	4	$10,431	2	1/15	4/10
+436	The Take (2016)	HTR	$50,269	100	$41,546	100	11/18	-
+437	In Order of Disappearance	Magn.	$50,251	10	$5,208	2	8/26	-
+438	Fatima	KL	$50,105	4	$6,221	1	8/26	11/17
+439	Pele: Birth of a Legend	IFC	$49,979	19	$7,226	3	5/13	6/9
+440	The Treasure	SDS	$48,490	5	$13,624	3	1/8	2/18
+441	Ma ma	Osci.	$47,258	11	$8,874	1	5/20	6/23
+442	3 Weeks in Yerevan	RME	$45,536	4	$29,245	3	9/16	-
+443	We Are X	Drft.	$45,270	12	$7,526	1	10/21	-
+444	A Melody to Remember	CJ	$44,263	13	N/A	N/A	1/29	-
+445	Nuts!	Cartuna	$44,230	7	N/A	N/A	6/22	-
+446	The Greasy Strangler	FR	$44,228	11	$22,500	11	10/7	-
+447	Danny Says	Magn.	$44,213	16	$11,244	16	9/30	-
+448	Phantom of the Theatre	WGUSA	$43,955	26	$21,001	26	5/6	5/15
+449	The Land	IFC	$43,756	13	$17,958	2	7/29	-
+450	Mastizaade	Eros	$43,403	46	$29,878	46	1/29	2/7
+451	Closet Monster	Strand	$42,166	11	$6,118	1	9/23	-
+452	Daughters of the Dust (2016 re-release)	Cohen	$40,986	4	$10,842	1	11/18	-
+453	Wild Oats	W/Dim.	$40,598	100	$21,554	100	9/16	-
+454	Is That a Gun in Your Pocket?	A23	$39,928	7	$10,422	2	9/16	-
+455	Disorder	IFC	$39,687	8	$11,699	2	8/12	-
+456	The Homeless Billionaire	Hann.	$39,493	1	$19,771	1	6/17	6/23
+457	La Notte (2016 re-release)	Rialto	$38,946	2	$10,547	2	9/14	-
+458	Catching the Sun	TFC	$38,613	14	N/A	N/A	4/1	5/12
+459	Spa Night	Strand	$38,578	2	$7,056	1	8/19	-
+460	Mifune: The Last Samurai	Strand	$38,233	8	$4,296	1	11/25	-
+461	Germans & Jews	FRun	$38,100	2	$5,024	1	6/10	-
+462	Band of Outsiders (2016 re-issue)	Rialto	$38,004	2	$13,252	2	5/6	-
+463	Come What May	Cohen	$37,766	6	$9,738	2	9/9	-
+464	Trust Fund	Trans	$36,885	4	$18,023	4	1/8	2/11
+465	How to Let Go of the World and Love All Things Climate Can't Change	WOW	$36,386	4	$5,800	1	4/20	-
+466	Until Forever	Linn	$35,839	8	$12,445	5	2/12	3/10
+467	Summertime (2016)	Strand	$35,322	6	$15,413	6	7/22	-
+468	Restored Me	Gathr	$35,317	9	N/A	N/A	6/6	-
+469	Songs My Brothers Taught Me	KL	$34,793	5	$3,430	1	3/2	6/2
+470	Mr. Right	FCW	$34,694	35	$25,369	35	4/8	4/14
+471	Phantom Boy	GK	$34,362	17	$4,352	1	7/15	-
+472	Sweet Sixteen (Xia You Qiao Mu)	CL	$34,327	9	$21,439	9	8/19	-
+473	Eisenstein in Guanajuato	Strand	$34,282	5	$9,823	4	2/5	-
+474	Last Cab to Darwin	FRun	$34,193	4	$620	1	6/10	-
+475	The Map Against the World	CJ	$34,034	4	$9,962	4	9/9	9/29
+476	Equals	A24	$33,258	92	$9,206	2	7/15	8/4
+477	Multiple Maniacs (2016 re-issue)	Jan.	$33,036	5	$9,814	1	8/5	-
+478	The Intervention	Gold.	$32,919	17	$23,316	17	8/26	-
+479	Monster Hunt	FR	$32,766	45	$21,074	45	1/22	1/28
+480	Rurouni Kenshin: Origins	FUN	$32,445	27	N/A	N/A	8/8	8/10
+481	Rio, I Love You	Scre.	$31,982	15	N/A	N/A	4/15	-
+482	Under the Shadow	VE	$31,900	14	$13,565	14	10/7	-
+483	Paths of the Soul	Icar.	$31,403	3	$2,780	1	5/13	-
+484	As I Open My Eyes	KL	$30,989	5	$4,189	1	9/8	-
+485	Being Charlie	Pala.	$30,400	14	$11,872	4	5/6	-
+486	Men & Chicken	Drft.	$30,207	11	$2,654	2	4/22	6/30
+487	From Afar	Strand	$30,169	3	$5,136	1	6/8	-
+488	For a Few Bullets	CL	$30,142	15	$17,138	15	7/22	8/4
+489	Therapy for a Vampire	MBox	$30,115	9	$3,361	2	6/10	7/21
+490	The Seventh Fire	FM	$30,112	3	$8,277	2	7/22	-
+491	No Home Movie	Icar.	$29,718	5	N/A	N/A	2/18	-
+492	The Best Democracy Money Can Buy: A Tale of Billionaires & Ballot Bandits	Libre	$29,500	4	$9,511	1	9/23	-
+493	The Dog Wedding	25th Frame	$29,495	2	$12,132	1	3/11	5/5
+494	Troublemakers: The Story of Land Art	FRun	$29,462	5	$5,424	4	1/8	5/5
+495	The Last Princess	CJ	$29,259	1	$11,607	1	9/9	-
+496	Time to Choose	Abr.	$29,233	9	$12,233	6	6/3	-
+497	Kill Me, Deadly	Indic.	$28,905	3	$11,600	2	4/1	-
+498	Valley of Love	Strand	$28,648	5	$9,849	2	3/25	-
+499	Rabin, the Last Day	KL	$28,411	5	$7,940	1	1/29	6/16
+500	Take Me to the River (2016)	FM	$28,041	11	$1,509	1	3/18	-
+501	Kaili Blues	Grasshopper	$27,477	4	$4,164	1	5/20	-
+502	Unlocking the Cage	FRun	$27,284	3	$3,708	1	5/25	-
+503	Blackway	Electric	$27,079	11	$16,458	11	6/10	6/16
+504	Anesthesia	IFC	$26,799	7	$6,747	1	1/8	2/18
+505	Neon Bull	KL	$26,734	4	$6,413	1	4/8	7/24
+506	Papa (Luo shan ji dao dan ji hua)	Jampa	$26,677	20	$14,644	20	3/18	-
+507	Front Cover	Strand	$26,409	3	$6,907	1	8/5	-
+508	Standing Tall (La tete haute)	Cohen	$26,144	6	$7,488	2	4/1	4/21
+509	Chevalier	Strand	$25,696	7	$5,968	3	5/27	-
+510	Gurukulam	Mats.	$25,651	11	N/A	N/A	6/3	-
+511	Kate Plays Christine	Grasshopper	$25,564	3	$6,175	1	8/26	-
+512	Banjo	Eros	$25,531	30	$18,320	30	9/23	10/6
+513	The New Year's Eve of Old Lee	CL	$25,358	6	$15,519	6	2/12	2/25
+514	Disturbing the Peace	Abr.	$25,287	2	$10,907	2	11/11	-
+515	Cosmos	KL	$25,269	2	$3,807	1	6/17	9/8
+516	A Monster with a Thousand Heads	MBox	$24,852	5	$3,900	2	5/11	7/14
+517	Sudden Fear (2016 re-release)	Cohen	$24,476	25	$11,126	13	8/12	-
+518	Right Now, Wrong Then	Grasshopper	$24,470	2	$5,291	2	6/24	-
+519	Lolo	FR	$24,134	8	$4,242	1	3/11	6/2
+520	Southbound	Orch.	$23,665	25	$6,250	4	2/5	2/14
+521	Project Itoh - Harmony	FUN	$23,248	47	$760	3	5/17	-
+522	Goat	TFA	$23,020	20	$23,020	20	9/23	-
+523	Gridiron Heroes	Indic.	$22,487	5	N/A	5	4/15	-
+524	Kamikaze '89	FM	$22,440	2	$5,613	1	6/3	-
+525	Be Here Now: The Andy Whitfield Story	TUG	$22,424	11	$13,577	11	4/8	5/5
+526	Generation Startup	Long Shot	$22,271	1	$5,756	1	9/23	-
+527	Reparation	Red Dirt	$22,267	4	$2,649	1	9/4	-
+528	Off the Rails	TFC	$22,208	2	$8,795	1	11/18	-
+529	Sanam Teri Kasam	Eros	$22,121	32	$22,121	32	2/5	-
+530	The Seasons in Quincy: Four Portraits of John Berger	Icar.	$22,011	2	$5,304	1	8/31	-
+531	Blue Jay	Orch.	$21,626	3	$5,159	1	10/7	-
+532	The Eyes of My Mother	Magn.	$21,570	17	$8,908	5	12/2	-
+533	Thank You for Your Service	Gathr	$21,497	4	$344	1	10/7	-
+534	Term Life	FCW	$21,256	50	$13,040	50	4/29	5/5
+535	Already Tomorrow in Hong Kong	Grav.	$21,206	11	$14,966	10	2/12	2/21
+536	Almost Holy	Orch.	$21,142	10	$4,195	5	5/20	-
+537	Time Changer (2016 re-release)	5&2	$20,797	5	$2,320	1	2/12	-
+538	Band of Robbers	Grav.	$20,555	11	$14,827	11	1/15	1/21
+539	The Sea of Trees	A24	$20,444	101	$1,877	2	8/26	9/15
+540	Art Bastard	CAVU	$19,600	2	$19,600	2	6/3	-
+541	No Pay, Nudity	Mont.	$19,464	8	$3,221	3	11/11	-
+542	Revelation: Dawn of Global Government	RM	$19,107	2	$14,975	2	4/15	-
+543	This Last Lonely Place	Indic.	$19,004	4	$6,089	2	8/12	-
+544	Ktown Cowboys	Free	$18,863	4	$12,523	4	3/18	3/31
+545	The Black Dove	Indic.	$18,809	3	$7,124	2	8/12	-
+546	Seoul Searching	Wonder	$18,654	2	$8,966	1	6/17	6/26
+547	Love Me True	Indic.	$18,367	4	$5,759	2	8/12	-
+548	The Channel	Indic.	$18,319	10	$4,214	1	4/8	11/24
+549	Coming Through the Rye	EF	$18,137	5	$3,761	1	10/14	-
+550	Wildflower (Secretos del Alma)	CZ	$18,062	8	$9,237	8	10/20	-
+551	Holy Hell	WRA	$18,051	3	$9,238	3	5/27	6/9
+552	I Knew Her Well	Jan.	$18,010	1	$9,312	1	2/5	2/11
+553	Men Go To Battle	FM	$18,006	3	$2,087	1	7/8	-
+554	Seed: The Untold Story	Collective E	$17,651	3	N/A	3	8/22	-
+555	How He Fell in Love	Orion	$17,575	10	N/A	N/A	7/8	8/4
+556	Streit's: Matzo and the American Dream	Men.	$17,506	3	$12,065	3	4/20	-
+557	Never	Indic.	$17,243	4	$4,312	2	8/19	-
+558	Landfill Harmonic	TFC	$17,205	5	$3,526	1	9/9	-
+559	Evolution	IFC	$17,185	5	$7,215	3	11/25	-
+560	Search Engines	Indic.	$17,064	6	$3,044	2	10/14	-
+561	A Bit of Bad Luck	Indic.	$16,656	6	$2,480	2	5/13	-
+562	Peter and the Farm	Magn.	$16,650	8	$3,844	1	11/4	-
+563	Tharlo	Icar.	$16,522	2	N/A	2	9/28	-
+564	Always Shine	Osci.	$16,140	15	$4,211	1	11/25	-
+565	The Brand New Testament	MBox	$16,033	6	$10,422	6	12/9	-
+566	Colonia	Scre.	$15,709	27	N/A	N/A	4/15	-
+567	Five Nights in Maine	FR	$15,587	10	$9,059	10	8/5	-
+568	Be Somebody	TUG	$15,395	15	$14,129	15	6/10	6/16
+569	Star Crossed	Indic.	$15,263	10	$2,826	2	5/13	12/1
+570	New World Order	Indic.	$15,247	3	$2,790	2	9/23	-
+571	Of Mind and Music	Mont.	$15,073	3	$932	1	2/12	-
+572	Argentina	FRun	$14,869	3	$2,274	1	6/17	-
+573	Remember You	CJ	$14,814	2	N/A	N/A	1/15	-
+574	Lamb (2016)	Orch.	$14,547	43	$3,150	2	1/8	1/17
+575	The Wanderers (2016 re-release)	KL	$14,492	5	$2,206	1	11/10	-
+576	The Romans	Indic.	$14,480	3	$3,256	1	5/27	-
+577	The Uncondemned	Abr.	$14,393	2	$4,353	1	10/21	-
+578	Brother Nature	Gold.	$14,218	17	$9,699	17	9/9	-
+579	Newtown	Abr.	$14,109	3	$6,796	2	10/7	-
+581	Yosemite	Mont.	$13,931	4	$4,461	2	1/1	3/10
+582	A Space Program	Zeit.	$13,739	1	$10,247	1	3/18	-
+583	Tikkun	KL	$13,671	2	$3,595	2	6/10	7/28
+584	Shangri-La Suite	Bow and Arro	$13,344	25	$13,344	25	10/28	-
+585	Late Spring (2016 re-release)	Jan.	$13,254	1	$6,456	1	3/4	3/10
+586	Adderall Diaries	A24	$13,191	31	$5,517	30	4/15	-
+587	The Program (2016)	EOne	$13,074	18	$5,763	18	3/18	5/19
+588	Neither Heaven Nor Earth	FM	$12,810	3	$2,836	1	8/5	-
+589	The Monster (2016)	A24	$12,544	18	$6,624	18	11/11	11/24
+590	City of Women (2016 re-issue)	Cohen	$12,516	1	$6,244	1	2/19	2/25
+591	The Ones Below	Magn.	$12,488	4	$5,191	4	5/27	-
+592	Elstree 1976	FR	$12,173	14	$3,270	14	5/6	6/9
+593	Fritz Lang's Destiny (2016 re-release)	KL	$12,156	1	$2,334	1	5/20	-
+594	Hot Water	Indic.	$12,101	5	$1,512	2	3/11	12/1
+595	When Two Worlds Collide	FRun	$12,080	1	$2,548	1	8/17	-
+596	Kill Zone 2	WGUSA	$11,998	13	$11,998	13	5/13	-
+597	Lucha Mexico	KL	$11,722	25	$7,245	25	7/15	-
+598	Don't Call Me Son	Zeit.	$11,678	2	$2,066	1	11/2	-
+599	River of Grass	Osci.	$11,553	3	$2,942	1	3/11	-
+600	The Ruins of Lifta	FRun	$11,548	1	$4,620	1	9/23	-
+601	Viktoria	BWP	$11,314	3	$2,468	2	4/29	-
+602	Jeruzalem	EpicPics	$11,287	1	$11,287	1	1/22	-
+603	Theo Who Lived	Zeit.	$11,271	2	$4,990	1	10/7	-
+604	Anonymous (2016)	AD	$11,239	13	$6,716	13	12/2	-
+605	Kiki, Love to Love	Strand	$11,230	3	$3,954	1	11/11	-
+606	What Happened Last Night	Gemelli	$10,844	25	$7,147	25	11/4	-
+607	The Fiance	Indic.	$10,735	4	$4,812	4	11/11	-
+608	Serial Killer 1	KL	$10,330	1	N/A	N/A	5/13	-
+609	Approaching the Unknown	INDEP	$10,232	11	$6,476	11	6/3	-
+610	Beta Test	Mirror	$10,104	18	$5,778	18	7/22	-
+611	Into the Forest	A24	$9,995	15	$6,438	15	7/29	8/7
+612	Made in France	UTMW	$9,854	2	$3,688	1	9/23	-
+613	The Lost Arcade	26 Aries	$9,522	1	$7,500	1	8/12	-
+614	Hooligan Sparrow	TFC	$9,263	4	N/A	N/A	7/22	-
+615	Frank and Lola	Pala.	$9,188	26	$5,747	26	12/9	-
+616	National Bird	FR	$9,101	8	$3,030	1	11/11	-
+617	Chronic	MR	$9,033	7	$2,403	2	9/23	-
+618	The Last King	Magn.	$8,905	3	$4,599	3	6/17	6/30
+619	Providence	MS	$8,840	7	$6,193	7	2/12	-
+620	We Are Twisted F***ing Sister!	MBox	$8,277	8	$5,804	6	2/19	2/25
+621	Mojave	A24	$8,253	26	$3,303	26	1/22	-
+622	Silicon Cowboys	FR	$8,239	12	$5,724	12	9/16	-
+623	Golden Kingdom	KL	$8,077	2	$554	1	6/17	-
+624	The Other Side	FM	$8,074	1	$1,246	1	5/20	-
+625	Talent Has Hunger	FRun	$7,998	5	$3,709	1	3/11	-
+626	Portrait of a Garden	Grasshopper	$7,914	1	$4,488	1	10/26	-
+627	I Don't Belong Anywhere: The Cinema of Chantal Akerman	Icar.	$7,703	3	$389	2	3/28	-
+628	The President	Crnth	$7,578	1	N/A	N/A	6/3	-
+629	They Will Have to Kill Us First	BBC	$7,516	2	$4,106	2	3/4	3/13
+630	Old Stone	Zeit.	$7,476	6	$1,676	1	11/30	-
+631	Indian Point	FRun	$7,251	2	$3,186	1	7/8	-
+632	It Had to be You	Gold.	$7,162	2	$5,302	2	10/21	-
+633	Ugly, Dirty and Bad (Re-Release)	FM	$7,144	3	$4,898	1	10/21	-
+634	The Preppie Connection	IFC	$7,138	2	$5,576	2	3/18	-
+635	The Brainwashing of My Dad	JSenko	$7,028	2	N/A	N/A	3/18	3/24
+636	Magnus	FR	$6,921	6	$1,204	1	11/18	-
+637	Boom Bust Boom	BSM	$6,896	1	N/A	N/A	3/11	-
+638	Mad Tiger	FM	$6,823	2	$1,119	1	3/20	-
+639	Ghost Team	Orch.	$6,639	10	$4,499	10	8/12	9/29
+640	The Dying of the Light	FRun	$6,627	2	$996	1	4/7	-
+641	Spices of Liberty	Hann.	$6,625	1	$6,625	1	10/21	-
+642	Harry Benson: Shoot First	Magn.	$6,385	4	$4,798	3	12/9	-
+643	The Charnel House	Free	$6,332	10	$4,518	10	11/4	11/10
+644	The Carer	Crnth	$6,208	1	$5,102	1	9/9	-
+645	Bourek	Argo.	$5,844	1	$2,692	1	4/29	5/5
+646	Undrafted	INDEP	$5,777	20	$3,829	20	7/15	-
+647	Tanna	Lightyear	$5,711	2	$5,711	2	9/16	-
+648	Klown Forever	Drft.	$5,700	10	$860	5	9/2	-
+649	Welcome to Happiness	Orion	$5,083	10	N/A	10	5/19	-
+650	A Perfect Day	IFC	$5,002	3	N/A	2	1/15	-
+651	Call Her Applebroog	Zeit.	$4,842	1	$2,559	1	6/10	6/23
+652	Roseanne for President!	IFC	$4,734	2	$3,340	2	7/1	7/10
+653	Marinoni: The Fire in the Frame	FRun	$4,696	3	$488	2	4/1	5/26
+654	Blood on the Mountain	Abr.	$4,664	2	$3,184	2	11/18	-
+655	Sworn Virgin	Strand	$4,636	4	$830	1	4/22	6/2
+656	Miss Stevens	Orch.	$4,611	2	$2,451	2	9/16	-
+657	Automatic Hate	FM	$4,603	3	$2,346	1	3/11	3/24
+658	Search Party	FCW	$4,571	10	$3,073	10	5/13	5/19
+659	Synchronicity	Magn.	$4,505	5	$2,859	5	1/22	2/4
+660	On Meditation	KL	$4,322	2	N/A	N/A	7/27	-
+661	Auto Shop of Horrors	DWOES	$4,300	1	N/A	N/A	9/23	-
+662	Maximum Ride	TUG	$4,218	10	$2,462	10	9/30	-
+663	Breaking a Monster	Abr.	$4,212	1	$1,302	1	6/24	7/17
+664	Among the Believers	FRun	$4,189	1	$1,900	1	9/30	-
+665	Slash	Boxcar	$4,072	3	N/A	N/A	12/9	-
+666	The Hollow	Uncork'd	$3,755	12	$2,848	12	10/7	-
+667	The Last Film Festival	Mont.	$3,558	5	N/A	N/A	9/2	-
+668	Restored Me (Masters Media)	Masters	$3,428	10	$1,316	10	9/9	-
+669	Burning Bodhi	Mont.	$3,289	10	$1,474	5	3/18	-
+670	In Harmony	Distrib.	$3,144	2	$809	1	4/15	4/28
+671	Best and Most Beautiful Things	FRun	$3,016	2	$1,591	2	12/2	-
+672	The Professor: Tai Chi's Journey West	FRun	$2,852	1	$1,744	1	5/6	5/26
+673	White Lies	Artma	$2,760	2	$1,740	2	3/4	3/10
+674	Mekong Hotel	Strand	$2,502	3	$999	1	3/4	3/31
+675	Homeland	KL	$2,491	1	$560	1	10/6	-
+676	From the East	Icar.	$2,436	1	$564	1	4/17	5/1
+677	1,000 Rupee Note	KL	$2,404	1	$1,697	1	9/23	-
+678	Memoria	Mont.	$2,242	6	$47	1	4/8	5/12
+679	The Vigilante Diaries	Anch.	$1,991	2	$1,650	2	6/24	-
+680	The Watermelon Woman (20th Anniversary / 2K HD Restoration)	FRun	$1,989	1	$774	1	11/10	-
+681	A Beautiful Now	Mont.	$1,714	4	$148	1	9/2	-
+682	In Her Name (Au nom de ma fille)	Distrib.	$1,623	2	N/A	2	12/2	-
+683	Miss India America	MarVista	$1,598	3	$687	3	3/24	3/31
+684	Level Up	FB	$1,469	27	N/A	27	8/26	-
+685	Hyena Road	Gold.	$1,430	10	$1,430	10	3/11	-
+686	The Silence of Mark Rothko	Icar.	$1,422	1	$268	1	4/21	-
+687	A Small Good Thing	KL	$1,196	2	$1,196	2	8/19	-
+688	Yalom's Cure	FRun	$1,164	1	$684	1	3/11	-
+689	The Ghosts of Johnson Woods	DWOES	$1,080	2	N/A	N/A	12/2	-
+690	Officer Downe	Magn.	$850	2	$470	2	11/18	-
+691	Next Time I'll Aim for the Heart	Distrib.	$815	1	$310	1	4/1	-
+692	The Student and Mr. Henri	Distrib.	$761	1	$486	1	8/19	-
+693	Down By Love	Distrib.	$675	2	$390	2	8/19	-
+694	The Pit (2016 re-release)	KL	$560	2	N/A	N/A	9/30	-
+695	Green is Gold	Gold.	$455	1	$273	1	10/7	-
+696	Hannah: Buddhism's Untold Journey	KL	$396	1	N/A	N/A	10/14	-
+697	News From Planet Mars	KL	$310	1	$24	1	7/22	-
+698	Satanic	Magn.	$252	3	$205	3	7/1	7/7
+699	Pet	Gold.	$70	1	$63	1	9/30	-

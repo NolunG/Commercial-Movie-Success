@@ -1,0 +1,15 @@
+widget-actions.ng-scope > div:nth-child(2) > button:nth-child(3)
+
+
+widget-actions.ng-scope > div:nth-child(2)
+widget-actions.ng-scope
+
+.fe-geo-chart-generated > div:nth-child(1) > widget-actions.ng-scope > div:nth-child(2) > button:nth-child(3)
+
+.fe-geo-chart-generated
+
+widget-actions.ng-scope > button:nth-child(1)
+
+widget-actions.ng-scope
+
+.fe-geo-chart-generated > div:nth-child(1) > widget-actions.ng-scope > button:nth-child(1)

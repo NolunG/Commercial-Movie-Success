@@ -1,0 +1,1259 @@
+1	Les Tuche 2	Pathé	$32,529,174	2/3
+2	Zootopia	Disney	$31,884,949	2/17
+3	Deadpool	Fox	$29,058,302	2/10
+4	The Revenant	Fox	$28,238,162	2/24
+5	The Jungle Book	Disney	$28,011,400	4/13
+6	Ice Age: Collision Course	Fox	$26,346,976	7/13
+7	The Secret Life of Pets	UPI	$25,742,687	7/27
+8	Camping 3	Pathé	$24,224,579	6/29
+9	Captain America: Civil War	Disney	$23,219,052	4/27
+10	Fantastic Beasts and Where To Find Them	WB	$22,072,333	11/16
+11	Finding Dory	Disney	$21,871,932	6/15
+12	Batman v Superman: Dawn of Justice	WB	$21,319,616	3/23
+13	Radin!	Mars	$20,975,285	9/28
+14	Miss Peregrine's Home for Peculiar Children	Fox	$20,123,261	10/5
+15	Suicide Squad	WB	$19,400,000	8/3
+16	Kung Fu Panda 3	Fox	$19,366,374	3/30
+17	Trolls	Fox	$18,340,638	10/19
+18	Les Visiteurs 3: la Terreur (The Visitors: Bastille Day)	Gaumont	$16,747,492	4/6
+19	The Divergent Series: Allegiant	SND	$16,260,190	3/9
+20	X-Men: Apocalypse	Fox	$16,164,749	5/18
+21	Back to Mom's (Retour chez ma mère)	Pathé	$16,030,435	6/1
+22	Doctor Strange	Disney	$15,587,885	10/26
+23	Now You See Me 2	SND	$15,058,312	7/27
+24	Bridget Jones's Baby	Studio Canal	$14,168,100	10/5
+25	Warcraft	UPI	$14,144,672	5/25
+26	Brice 3	Gaumont	$14,031,413	10/19
+27	Pattaya	Gaumont	$13,271,257	2/24
+28	The Hateful Eight	SND	$12,377,651	1/6
+29	Chocolat (2016)	Gaumont	$11,841,899	2/3
+30	Moana	Disney	$11,731,831	11/30
+31	Jason Bourne	UPI	$11,669,747	8/10
+33	The Legend of Tarzan	WB	$11,400,000	7/6
+34	Irreplaceable (Médecin de campagne)	Le Pacte	$11,272,162	3/23
+35	The Conjuring 2	WB	$11,200,000	6/29
+36	Alvin and the Chipmunks The Road Chip	Fox	$10,949,003	2/3
+37	Independence Day: Resurgence	Fox	$10,213,367	7/20
+38	Alice Through the Looking Glass	Disney	$9,882,921	6/1
+39	La folle histoire de Max et Léon	Studio Canal	$8,739,076	11/2
+40	The Odyssey (L'odyssée)	Wild Bunch	$8,613,055	10/12
+41	Adopte un veuf	SND	$8,143,285	4/20
+42	It's Only the End of the World (Juste la fin du monde)	Diaphana	$7,769,563	9/21
+43	Jack Reacher: Never Go Back	PPI	$7,261,023	10/19
+44	The 5th Wave	Sony	$7,220,487	1/27
+45	La vache (One Man and His Cow)	Pathé	$7,215,660	2/17
+46	Cafe Society	Mars	$7,079,300	5/11
+47	Storks	WB	$7,051,797	10/12
+48	Inferno	Sony	$6,743,764	11/9
+49	Money Monster	Sony	$6,660,018	5/12
+50	The Huntsman Winter's War	UPI	$6,642,959	4/22
+51	I, Daniel Blake	Le Pacte	$6,384,847	10/26
+52	Les saisons (Seasons)	Pathé	$6,322,099	1/27
+53	The Angry Birds Movie	Sony	$6,064,540	5/11
+54	Allied	PPI	$5,977,604	11/23
+55	Star Trek Beyond	PPI	$5,815,202	8/17
+56	Teenage Mutant Ninja Turtles: Out of the Shadows	PPI	$5,599,359	6/29
+57	Tamara (2016)	UGC	$5,595,545	10/26
+58	C'est quoi cette famille?! (We are Family)	UGC	$5,543,485	8/10
+59	Five (2016)	Studio Canal	$5,464,667	3/30
+60	The Purge: Election Year	UPI	$5,419,422	7/20
+61	Nerve	Metropolitan	$5,389,455	8/24
+62	Joséphine s'arrondit	UGC	$5,354,822	2/10
+63	Un homme à la hauteur (Up for Love)	Gaumont	$5,287,958	5/5
+64	Pete's Dragon	Disney	$5,229,502	8/17
+65	Lights Out	WB	$5,200,000	8/24
+66	Sully	WB	$5,150,140	11/30
+67	The Magnificent Seven (2016)	Sony	$5,062,649	9/28
+68	Julieta	Pathé	$4,985,061	5/18
+69	Heidi (2015)	Studio Canal	$4,924,887	2/10
+70	The BFG	Disney	$4,661,068	7/20
+71	Victoria (2016)	Le Pacte	$4,646,299	9/14
+72	Mal de pierres (From the Land of the Moon)	Studio Canal	$4,561,982	10/19
+73	Les innocentes	Mars	$4,449,794	2/10
+74	Mechanic: Resurrection	Metropolitan	$4,432,371	8/31
+75	Frantz	Mars	$4,367,401	9/7
+76	Ma Loute (Slack Bay)	Memento	$4,281,509	5/11
+77	Amis Publics N°1	n/a	$4,222,361	2/17
+78	Ma vie de Courgette (My Life as a Courgette)	Gebeka	$4,202,602	10/19
+79	Point Break (2015)	SND	$4,174,851	2/3
+80	The Shallows	Sony	$4,136,075	8/17
+81	Bienvenue à Marly-Gomont (The African Doctor)	Mars	$4,131,033	6/8
+82	Central Intelligence	UPI	$4,074,626	8/24
+83	Elle	SBS	$4,060,515	5/25
+84	Marseille	Pathé	$4,000,349	3/16
+85	Ma famille t'adore déjà	Pathé	$3,947,091	11/9
+86	Les malheurs de Sophie (Sophie's Misfortunes)	Gaumont	$3,866,954	4/20
+87	Merci patron!	Jour2Fête	$3,766,898	2/24
+88	War Dogs	WB	$3,758,656	9/14
+89	Demain tout commence	Mars	$3,682,002	12/7
+90	Ghostbusters (2016)	Sony	$3,611,960	8/10
+91	Tout schuss	SND	$3,609,698	1/13
+92	Captain Fantastic	Mars	$3,595,146	10/12
+93	Hacksaw Ridge	Metropolitan	$3,592,259	11/9
+94	Hail, Caesar!	UPI	$3,591,629	2/17
+95	Gods of Egypt	SND	$3,443,003	4/6
+96	Snowden	Pathé	$3,404,632	11/2
+97	Neighbors 2: Sorority Rising	UPI	$3,398,715	7/6
+98	Ben-Hur (2016)	PPI	$3,380,709	9/7
+99	Les têtes de l'emploi	EuropaC	$3,376,939	11/16
+100	The Girl on the Train (2016)	Metropolitan	$3,349,559	10/26
+101	Cézanne et moi (Cezanne and I)	Pathé	$3,311,294	9/21
+102	Braqueurs	SND	$3,193,284	5/5
+103	Saint Amour	Le Pacte	$3,175,347	3/2
+105	Odd Job (Un petit boulot)	Gaumont	$2,942,844	8/31
+106	Débarquement immédiat! (Last Call for Nowhere)	UGC	$2,869,451	7/13
+107	The Nice Guys	EuropaC	$2,781,017	5/11
+108	The Boy (2016)	Metropolitan	$2,775,297	1/27
+109	Kubo and the Two Strings	UPI	$2,768,243	9/21
+110	Rosalie Blum	SND	$2,700,897	3/23
+111	10 Cloverfield Lane	PPI	$2,688,871	3/16
+112	A Kid (Le fils de Jean)	Le Pacte	$2,660,472	8/31
+113	Ouija: Origin of Evil	UPI	$2,616,956	11/2
+114	Robinson Crusoe (2016)	Studio Canal	$2,599,130	4/20
+115	Don't Breathe	Sony	$2,576,423	10/5
+116	Tout pour être heureux (Dad in Training)	Mars	$2,527,188	4/13
+117	Bad Moms	Metropolitan	$2,521,039	8/3
+119	Encore heureux	Europa	$2,434,473	1/27
+120	Toni Erdmann	Haut	$2,425,518	8/17
+121	Papa ou maman 2	Pathé	$2,389,691	12/7
+122	Carol	UGC	$2,310,137	1/13
+123	Divines	Diaphana	$2,297,612	8/31
+124	London Has Fallen	SND	$2,290,641	3/2
+125	Goosebumps	Sony	$2,287,165	2/10
+126	Deepwater Horizon	SND	$2,281,364	10/12
+127	La fille de Brest	Haut	$2,238,085	11/23
+128	La tour 2 contrôle infernale	n/a	$2,216,010	2/10
+129	L'avenir (Things To Come)	Les Films du	$2,196,661	4/6
+130	Réparer les vivants (Heal the Living)	Mars	$2,162,768	11/2
+131	The Accountant	WB	$2,139,368	11/2
+132	La tortue rouge (The Red Turtle)	Wild Bunch	$2,100,843	6/29
+133	L'outsider (Team Spirit)	Le Pacte	$1,966,165	6/22
+134	Le ciel attendra (Heaven Will Wait)	UGC	$1,955,084	10/5
+135	Train to Busan	ARP	$1,950,833	8/17
+136	Le fantôme de Canterville (The Canterville Ghost)	UGC	$1,918,805	4/6
+137	Chouf	Pyramide	$1,865,664	10/5
+138	Arrival	Sony	$1,861,090	12/7
+139	The Other Side of the Door	Fox	$1,851,016	6/1
+140	The Handmaiden	Bac	$1,850,752	11/2
+141	The Salesman	Memento	$1,841,684	11/9
+142	Dans les forêts de Sibérie	Paname	$1,825,318	6/15
+143	Hell or High Water	Wild Bunch	$1,707,177	9/7
+144	L'effet aquatique (The Aquatic Effect)	Le Pacte	$1,674,748	6/29
+145	Triple 9	Mars	$1,669,404	3/16
+146	Nine Lives (2016)	EuropaC	$1,659,958	8/3
+147	The Infiltrator	ARP	$1,658,399	9/7
+148	Quand on a 17 ans	Wild Bunch	$1,639,628	3/30
+149	Dirty Grandpa	Metropolitan	$1,557,448	2/3
+150	Mike and Dave Need Wedding Dates	Fox	$1,507,286	8/17
+151	Blair Witch	Metropolitan	$1,496,332	9/21
+152	La danseuse (The Dancer)	Wild Bunch	$1,483,515	9/28
+154	Good Luck Algeria	Ad Vitam	$1,403,650	3/30
+155	Blood Father	SND	$1,403,392	8/31
+156	Mother's Day	UGC	$1,393,955	5/25
+157	Moka	Pyramide	$1,347,232	8/17
+158	La taularde	Rezo	$1,263,389	9/14
+159	Criminal (2016)	Metropolitan	$1,260,288	5/5
+160	La Dream Team	Studio Canal	$1,257,995	3/23
+161	Tout de suite maintenant	Ad Vitam	$1,251,878	6/22
+162	Tini: El gran cambio de Violetta	Disney	$1,251,363	5/5
+163	La fille inconnue (The Unknown Girl)	Diaphana	$1,250,351	10/12
+164	Ratchet & Clank	n/a	$1,240,710	4/13
+165	L'idéal (The Ideal)	Legende	$1,226,268	6/15
+166	Le petit locataire (A Bun in the Oven)	Diaphana	$1,216,291	11/16
+167	Ils sont partout	Wild Bunch	$1,211,744	6/1
+168	The Danish Girl	UPI	$1,203,763	1/20
+169	L'économie du couple (After Love)	Le Pacte	$1,141,629	8/10
+170	Race (2016)	n/a	$1,072,306	7/27
+171	La saison des femmes (Parched)	Pyramid	$1,072,253	4/20
+172	Irréprochable	Memento	$1,065,961	7/6
+173	Legend	Studio Canal	$1,059,593	1/20
+174	Jane Got a Gun	Mars	$1,027,749	1/27
+175	Monsieur Bout-de-Bois	Les Films du	$1,020,166	10/5
+176	Love & Friendship	Sophie	$1,017,247	6/22
+177	Les pépites	Rezo	$998,059	10/5
+178	High Strung (2016)	SBS	$971,166	8/3
+179	Les chevaliers blancs (The White Knights)	Le Pacte	$968,473	1/20
+180	Brothers of the Wind	Legende	$963,163	7/6
+181	The Neon Demon	Le Pacte	$960,581	6/8
+182	La nouvelle vie de Paul Sneijder (The New Life of Paul Sneijder)	SND	$953,024	6/8
+183	Iris (2016)	UPI	$950,542	11/16
+184	Trumbo (2015)	UGC	$950,274	4/27
+185	Steve Jobs	UPI	$928,367	2/3
+186	Le convoi (2016)	PPI	$913,048	1/20
+187	The Witch	UPI	$882,449	6/15
+188	Colonia	Rezo	$882,273	7/20
+189	La pazza gioia (Like Crazy)	Bac	$877,947	6/8
+190	Me Before You	WB	$856,000	6/22
+191	45 Years	Ad Vitam	$827,543	1/27
+192	Friend Request (Unfriend) [2016]	La Belle	$825,433	11/23
+193	Florence Foster Jenkins	Pathé	$813,868	7/13
+194	Risen	Sony	$813,074	5/5
+195	Et ta soeur (Half Sister, Full Love)	Le Pacte	$800,657	1/13
+196	Au nom de ma fille	Studio Canal	$769,853	3/16
+197	Little Men (2016)	VOC	$749,901	9/21
+198	Eternity (2016)	Pathé	$743,356	9/7
+199	Room	UPI	$738,683	3/9
+200	Our Kind of Traitor	Studio Canal	$737,494	6/15
+201	Concussion (2015)	Sony	$732,185	3/9
+202	Desierto	n/a	$718,361	4/13
+203	Free State of Jones	Metropolitan	$704,593	9/14
+204	Le voyage de Fanny (Fanny's Journey)	Metropolitan	$691,621	5/18
+205	13 Hours	PPI	$681,210	3/30
+206	Dieumerci!	Wild Bunch	$672,079	3/9
+207	La loi de la jungle	Haut	$667,962	6/15
+208	Stefan Zweig: Farewell to Europe	ARP	$640,893	8/10
+209	Les naufragés	Wild Bunch	$602,788	2/17
+210	Aquarius	SBS	$601,014	9/28
+211	Une vie (A Woman's Life)	Diaphana	$595,531	11/23
+212	The Light Between Oceans	Metropolitan	$575,817	10/5
+213	Sing Street	TF1	$571,246	10/26
+214	Morgan	Fox	$570,286	9/28
+215	Shut In	EuropaC	$559,808	11/30
+216	Eddie the Eagle	Fox	$555,241	5/5
+217	Polina, danser sa vie	UGC	$554,923	11/16
+218	Masterminds (2016)	Metropolitan	$511,335	11/23
+219	Les habitants	Wild Bunch	$491,710	4/27
+220	Genius	Mars	$482,584	7/27
+221	Planetarium	Ad Vitam	$470,145	11/16
+222	Vicky	Gaumont	$469,332	6/8
+223	Juillet août (July-August)	Diaphana	$444,064	7/13
+224	Staying Vertical	Les Films du	$439,963	8/24
+225	L'origine de la violence (The Origin of Violence)	Paradis	$427,073	5/25
+226	Le correspondant	Studio Canal	$426,608	8/24
+227	Tour de France	Mars	$425,144	11/16
+228	Miss You Already	Ocean	$423,347	6/15
+229	Janis: Little Girl Blue	n/a	$406,595	1/6
+230	The Brothers Grimsby	Sony	$405,762	4/13
+231	Sausage Party	Sony	$393,740	11/30
+232	Mr. Holmes	ARP	$386,620	5/5
+233	L'histoire de l'amour (The History of Love)	Wild Bunch	$382,687	11/9
+234	Paris-Willouby	Mars	$371,612	1/20
+235	Truman (2015)	n/a	$367,643	7/6
+236	Diamant noir (Dark Inclusion)	Ad Vitam	$355,280	6/8
+237	Vendeur	Bac	$350,965	5/5
+238	The Beatles: Eight Days a Week - The Touring Years	Studio Canal	$349,879	9/15
+239	Maggie's Plan	Diaphana	$344,427	4/27
+240	Mr. Gaga	Sophie	$341,464	6/1
+242	The Boy and the Beast	Gaumont	$308,416	1/13
+243	Demolition	Fox	$304,503	4/6
+244	The Finest Hours	Disney	$300,577	2/24
+245	Nocturama	Wild Bunch	$290,256	8/31
+246	Bacalaureat (Graduation)	Le Pacte	$279,036	12/7
+247	The Wailing (Goksung)	Metropolitan	$278,011	7/6
+248	El Clan	Diaphana	$272,944	2/10
+249	Louis & Luca - The Big Cheese Race	KMBO	$269,243	11/9
+250	Poesía sin fin (Endless Poetry)	Le Pacte	$266,057	10/5
+251	Elvis & Nixon	WB	$265,796	7/20
+252	Den magiske juleæske (Get Santa)	Les Films du	$249,947	11/23
+253	Tudo Que Aprendemos Juntos (All We Learns Together)	Jour2Fête	$246,184	6/22
+254	Le voyage au Groenland (Journey to Greenland)	n/a	$235,055	11/30
+255	Maman a tort	SND	$232,289	11/9
+256	The Lady in the Van	Sony	$231,056	3/16
+257	Mon maître d'école	Disney	$227,808	1/13
+258	Francis: Pray for Me (Francisco - El Padre Jorge)	SAJE	$221,971	9/28
+259	Les premiers, les derniers	Wild Bunch	$219,281	1/27
+260	Green Room	Bac	$218,347	4/27
+261	Arrêtez-moi là	Europa	$213,835	1/6
+262	El Bosco. El jardín de los sueños	Epicentre	$209,117	10/26
+263	A Bigger Splash	Studio Canal	$205,661	4/6
+264	Der Staat gegen Fritz Bauer	n/a	$203,931	4/13
+265	La pièce	Sony	$195,982	10/12
+266	Hardcore Henry	n/a	$188,250	4/13
+267	Ride Along 2	UPI	$181,537	3/30
+268	A Perfect Day	UGC	$168,671	3/16
+269	Anomalisa	PPI	$167,895	2/3
+270	Guibord s'en va-t-en guerre (My Internship in Canada)	n/a	$165,801	7/27
+271	Our Last Tango (Un tango más)	Bodega	$155,903	5/25
+272	Bølgen (The Wave)	n/a	$155,385	7/27
+273	Freeheld	Bac	$148,900	2/10
+274	Angry Indian Goddesses	ARP	$142,276	7/27
+275	My Big Fat Greek Wedding 2	Metropolitan	$137,407	3/30
+276	Alone in Berlin	Pathé	$136,344	11/23
+277	Les enfants de la chance	Wild Bunch	$133,083	11/30
+278	One Piece Film Gold	KMBO	$130,301	11/2
+279	The Hallow	n/a	$129,403	3/30
+280	The Sea of Trees	SND	$128,822	4/27
+281	A Walk in the Woods	Metropolitan	$127,156	1/13
+282	La fille du patron	Wild Bunch	$126,647	1/6
+283	Peur de rien (Parisienne)	Ad Vitam	$118,106	2/10
+284	Viva	ARP	$116,195	7/6
+285	Carmina y amén	Bodega	$115,415	7/27
+286	La mort de Louis XIV	Capricci	$113,981	11/2
+287	Wiener-Dog	ARP	$112,290	10/19
+288	Voir du pays (The Stopover)	Diaphana	$109,784	9/7
+289	Bang Gang (A Modern Love Story)	Ad Vitam	$109,190	1/13
+290	Fuocoammare (Fire at Sea)	Meteore	$108,902	9/28
+291	Tempête	Ad Vitam	$107,849	2/24
+292	Le gang des Antillais	n/a	$106,526	11/30
+293	Mistress America	Fox	$105,955	1/6
+294	Where to Invade Next	Chrysalis	$104,329	9/14
+295	And So It Goes	n/a	$101,976	9/14
+296	Dégradé	Le Pacte	$100,383	4/27
+297	Sisters	UPI	$99,714	5/11
+298	Arès	Gaumont	$97,473	11/23
+299	Louise en hiver	Gebeka	$93,003	11/23
+300	Apnée	Shellac	$91,515	10/19
+301	Ma' Rosa	Pyramide	$84,810	11/30
+302	La fine équipe	VOC	$83,738	11/30
+303	Sieranevada	Wild Bunch	$83,290	8/3
+304	Mercenaire	Ad Vitam	$82,933	10/5
+305	Préjudice (2015)	Losange	$79,481	2/3
+306	Fúsi (Virgin Mountain)	ARP	$78,736	2/24
+307	Southside with You	n/a	$78,637	8/31
+308	Dough	Margo	$77,975	5/5
+309	In the Room (2015)	n/a	$77,548	8/24
+310	Willy 1er	n/a	$77,400	10/19
+311	À jamais (Never Ever)	n/a	$75,303	12/7
+312	Ma ma	KMBO	$70,386	6/8
+313	Kabali	Aanna	$70,188	7/20
+314	Boulevard	Zelig	$69,157	5/18
+315	Relève: Histoire d'une création	KMBO	$68,887	9/7
+316	Sunset Song	Rezo	$64,465	3/30
+317	Lea	Paname	$64,194	7/13
+318	Tout, tout de suite	n/a	$63,970	5/11
+319	Baden Baden	Jour2Fête	$58,479	5/5
+320	Soy Nero	Sophie	$56,551	9/21
+321	Iqbal, l'enfant qui n'avait pas peur	Eurozoom	$56,101	8/24
+322	Celui qu'on attendait (Lost in Armenia)	Acacias	$55,736	6/8
+323	Efterskalv (The Here After)	Nour	$55,026	6/1
+324	Mimosas	n/a	$53,617	8/24
+325	Apprentice	n/a	$52,991	6/1
+326	Arctic Heart (Le secret des banquises)	Mars	$52,475	6/22
+327	Elephant Song	KMBO	$51,835	8/3
+328	Krigen (A War)	Studio Canal	$51,742	6/1
+329	D'une famille à l'autre (Don't Call Me Son)	n/a	$49,519	7/20
+330	Men & Chicken	n/a	$42,615	5/25
+331	Hibou	Gaumont	$40,159	7/6
+332	The Great Gilly Hopkins	n/a	$40,085	2/24
+333	Zvizdan (The High Sun)	Bac	$38,109	3/30
+334	All Cats are Grey (Tous les chats sont gris)	Zootrope	$33,786	6/15
+335	Sur quel pied danser	Rezo	$32,626	7/6
+336	Couple in a Hole	n/a	$8,328	4/6
+337	Jem and the Holograms	UPI	$7,005	4/13
+1	Star Wars: The Force Awakens	Disney	$88,527,046	12/16
+2	Minions	UPI	$43,991,439	7/8
+3	Jurassic World	UPI	$41,284,758	6/10
+4	Spectre	Sony	$39,509,522	11/11
+5	Avengers: Age of Ultron	Disney	$34,270,887	4/22
+6	Furious 7	UPI	$31,268,799	4/1
+7	Les nouvelles aventures d'Aladin	Pathé	$29,894,163	10/14
+8	Fifty Shades of Grey	UPI	$28,691,668	2/11
+9	Inside Out	Disney	$28,600,000	6/17
+10	Maze Runner: The Scorch Trials	Fox	$25,362,216	10/7
+11	Les profs 2	UGC	$22,941,158	7/1
+12	The Hunger Games: Mockingjay - Part 2	Metropolitan	$22,412,209	11/18
+13	Babysitting 2 (All Gone South)	UPI	$22,135,389	12/2
+14	Mission: Impossible - Rogue Nation	PPI	$21,375,577	8/12
+16	Papa ou maman	Pathé	$19,913,803	2/4
+17	The Martian	Fox	$19,827,502	10/21
+18	Taken 3	Europa	$19,205,947	1/21
+20	The Good Dinosaur	Disney	$18,050,686	11/25
+21	Insurgent	n/a	$16,853,095	3/18
+22	Hotel Transylvania 2	Sony	$16,090,097	10/7
+23	Pourquoi j'ai pas mangé mon père	Pathé	$14,969,176	4/8
+24	Ant-Man	Disney	$13,300,000	7/14
+25	Belle et Sébastien, l'aventure continue	Gaumont	$11,739,066	12/9
+26	Terminator Genisys	PPI	$11,622,061	7/1
+27	The Little Prince	PPI	$11,547,541	7/29
+28	Cinderella (2015)	Disney	$11,265,336	3/25
+29	Big Hero 6	Disney	$11,253,511	2/11
+30	Kingsman: The Secret Service	Fox	$11,220,053	2/18
+31	Night at the Museum: Secret of the Tomb	Fox	$11,157,135	2/4
+32	Bis (2015)	Europa	$10,252,908	2/18
+33	Wolf Totem	Mars	$8,811,832	2/25
+35	Fantastic Four	Fox	$8,519,677	8/5
+36	Connasse, princesse des coeurs	Gaumont	$8,257,617	4/29
+37	Demain	Mars	$8,169,471	12/2
+38	The SpongeBob Movie: Sponge Out of Water	PPI	$7,999,456	2/18
+39	Ted 2	UPI	$7,615,988	8/5
+40	Home	Fox	$7,317,388	4/15
+41	Le grand partage	Wild Bunch	$7,281,742	12/23
+42	Les souvenirs	UGC	$7,127,099	1/14
+43	Everest	UPI	$7,050,663	9/23
+44	The Imitation Game	Studio Canal	$6,968,946	1/28
+45	Bridge of Spies	Fox	$6,740,265	12/2
+46	Shaun the Sheep Movie	n/a	$6,715,152	4/1
+47	Marguerite	Memento	$6,674,379	9/16
+48	Solace	SND	$6,594,509	9/9
+49	Tomorrowland	Disney	$6,535,891	5/20
+50	Irrational Man	Mars	$6,348,367	10/14
+51	Un plus une	Metropolitan	$6,302,281	12/9
+52	Maya the Bee Movie	n/a	$6,169,494	2/4
+53	L'hermine (Courted)	Gaumont	$6,080,938	11/18
+54	Lolo	Mars	$5,951,505	10/28
+55	Le tout nouveau testament	Le Pacte	$5,773,091	9/2
+56	La loi du marche	Diaphana	$5,660,409	5/20
+58	Pixels	Sony	$5,457,444	7/22
+59	The Big Short	PPI	$5,416,144	12/23
+61	The Peanuts Movie	Fox	$5,184,352	12/23
+63	Une famille à louer	Studio Canal	$5,115,489	8/19
+64	Spy	Fox	$5,051,047	6/17
+65	Mon roi (My King)	Studio Canal	$5,035,415	10/21
+66	Unbroken	UPI	$4,906,458	1/7
+67	Un moment d'égarement (One Wild Moment)	Mars	$4,862,921	6/24
+68	Paranormal Activity: The Ghost Dimension	PPI	$4,798,677	10/21
+69	Hitman: Agent 47	Fox	$4,662,051	8/26
+70	Southpaw	SND	$4,432,922	7/22
+71	The Transporter Refueled	Europa	$4,159,089	9/9
+72	Birdman	Fox	$4,153,983	2/25
+73	Entre amis	n/a	$4,072,001	4/22
+74	La tête haute	Wild Bunch	$3,997,148	5/13
+75	Chappie	Sony	$3,979,572	3/4
+76	Tinker Bell and the Legend of the NeverBeast	Disney	$3,936,314	4/8
+77	Dheepan	UGC	$3,882,022	8/26
+78	Un homme idéal	n/a	$3,833,336	3/18
+79	Ange et Gabrielle (Love at First Sight)	UGC	$3,757,716	11/11
+80	The Last Witch Hunter	SND	$3,638,253	10/28
+81	Nous trois ou rien (All Three of Us)	Gaumont	$3,531,002	11/4
+82	Straight Outta Compton	UPI	$3,447,640	9/16
+83	Un peu, beaucoup, aveuglément! (Blind Date)	PPI	$3,409,804	5/6
+84	Ooops! Noah Is Gone	n/a	$3,354,765	12/9
+85	Joy	Fox	$3,323,140	12/30
+86	Robin des Bois, la véritable histoire	n/a	$3,251,375	4/15
+87	En équilibre	n/a	$3,212,516	4/15
+88	Belles Familles	ARP	$3,202,412	10/14
+89	Paper Towns	Fox	$3,105,831	8/12
+90	Mune, le gardien de la lune	PPI	$3,010,510	10/14
+91	Insidious Chapter 3	Sony	$3,005,646	7/8
+92	Self/Less	SND	$2,949,882	7/29
+94	L'étudiante et Monsieur Henri	Studio Canal	$2,901,212	10/7
+95	Nos femmes	Mars	$2,773,224	4/29
+96	Un village presque parfait (Un Village Presque Parfait!)	SND	$2,715,460	2/11
+97	Sicario	Metropolitan	$2,669,472	10/7
+99	Toute première fois (I Kissed a Girl)	Gaumont	$2,601,668	1/28
+101	L'affaire SK1	SND	$2,563,070	1/7
+102	Antigang	SND	$2,510,833	8/19
+103	Burnt	SND	$2,483,452	11/4
+104	Comme un avion (The Sweet Escape)	UGC	$2,410,254	6/10
+105	Le nouveau (The New Kid)	Mars	$2,406,300	12/23
+107	The Visit	UPI	$2,337,614	10/7
+108	American Ultra	Metropolitan	$2,255,212	8/19
+109	Youth	Pathé	$2,096,942	9/9
+111	Mia madre	Le Pacte	$2,086,838	12/2
+112	Poltergeist (2015)	Fox	$2,069,418	6/24
+113	Crimson Peak	UPI	$2,024,103	10/14
+115	Selma	Pathé	$1,957,509	3/11
+117	Wild Card	n/a	$1,920,217	1/14
+118	Pitch Perfect 2	UPI	$1,861,016	7/22
+119	Floride	Gaumont	$1,775,829	8/12
+120	Sinister 2	Wild Bunch	$1,771,859	8/19
+121	Ouija	UPI	$1,742,307	4/29
+122	The Voices	Le Pacte	$1,726,028	3/11
+123	Journal d'une femme de chambre	n/a	$1,723,277	4/1
+124	Pension complète	Studio Canal	$1,717,480	12/30
+125	La Belle Saison	Pyramide	$1,701,897	8/19
+126	Boomerang (2015)	UGC	$1,693,639	9/23
+127	Woman in Gold	SND	$1,683,359	7/15
+128	Big Eyes	n/a	$1,641,275	3/18
+129	The Woman in Black 2: Angel of Death	Metropolitan	$1,631,623	1/14
+130	The Theory of Everything	UPI	$1,545,536	1/21
+131	The Pyramid	Fox	$1,544,399	5/6
+132	Mortdecai	Metropolitan	$1,477,859	1/21
+133	Discount	Wild Bunch	$1,417,767	1/21
+134	Into the Woods	Disney	$1,380,895	1/28
+135	The Walk	Sony	$1,356,733	10/28
+136	Dark Places	n/a	$1,354,953	4/8
+137	Project Almanac	PPI	$1,327,085	2/25
+138	Seinto Seiya: Legend of Sanctuary	Wild Bunch	$1,315,337	2/25
+139	Unfriended	UPI	$1,289,416	6/24
+141	Premiers crus	SND	$1,279,267	9/23
+142	No Escape	SND	$1,243,443	9/2
+143	Let's Be Cops	Fox	$1,188,933	1/21
+144	The Lazarus Effect	Metropolitan	$1,186,091	3/11
+145	Suite Francaise	UGC	$1,167,581	4/1
+146	Trois souvenirs de ma jeunesse (My Golden Days)	Le Pacte	$1,148,626	5/20
+147	Le meraviglie (The Wonders)	n/a	$1,127,672	2/11
+148	The Gunman	Studio Canal	$1,114,666	6/24
+149	Qui c'est les plus forts?	Wild Bunch	$1,109,649	6/3
+150	We Are Your Friends	Studio Canal	$1,088,449	8/26
+151	On voulait tout casser	Gaumont	$1,079,800	6/3
+152	Les Cowboys	Pathé	$1,064,574	11/25
+153	Much Loved	Pyramide	$1,063,737	9/16
+154	En mai, fais ce qu'il te plaît (2015)	Pathé	$1,048,324	11/4
+155	Foxcatcher	Mars	$1,043,751	1/21
+156	Nos futurs	Gaumont	$1,035,527	7/22
+157	La dernière leçon (The FInal Lesson)	Wild Bunch	$1,034,905	11/4
+158	Comment c'est loin	n/a	$1,001,196	12/9
+159	Victor Frankenstein	Fox	$996,428	11/25
+160	Valley of Love	Le Pacte	$994,386	6/17
+161	La vie très privée de Monsieur Sim	Mars	$983,751	12/16
+162	The Lobster	Haut	$983,184	10/28
+163	Annie (2014)	Sony	$969,763	2/25
+164	While We're Young	Mars	$967,880	7/22
+165	Still Alice	Sony	$890,033	3/18
+166	Regression	Metropolitan	$875,515	10/28
+167	Les gorilles	Europa	$869,080	4/15
+168	Mustang	Ad Vitam	$820,277	6/17
+169	Phoenix (2014)	Diaphana	$809,167	1/28
+170	Tracers	Metropolitan	$795,943	2/25
+171	The Vatican Tapes	Metropolitan	$769,688	7/29
+172	A Little Chaos	Metropolitan	$766,187	5/6
+173	La isla mínima	Le Pacte	$761,851	7/15
+174	Je compte sur vous	Rezo	$740,894	12/30
+175	It Follows	Metropolitan	$733,443	2/4
+176	Le goût des merveilles (The Sense of Wonder)	UGC	$717,136	12/16
+177	The Second Best Exotic Marigold Hotel	Fox	$713,887	4/1
+178	Ricki and the Flash	Sony	$699,591	9/2
+179	Blackhat	UPI	$672,983	3/18
+180	Knock Knock	n/a	$649,371	9/23
+181	Tale of Tales	Le Pacte	$631,293	7/1
+182	The Program (2015)	Studio Canal	$623,110	9/16
+183	Force Majeure	Bac	$622,896	1/28
+184	Child 44	n/a	$602,547	4/15
+185	Wild (2014)	Fox	$591,539	1/14
+186	À trois on y va	Wild Bunch	$577,789	3/25
+187	Sleeping with Other People	n/a	$570,334	9/9
+188	Im Labyrinth des Schweigens (Labyrinth of Lies)	n/a	$547,458	4/29
+189	Pawn Sacrifice	Metropolitan	$427,026	9/16
+190	Reality (2015)	Diaphana	$408,492	2/18
+191	A Borrowed Identity	Pyramide	$394,565	2/11
+192	Absolutely Anything	n/a	$385,552	8/12
+194	L'odeur de la mandarine	n/a	$376,499	9/30
+195	Le talent de mes amis	n/a	$375,633	5/6
+196	Je suis à vous tout de suite	n/a	$373,661	9/30
+197	La volante (The Assistant)	Bac	$370,692	9/2
+198	Caprice (2015)	Pyramide	$349,804	4/22
+200	Un début prometteur	n/a	$343,419	9/30
+201	Lost River	n/a	$335,454	4/8
+202	Omoide no Marnie	Disney	$328,526	1/14
+203	Laggies	n/a	$328,147	5/13
+204	Maggie	Metropolitan	$328,085	5/27
+205	She's Funny That Way	Metropolitan	$323,875	4/22
+206	La vie en grand (Learn by Heart)	Gaumont	$309,597	9/16
+207	The Water Diviner	UPI	$307,534	4/15
+208	Un Français (French Blood)	Mars	$304,761	6/10
+209	Suffragette	Pathé	$304,257	11/18
+210	Good Kill	n/a	$300,211	4/22
+211	Back to the Future Day	UPI	$300,000	10/21
+212	Life	ARP	$298,614	9/9
+213	La dame dans l'auto avec des lunettes et un fusil	Wild Bunch	$292,889	8/5
+214	L'art de la fugue	n/a	$290,488	3/4
+215	Disorder (Maryland)	n/a	$277,485	9/30
+216	The Interview	Sony	$277,013	1/28
+217	Le dernier coup de marteau	Pyramide	$273,968	3/11
+218	Far from Men	Pathé	$273,061	1/14
+219	Far from the Madding Crowd	Fox	$271,549	6/3
+220	Une histoire de fou (Don't Tell Me the Boy was Mad)	Diaphana	$269,082	11/11
+221	Monkey Kingdom	Disney	$268,744	11/11
+222	Chic!	Studio Canal	$266,784	1/7
+223	Jamais de la vie	n/a	$252,917	4/8
+224	Testament of Youth	Mars	$249,297	9/23
+225	Ixcanul	ARP	$242,266	11/25
+226	Wild Dogs (Enrages)	n/a	$234,180	9/30
+227	Macbeth (2015)	Studio Canal	$228,215	11/18
+228	Le grand jour	Pathé	$226,974	9/23
+229	Le grand jeu	Bac	$226,708	12/16
+230	Trainwreck	UPI	$222,493	11/18
+231	Microbe et Gasoil (Microbe & Gasoline)	Studio Canal	$221,044	7/8
+232	Love & Mercy	ARP	$219,658	7/1
+233	Dear White People	n/a	$214,796	3/25
+234	Amy	Mars	$212,132	7/8
+235	Les châteaux de sable	n/a	$210,512	4/1
+236	Louder Than Bombs	Memento	$205,037	12/9
+237	Kvinden i buret (The Keeper of Lost Causes)	Wild Bunch	$183,363	4/8
+238	Avril et le monde truqué (April and the Extraordinary World)	Studio Canal	$180,872	11/4
+239	Les Chaises Musicales	n/a	$179,088	7/29
+240	The Boy Next Door	UPI	$177,792	5/20
+241	Alting bliver godt igen (Everything Will Be Fine)	Bac	$177,202	4/22
+242	The Second Mother	Memento	$170,795	6/24
+243	Amnèsia	Losange	$170,565	8/19
+244	Ex Machina	UPI	$163,467	6/3
+245	Infinitely Polar Bear	Bac	$162,622	7/8
+246	Sous X	UPI	$156,706	1/14
+247	Les anarchistes	Mars	$155,554	11/11
+248	L'enquête (The Clearstream Affair)	Mars	$153,157	2/11
+249	The Cut (2014)	Pyramide	$153,083	1/14
+250	Phantom Boy	Diaphana	$150,483	10/14
+251	L'astragale	n/a	$149,076	4/8
+252	Dope	n/a	$131,397	11/4
+253	La glace et le ciel (Ice and the Sky)	Pathé	$131,008	10/21
+254	The Taking of Tiger Mountain	Metropolitan	$126,337	6/17
+255	La rançon de la gloire (The Price of Fame)	Mars	$125,998	1/7
+257	Songs My Brothers Taught Me	Diaphana	$112,144	9/9
+258	Au plus près du soleil	Bac	$110,574	9/9
+259	La résistance de l'air (Through the Air)	Gaumont	$108,232	6/17
+260	Taj Mahal (2015)	Bac	$107,305	12/2
+261	Knight of Cups	Metropolitan	$102,931	11/25
+262	Ni le ciel ni la terre (Neither Heaven Nor Earth)	n/a	$101,351	9/30
+263	Love (2015)	Wild Bunch	$101,157	7/15
+264	Marguerite et Julien	Wild Bunch	$100,116	12/2
+265	Je suis un soldat (I am a Soldier)	Le Pacte	$94,358	11/18
+266	Atlit	n/a	$90,456	1/21
+268	The Smell of Us	n/a	$83,016	1/14
+269	Manglehorn	Le Pacte	$80,950	6/3
+270	Kill Your Friends	n/a	$80,709	12/2
+271	El Club	Wild Bunch	$79,860	11/18
+272	By the Sea	UPI	$77,958	12/9
+273	A Love You (2015)	Europa	$77,357	6/24
+274	Des Apaches	Ad Vitam	$74,287	7/22
+275	Noble	n/a	$73,184	5/20
+276	Boruto: Naruto the Movie	n/a	$69,687	9/16
+277	Kahlil Gibran's The Prophet	Pathé	$60,295	12/2
+278	Partisan (2015)	n/a	$58,105	5/6
+280	Red Army	ARP	$38,571	2/25
+281	Refugiado	Haut	$38,265	5/13
+282	Le Caravage	Pathé	$37,637	10/28
+283	The Humbling	Metropolitan	$36,326	4/8
+284	1001 Grams	Losange	$29,010	3/11
+285	À 14 Ans	n/a	$28,870	2/25
+286	Frank	n/a	$24,467	2/4
+287	Tangerine	ARP	$16,458	12/30
+288	Pioneer	n/a	$16,023	1/28
+289	Orage (A Stormy Summer Night)	Rezo	$11,947	10/7
+290	Me and Earl and the Dying Girl	Fox	$11,945	11/18
+291	Je suis à toi	n/a	$11,449	10/7
+292	Face Down (Tête baissée)	Le Pacte	$11,161	10/14
+293	The Duke of Burgundy	Bac	$11,007	6/17
+294	L'année prochaine (Next Year)	n/a	$6,631	6/24
+295	Risse im Beton	n/a	$5,236	10/21
+296	The Longest Ride	Fox	$4,788	7/15
+297	True Story	Fox	$3,784	9/16
+298	Unfinished Business	Fox	$1,550	5/20
+1	Qu'est-ce qu'on a fait au Bon Dieu?	UGC	$104,659,347	4/16
+2	La famille Bélier	Mars	$55,783,679	12/17
+3	Supercondriaque	n/a	$45,232,099	2/26
+5	Lucy	Europa	$43,771,714	8/6
+6	Dawn of the Planet of the Apes	Fox	$33,324,078	7/30
+7	X-Men: Days of Future Past	Fox	$29,650,115	5/21
+8	Astérix: Le domaine des dieux	SND	$26,621,255	11/26
+9	The Hunger Games: Mockingjay - Part 1	Metropolitan	$25,974,637	11/19
+10	How to Train Your Dragon 2	Fox	$25,097,851	7/2
+11	Paddington	Studio Canal	$24,866,814	12/3
+12	The Maze Runner	Fox	$24,656,497	10/15
+13	Samba	Gaumont	$24,245,847	10/15
+14	Rio 2	Fox	$23,917,917	4/9
+15	The Amazing Spider-Man 2	n/a	$22,738,177	4/30
+16	Transformers: Age of Extinction	PPI	$20,940,048	7/16
+17	Les vacances du petit Nicolas	Wild Bunch	$19,951,457	7/9
+18	Guardians of the Galaxy	Disney	$19,894,500	8/13
+20	Les trois frères, le retour	Wild Bunch	$19,309,579	2/12
+21	Babysitting	UPI	$18,241,679	4/16
+22	Maleficent	Disney	$17,173,088	5/28
+23	Captain America: The Winter Soldier	Disney	$16,891,973	3/26
+24	Penguins of Madagascar	Fox	$16,715,466	12/17
+25	Teenage Mutant Ninja Turtles (2014)	PPI	$16,347,373	10/15
+26	Fiston	n/a	$16,301,210	3/12
+27	La belle et la bête	n/a	$15,588,687	2/12
+28	Gone Girl	Fox	$14,786,031	10/8
+29	300: Rise of an Empire	WB	$14,299,845	3/5
+30	Yves Saint Laurent	n/a	$13,933,172	1/8
+31	12 Years a Slave	n/a	$13,835,227	1/22
+32	Exodus: Gods and Kings	Fox	$13,594,202	12/24
+33	Barbecue	n/a	$13,162,997	4/30
+34	Divergent	n/a	$12,418,719	4/9
+35	Godzilla (2014)	WB	$12,215,928	5/14
+36	Annabelle	WB	$12,143,512	10/8
+37	The Lego Movie	WB	$11,649,032	2/19
+38	The Connection	Gaumont	$11,447,153	12/3
+39	Noah	PPI	$11,436,717	4/9
+40	The Grand Budapest Hotel	Fox	$11,245,985	2/26
+41	Sous les jupes des filles	Wild Bunch	$11,108,189	6/4
+42	The Monuments Men	Fox	$11,024,135	3/12
+43	Mr. Peabody & Sherman	Fox	$10,787,342	2/12
+44	Edge of Tomorrow	WB	$10,783,506	6/4
+45	Minuscule - La vallée des fourmis perdues (Minuscule, Valley of the Lost Ants)	n/a	$10,732,550	1/29
+46	Le crocodile du Botswanga	n/a	$10,445,936	2/19
+47	Non-Stop	n/a	$10,288,846	2/26
+48	The Expendables 3	Metropolitan	$8,670,253	8/20
+49	The Secret Life of Walter Mitty	Fox	$8,403,143	1/1
+50	Mommy	Diaphana	$8,221,004	10/8
+51	The Fault in our Stars	Fox	$8,192,055	8/20
+52	The Missionaries	WB	$8,176,909	10/1
+53	Magic in the Moonlight	Mars	$8,036,708	10/22
+54	The Pirate Fairy	Disney	$7,897,965	4/2
+55	Une heure de tranquillité (Do Not Disturb)	Wild Bunch	$7,534,008	12/31
+56	Hippocrates	n/a	$7,127,673	9/3
+57	Step Up All In	UPI	$7,063,666	7/16
+58	Jamais le premier soir	Europa	$6,944,798	1/1
+59	Planes: Fire & Rescue	Disney	$6,780,270	7/23
+60	The Other Woman (2014)	Fox	$6,705,393	6/18
+61	Hercules (2014)	PPI	$6,598,150	8/27
+62	Fury	Sony	$6,576,188	10/22
+63	The Nut Job	n/a	$6,540,875	8/6
+64	Transcendence	n/a	$6,455,851	6/25
+65	The Equalizer	Sony	$6,291,655	10/1
+66	Pompeii	n/a	$6,063,158	2/19
+67	Neighbors	UPI	$5,710,819	8/6
+68	Robocop (2014)	n/a	$5,662,696	2/5
+69	Kaze tachinu (The Wind Rises)	Disney	$5,446,333	1/22
+70	Homefront	Wild Bunch	$5,339,668	1/8
+71	Les yeux jaunes des crocodiles	Wild Bunch	$5,192,393	4/9
+72	American Hustle	Metropolitan	$5,187,790	2/5
+73	Philomena	n/a	$4,955,518	1/8
+74	Dracula Untold	UPI	$4,944,344	10/1
+75	Paranormal Activity: The Marked Ones	PPI	$4,904,105	1/1
+76	Cloudy with a Chance of Meatballs 2	n/a	$4,705,345	2/5
+77	De toutes nos forces (The Finishers)	n/a	$4,627,819	3/26
+78	22 Jump Street	n/a	$4,572,770	8/27
+79	Sex Tape	n/a	$4,366,829	9/10
+80	Seventh Son	UPI	$4,177,823	12/17
+81	August: Osage County	Wild Bunch	$4,167,159	2/26
+82	Timbuktu	Le Pacte	$4,152,207	12/10
+83	Bon rétablissement! (Get Well Soon)	n/a	$4,125,352	9/17
+84	Une nouvelle amie (The New Girlfriend)	Mars	$3,980,572	11/5
+85	Gemma Bovery	n/a	$3,956,458	9/10
+86	Need for Speed	Metropolitan	$3,791,670	4/16
+87	Le grimoire d'Arkandias	UGC	$3,743,931	10/22
+88	The Purge: Anarchy	UPI	$3,722,860	7/23
+89	Le père Noël	Mars	$3,643,502	12/10
+90	Mea Culpa	n/a	$3,619,729	2/5
+91	Jack Ryan: Shadow Recruit	PPI	$3,540,009	1/29
+92	Deux jours, une nuit	Diaphana	$3,531,732	5/21
+93	Elle l'adore	n/a	$3,508,365	9/24
+94	Une rencontre	n/a	$3,472,295	4/23
+95	La prochaine fois je viserai le coeur (Next Time I'll Aim for the Heart)	Mars	$3,335,957	11/12
+96	Prêt à tout	n/a	$3,326,867	1/22
+97	Ida	n/a	$3,192,706	2/12
+98	Khumba	Metropolitan	$3,188,655	4/23
+99	Diplomatie	n/a	$3,186,936	3/5
+100	Avis de mistral	n/a	$3,142,201	4/2
+101	Jack et la mécanique du coeur	Europa	$3,123,966	2/5
+102	Amour sur place ou à emporter	n/a	$3,085,722	5/28
+103	Her (2013)	Wild Bunch	$3,036,246	3/19
+104	The Book of Life (2014)	Fox	$3,033,287	10/22
+105	Les Francis	n/a	$3,028,854	7/23
+106	Lulu femme nue	n/a	$2,958,348	1/22
+107	Deliver Us From Evil	n/a	$2,901,836	9/3
+108	Nightcrawler	PPI	$2,895,717	11/26
+109	Sin City 2	Metropolitan	$2,874,689	9/17
+110	The Boxtrolls	UPI	$2,860,200	10/15
+111	Fastlife	Europa	$2,835,980	7/16
+112	Situation amoureuse: C'est compliqué	n/a	$2,816,433	3/19
+113	L'amour est un crime parfait	n/a	$2,775,605	1/15
+114	John Wick	Metropolitan	$2,746,456	10/29
+115	Tarzan (2013)	Metropolitan	$2,733,816	2/19
+116	Dans la cour	Wild Bunch	$2,709,069	4/23
+117	Brick Mansions	Europa	$2,694,295	4/23
+118	Into The Storm	WB	$2,594,430	8/13
+119	On a failli être amies	n/a	$2,577,351	6/25
+120	On a marché sur Bangkok	n/a	$2,568,878	10/22
+121	Salaud, on t'aime.	n/a	$2,512,388	4/2
+122	Saint Laurent	Europa	$2,498,642	9/24
+123	3 Days to Kill	Europa	$2,441,861	3/19
+124	La liste de mes envies	n/a	$2,370,854	5/28
+125	Grizzly (2014)	Diaphana	$2,327,939	11/5
+126	Les gazelles	PPI	$2,323,409	3/26
+127	3 coeurs	Wild Bunch	$2,319,513	9/17
+128	A Most Violent Year	Studio Canal	$2,295,240	12/31
+129	Whiplash	Ad Vitam	$2,293,387	12/24
+130	Pas son genre	Diaphana	$2,280,946	4/30
+131	Grace of Monaco	n/a	$2,269,941	5/14
+132	SMS - Sotto mentite spoglie	WB	$2,248,554	8/20
+133	Un beau dimanche (Going Away)	Diaphana	$2,236,260	2/5
+134	I, Frankenstein	Metropolitan	$2,221,308	1/29
+135	Les combattants (Fighters)	n/a	$2,215,989	8/20
+136	Dumb and Dumber To	Metropolitan	$2,185,843	12/17
+137	A Million Ways to Die in the West	UPI	$2,151,884	7/2
+138	Les héritiers (Once in a Lifetime)	UGC	$2,151,438	12/3
+139	L'homme qu'on aimait trop (In the Name of My Daughter)	n/a	$2,127,384	7/16
+140	À toute épreuve	n/a	$2,127,299	7/9
+141	Aimer, boire et chanter	n/a	$2,114,282	3/26
+143	The Legend of Hercules	Metropolitan	$1,859,559	3/19
+144	47 Ronin	UPI	$1,837,024	4/2
+145	La ritournelle	n/a	$1,812,077	6/11
+146	Dallas Buyers Club	UGC	$1,803,273	1/29
+147	[REC] 4: Apocalypse	n/a	$1,799,681	11/12
+148	Maps to the Stars	n/a	$1,679,206	5/21
+149	Bande de filles (Girlhood)	Pyramide	$1,623,908	10/22
+150	Mr. Turner	Diaphana	$1,601,278	12/3
+151	The Giver	n/a	$1,589,461	10/29
+152	Jimmy's Hall	n/a	$1,559,393	7/2
+153	Lone Survivor	n/a	$1,539,077	1/1
+154	Horns	Metropolitan	$1,493,115	10/1
+155	Saving Mr. Banks	Disney	$1,487,018	3/5
+156	Begin Again	UGC	$1,469,570	7/30
+157	Devil's Due	Fox	$1,466,073	5/7
+158	Lou! Journal infime	n/a	$1,434,708	10/8
+159	Out of the Furnace	Metropolitan	$1,422,162	1/15
+160	Joe (2014)	n/a	$1,380,240	4/30
+161	L'ex de ma vie	UGC	$1,362,319	6/25
+162	Only Lovers Left Alive	n/a	$1,339,257	2/19
+163	The Love Punch	n/a	$1,318,590	7/2
+164	A Walk Among the Tombstones	Metropolitan	$1,312,542	10/15
+165	Escobar: Paradise Lost	n/a	$1,276,430	11/5
+166	Fading Gigolo	n/a	$1,272,844	4/9
+167	As Above/So Below	UPI	$1,267,806	8/20
+168	Before I Go To Sleep	UGC	$1,227,311	9/24
+169	A Most Wanted Man	n/a	$1,224,185	9/17
+170	Party Girl	Pyramide	$1,157,411	8/27
+171	96 heures	n/a	$1,154,310	4/23
+172	Clouds Of Sils Maria	n/a	$1,150,090	8/20
+173	Grudge Match	WB	$1,137,152	1/22
+174	Enemy	n/a	$1,122,752	8/27
+175	The Babadook	Wild Bunch	$1,092,991	7/30
+176	24 jours	n/a	$1,078,520	4/30
+177	À coup sûr	UPI	$1,074,329	1/15
+178	La crème de la crème	Wild Bunch	$1,072,573	4/2
+179	Kis uykusu (Winter Sleep)	n/a	$1,065,618	8/6
+180	Brèves de comptoir	Diaphana	$1,057,384	9/24
+181	Jersey Boys	WB	$1,057,264	6/18
+182	The Two Faces of January	n/a	$1,050,700	6/18
+183	The Hundred-Foot Journey	Metropolitan	$1,033,679	9/10
+184	The November Man	PPI	$1,025,930	10/29
+185	Le dernier diamant	n/a	$1,024,562	4/30
+186	Respire	Gaumont	$1,012,245	11/12
+187	Get On Up	UPI	$1,005,073	9/24
+188	Maintenant ou jamais	n/a	$984,972	9/3
+189	N'importe qui	Wild Bunch	$963,881	3/5
+190	Sabotage (2014)	Metropolitan	$925,319	5/7
+191	The 100-Year-Old Man Who Climbed Out the Window and Disappeared	n/a	$896,794	5/28
+192	Repas de famille	n/a	$895,100	12/3
+193	Kill the Messenger	Metropolitan	$880,209	11/26
+194	The Judge	WB	$867,670	10/22
+195	Qu'Allah bénisse la France! (May Allah Bless France!)	n/a	$857,921	12/10
+196	Jacky au royaume des filles (Jacky in Women's Kingdom)	n/a	$843,441	1/29
+197	Marie Heurtin	Diaphana	$820,923	11/12
+198	Walk of Shame	Metropolitan	$798,231	5/21
+199	The Book Thief	Fox	$796,933	2/5
+200	Libre et assoupi	n/a	$786,962	5/7
+201	Pride (2014)	n/a	$780,882	9/17
+202	La chambre bleue	n/a	$742,520	5/16
+203	Earth to Echo	Metropolitan	$715,846	7/30
+204	Bird People	Diaphana	$715,274	6/4
+205	Trash (2014)	UPI	$664,134	11/12
+206	Nobody from Nowhere	Pathé	$651,146	11/19
+207	Wish I Was Here	Wild Bunch	$556,958	8/13
+208	Serena	Studio Canal	$510,828	11/12
+209	Enchanted Kingdom 3D	Metropolitan	$491,065	12/24
+210	Vie sauvage	n/a	$481,882	10/29
+211	Nymphomaniac (2013)	n/a	$438,177	1/1
+212	Boyhood	Diaphana	$406,902	7/23
+213	Cold in July	Le Pacte	$403,543	12/31
+214	The Raid 2	n/a	$382,551	7/23
+215	Night Moves	n/a	$380,834	4/23
+216	Short Term 12	n/a	$380,499	4/23
+217	Kaguyahime no monogatari (The Tale of Princess Kaguya)	Disney	$379,807	6/25
+218	À la vie (To Life)	Le Pacte	$375,520	11/26
+219	If I Stay	WB	$365,302	9/17
+220	Benoît Brisefer: Les taxis rouges	Disney	$360,509	12/17
+221	Les rayures du zèbre	n/a	$360,317	2/5
+222	Maestro (2014)	n/a	$358,616	7/23
+223	The Drop	Fox	$354,741	11/12
+224	Nebraska	Diaphana	$354,311	4/2
+225	Dolphin Tale 2	WB	$351,680	9/24
+226	Tom à la ferme	Diaphana	$348,088	4/16
+228	Papa Was Not a Rolling Stone	n/a	$339,958	10/8
+229	Vampire Academy	Metropolitan	$339,327	3/5
+230	Des lendemains qui chantent	UGC	$334,515	8/20
+231	Terre des ours (Land of the Bears)	PPI	$318,525	2/26
+232	Week-ends	n/a	$311,246	2/26
+233	Le beau monde	Pyramide	$307,025	8/13
+234	Belle comme la femme d'un autre	n/a	$306,022	1/22
+235	Under the Skin (2014)	Diaphana	$305,137	6/25
+236	White Bird in a Blizzard	Bac	$296,272	10/15
+237	Colt 45	WB	$293,274	8/6
+238	A Promise	n/a	$287,172	4/16
+239	Une autre vie (Another Life)	Pyramide	$282,442	1/22
+240	Le jeu de la vérité	Europa	$280,150	1/22
+241	My Sweet Pepper Land	n/a	$274,305	4/9
+242	Winter's Tale	WB	$274,221	3/12
+243	Divin enfant	UGC	$265,887	1/15
+244	Futatsume no mado	n/a	$264,742	10/1
+245	Bodybuilder	n/a	$260,980	10/1
+246	Di Renjie zhi shendu longwang (Young Detective Dee)	n/a	$253,567	8/6
+247	Le Fil D’Ariane	Diaphana	$250,596	6/18
+248	Il capitale umano	Bac	$248,011	11/19
+249	Fruitvale Station	n/a	$247,770	1/1
+250	Le promeneur d'oiseau (The Nightingale)	UGC	$244,667	5/7
+251	The Riot Club	PPI	$237,806	12/31
+252	Le temps des aveux (The Gate)	Gaumont	$232,627	12/17
+253	The Railway Man	Metropolitan	$229,556	6/11
+254	Nymphomaniac: Part 2	n/a	$220,009	1/29
+255	Le Weekend	n/a	$215,175	3/5
+256	The Zero Theorem	n/a	$210,867	6/25
+257	Bouboule	n/a	$209,961	11/5
+258	Two Men in Town	n/a	$209,087	5/7
+259	Labor Day	PPI	$205,479	4/30
+260	The Rover	Metropolitan	$204,750	6/4
+261	Eden	n/a	$204,434	11/19
+262	Starred Up	n/a	$199,082	6/4
+263	Du goudron et des plumes	n/a	$190,690	7/9
+264	Geronimo	n/a	$187,850	10/15
+265	Tiens-toi droite	Wild Bunch	$183,482	11/26
+266	Chef	Sony	$178,381	10/29
+267	De guerre lasse	n/a	$171,522	5/7
+268	Blue Ruin	n/a	$169,694	7/9
+269	The Homesman	Europa	$168,748	5/18
+270	Tonnerre	Wild Bunch	$153,161	1/29
+271	Kidon	n/a	$150,390	5/14
+272	Oldboy (2013)	UPI	$150,038	1/1
+273	Haganenet (The Kindergarten Teacher)	n/a	$140,271	9/10
+274	Las brujas de Zugarramurdi (Witching and Bitching)	n/a	$137,463	1/8
+275	Big Bad Wolves	Metropolitan	$136,900	7/2
+276	Men, Women & Children	PPI	$136,178	12/10
+277	Tristesse Club	n/a	$134,440	6/4
+278	Dark Touch	n/a	$129,171	3/19
+279	Eastern Boys	n/a	$122,760	4/2
+280	Coming Home	ARP	$116,931	12/17
+281	What If (2014)	n/a	$115,454	10/29
+282	Abus de faiblesse	n/a	$114,112	2/12
+283	Love is Strange	n/a	$109,859	11/12
+284	African Safari	n/a	$107,458	4/16
+285	Palo Alto	n/a	$102,251	6/11
+286	May in the Summer	n/a	$97,354	5/7
+287	Dancing in Jaffa	n/a	$95,494	4/2
+288	Giraffada	Pyramide	$94,119	4/23
+289	Qui Vive (Insecure)	n/a	$93,634	11/12
+290	Bethlehem	Diaphana	$91,857	2/19
+291	Pelo malo	Pyramide	$90,944	4/2
+292	Son épouse	Diaphana	$90,708	3/12
+293	Tante Hilda!	n/a	$87,101	2/12
+294	How I Live Now	UGC	$85,905	3/12
+295	The Double (2014)	n/a	$85,229	8/13
+296	Le Paradis	n/a	$84,108	10/8
+297	Miss Julie	n/a	$81,251	9/10
+298	The Face of Love	n/a	$75,958	7/16
+299	Terre battue (40-Love)	Diaphana	$73,323	12/17
+300	The Canyons	n/a	$72,642	3/19
+301	Gerontophilia	n/a	$70,964	3/26
+302	Calvary	Fox	$67,090	11/26
+303	Arthur Newman	n/a	$65,666	5/7
+304	Ana Arabia	n/a	$63,370	8/6
+305	Adieu au langage (Goodbye to Language 3D)	Wild Bunch	$60,905	5/28
+306	La dune	n/a	$57,993	8/13
+307	Tout est permis	Bac	$54,226	4/9
+308	Incompresa (Misunderstood)	n/a	$53,021	11/26
+309	Le Parfum De La Carotte	Gebeka	$50,441	3/26
+310	L'armée du salut	n/a	$48,582	5/7
+311	Hoje Eu Quero Voltar Sozinho (The Way He Looks)	Pyramide	$48,396	7/23
+312	Enough Said	Fox	$48,388	3/26
+313	Guskô Budori no Denki	n/a	$43,724	8/27
+314	Les gens du Monde	n/a	$41,511	9/10
+315	Closed Circuit	UPI	$40,824	3/26
+316	James Cameron's Deepsea Challenge 3D	Disney	$38,552	9/17
+317	Goltzius and the Pelican Company	n/a	$37,151	2/5
+318	Charlie Countryman	n/a	$35,958	5/14
+319	Ablations	n/a	$35,461	7/16
+320	Locke	Metropolitan	$31,052	7/23
+321	Cadences obstinées	n/a	$29,422	1/8
+322	Ride Along	UPI	$29,419	5/14
+323	Man of Tai Chi	UPI	$28,633	4/30
+324	Heli	n/a	$26,068	4/9
+325	Lovelace	n/a	$25,966	1/8
+326	Endless Love (2014)	UPI	$19,995	6/11
+327	God Help the Girl	n/a	$18,563	12/3
+328	La braconne	n/a	$16,413	4/2
+329	Alleluia	n/a	$14,765	11/26
+330	Je m'appelle Hmmm	n/a	$13,805	4/23
+331	Baggage Claim	Fox	$13,110	1/8
+332	Praia do Futuro	n/a	$12,251	12/3
+333	Baby Balloon	Pyramide	$11,894	7/30
+334	Search Party	UPI	$11,264	12/10
+335	Mary Queen of Scots	n/a	$10,237	11/12
+336	Die Lebenden	n/a	$8,638	3/19
+337	Je te survivrai	n/a	$5,162	5/28
+338	Gimme Shelter	n/a	$2,108	10/29
+1	Frozen	Disney	$46,942,953	12/4
+2	The Hobbit: The Desolation of Smaug	WB	$44,723,924	12/11
+3	Despicable Me 2	UPI	$40,876,376	6/26
+4	Iron Man 3	Disney	$38,962,258	4/24
+5	Gravity	WB	$38,239,132	10/23
+6	Django Unchained	n/a	$37,297,979	1/16
+7	Les profs	UGC	$32,482,020	4/17
+8	The Hunger Games: Catching Fire	Metropolitan	$29,672,593	11/27
+9	The Wolf of Wall Street	Metropolitan	$26,445,099	12/25
+10	Now You See Me	n/a	$25,720,414	7/31
+11	Belle et Sébastien	n/a	$25,389,017	12/18
+12	Fast & Furious 6	UPI	$24,998,379	5/22
+13	Turbo	Fox	$23,217,206	10/16
+14	Me, Myself and Mum	n/a	$22,479,449	11/20
+15	Thor: The Dark World	Disney	$22,289,092	10/30
+16	World War Z	PPI	$21,917,296	7/3
+17	The Croods	PPI	$21,103,008	4/10
+18	Man of Steel	WB	$20,914,412	6/19
+19	The Smurfs 2	n/a	$19,434,414	7/31
+20	The Wolverine	Fox	$18,286,178	7/24
+21	Monsters University	Disney	$17,835,364	7/10
+22	9 mois ferme (9 Month Stretch)	Wild Bunch	$17,170,294	10/16
+23	Lee Daniels' The Butler	Metropolitan	$16,909,508	9/11
+24	The Hangover Part III	WB	$16,412,846	5/29
+25	Boule & Bill	n/a	$16,331,384	2/27
+26	Eyjafjallajökull	n/a	$15,891,535	10/2
+27	A Good Day to Die Hard	Fox	$15,589,961	2/20
+28	Planes	Disney	$14,981,430	10/9
+29	Jappeloup	n/a	$14,710,667	3/13
+30	Hotel Transylvania	Sony	$14,632,303	2/13
+31	The Great Gatsby	WB	$14,088,861	5/15
+32	Les gamins	n/a	$13,495,000	4/17
+33	Percy Jackson: Sea of Monsters	Fox	$13,465,171	8/14
+34	Oz the Great and Powerful	Disney	$13,346,885	3/13
+35	Elysium	n/a	$13,329,272	8/14
+36	Chinese Puzzle	n/a	$13,269,807	12/4
+37	Blue Jasmine	n/a	$12,667,080	9/25
+38	20 ans d'écart	Europa	$11,565,810	3/6
+39	Oblivion	UPI	$11,126,032	4/10
+40	Lincoln	Fox	$10,683,693	1/30
+41	After Earth	n/a	$10,468,418	6/5
+42	The Lone Ranger	Disney	$10,264,980	8/7
+43	Epic	Fox	$10,211,348	5/22
+44	La cage dorée	n/a	$10,000,150	4/24
+45	The Conjuring	WB	$9,877,497	8/21
+46	Prisoners	n/a	$9,788,019	10/9
+47	The House of Magic	n/a	$9,663,523	12/25
+48	Alceste à bicyclette	n/a	$9,378,710	1/16
+49	Vive la France	n/a	$9,338,419	2/20
+50	Möbius	Europa	$9,184,413	2/27
+51	Pacific Rim	WB	$8,874,048	7/17
+52	Silver Linings Playbook	n/a	$8,776,139	1/30
+53	Paulette	n/a	$8,675,397	1/16
+54	Blue Is the Warmest Color	Wild Bunch	$8,390,512	10/9
+55	The Family (2013)	Europa	$8,238,234	10/23
+56	Star Trek Into Darkness	PPI	$8,054,818	6/12
+57	Au bout du conte	n/a	$7,784,978	3/6
+58	The Past	n/a	$7,638,959	5/15
+59	Amitiés sincères	n/a	$7,442,410	1/30
+60	Hansel and Gretel: Witch Hunters	PPI	$7,414,412	3/6
+61	G.I. Joe: Retaliation	PPI	$7,104,607	3/27
+62	Beautiful Creatures (2013)	n/a	$6,705,153	2/27
+63	Mood Indigo	n/a	$6,642,321	4/24
+64	Sur le chemin de l'école (dupe)	n/a	$6,057,555	9/25
+65	Kick-Ass 2	UPI	$6,004,726	8/21
+66	Jeune & jolie (Young and Beautiful)	n/a	$5,907,597	8/21
+67	Space Pirate Captain Harlock	n/a	$5,864,659	12/25
+68	Gangster Squad	WB	$5,751,984	2/6
+69	The Young and Prodigious T.S. Spivet	n/a	$5,633,054	10/16
+70	En solitaire (Turning Tide)	n/a	$5,587,970	11/6
+71	L'Apprenti Pere Noel 2 (Santa's Apprentice 2)	n/a	$5,390,493	11/20
+72	Red 2	n/a	$5,386,125	8/28
+73	The Counselor	Fox	$5,383,009	11/13
+74	Mud	n/a	$5,348,217	5/1
+75	Snowpiercer	n/a	$5,306,545	10/30
+76	Sur le chemin de l'école	Disney	$5,178,666	9/25
+77	The Place Beyond the Pines	n/a	$5,025,237	3/20
+78	Quai d'Orsay	n/a	$4,854,654	11/6
+79	White House Down	n/a	$4,825,388	9/4
+80	Flight	PPI	$4,723,119	2/13
+81	16 ans ou presque	UGC	$4,705,786	12/18
+82	Joséphine	UGC	$4,672,669	6/19
+83	Insidious Chapter 2	n/a	$4,670,508	10/2
+84	Walking with Dinosaurs	Fox	$4,664,544	12/18
+85	Spring Breakers	n/a	$4,640,740	3/6
+86	Jack the Giant Slayer	WB	$4,552,429	3/27
+87	Paris à tout prix	n/a	$4,397,937	7/17
+88	Riddick	Metropolitan	$4,373,928	9/18
+89	Max (2013)	WB	$4,333,826	1/23
+90	Inside Llewyn Davis	n/a	$4,275,202	11/6
+91	Zero Dark Thirty	UPI	$4,222,585	1/23
+92	We're the Millers	WB	$4,141,928	9/18
+93	Captain Phillips	n/a	$4,101,371	11/20
+94	Le coeur des hommes 3	Diaphana	$4,058,213	10/23
+95	Escape Plan	n/a	$3,994,644	11/13
+96	I'm So Excited	n/a	$3,789,186	3/27
+97	The Ultimate Accessory	Wild Bunch	$3,789,147	12/11
+98	Only God Forgives	n/a	$3,662,317	5/22
+99	Side Effects (2013)	n/a	$3,644,853	4/3
+100	La vraie vie des profs	UPI	$3,530,139	2/20
+101	Ender's Game	Metropolitan	$3,496,632	11/6
+102	Chimpanzee	Disney	$3,489,943	2/20
+103	Cloud Atlas	WB	$3,458,987	3/13
+104	Fonzy	n/a	$3,387,489	10/30
+105	The Mortal Instruments: City of Bones	UGC	$3,357,583	10/16
+106	Les beaux jours	n/a	$3,318,325	6/19
+107	Né quelque part	n/a	$3,301,616	6/19
+108	The Host (2013)	Metropolitan	$3,265,567	4/17
+109	Turf	n/a	$3,256,043	2/13
+110	Renoir	n/a	$3,010,648	1/2
+111	2 Guns	n/a	$2,935,795	9/25
+112	The Purge	UPI	$2,933,081	8/7
+113	Runner Runner	Fox	$2,906,013	9/25
+114	Mohamed Dubois	Wild Bunch	$2,843,003	5/1
+115	Le grand méchant loup	n/a	$2,830,421	7/10
+116	The Bling Ring	n/a	$2,798,153	6/12
+117	Amour & turbulences	UPI	$2,776,777	4/3
+118	Pain and Gain	PPI	$2,739,533	9/11
+119	Evil Dead (2013)	Metropolitan	$2,717,478	5/1
+120	Olympus Has Fallen	n/a	$2,647,723	3/20
+121	The Company You Keep	n/a	$2,646,107	5/8
+122	I Give It a Year	n/a	$2,630,846	4/10
+123	Rush (2013)	n/a	$2,540,735	9/25
+124	Yi dai zong shi (The Grandmaster)	Wild Bunch	$2,531,069	4/17
+125	11.6	Wild Bunch	$2,514,548	4/3
+126	Elle s'en va (On My Way)	Wild Bunch	$2,483,526	9/18
+127	Diana	n/a	$2,388,571	10/2
+128	Warm Bodies	Metropolitan	$2,362,003	3/20
+129	Suzanne	n/a	$2,277,827	12/18
+130	La stratégie de la poussette	n/a	$2,264,563	1/2
+131	Don Jon	n/a	$2,253,816	12/25
+132	The Immigrant	Wild Bunch	$2,253,023	11/27
+133	The Last Stand	Metropolitan	$2,244,446	1/23
+134	The Informant (2013)	n/a	$2,238,149	9/11
+135	Jobs	Metropolitan	$2,183,252	8/21
+136	Mandela: Long Walk to Freedom	n/a	$2,176,129	12/18
+137	Zambezia	Metropolitan	$2,148,913	8/14
+138	La Trilogie Marseillaise: Marius	n/a	$2,148,164	7/10
+139	Soshite chichi ni naru (Like Father, Like Son)	n/a	$2,138,555	12/25
+140	Carrie (2013)	n/a	$2,127,591	12/4
+141	R.I.P.D.	UPI	$2,117,952	7/31
+142	Avant l'hiver (Before the Winter Chill)	UGC	$2,108,550	11/27
+143	The Heat	Fox	$2,104,327	8/21
+144	The Internship	Fox	$2,071,853	6/26
+145	Las aventuras de Tadeo Jones	n/a	$2,053,874	4/17
+146	Blood Ties (2013)	n/a	$2,049,720	10/30
+147	Upside Down (2012)	WB	$2,046,371	5/1
+148	Il était une forêt	Disney	$2,019,797	11/13
+149	Parker	n/a	$2,009,639	4/17
+150	La grande boucle	Wild Bunch	$1,964,745	6/12
+151	Mama	UPI	$1,933,095	5/15
+152	Un château en Italie	n/a	$1,892,631	10/30
+153	Venus in Fur	n/a	$1,882,425	11/13
+154	Zulu (2013)	n/a	$1,810,220	12/4
+155	Blood and Ties	n/a	$1,797,864	10/30
+156	Trance	n/a	$1,758,172	5/8
+157	Jurassic Park (3D)	UPI	$1,754,499	5/1
+158	Snitch	Metropolitan	$1,710,353	5/8
+159	Grand Central	n/a	$1,622,390	8/28
+160	Hitchcock	Fox	$1,612,627	2/6
+161	Les reines du ring	WB	$1,605,208	7/3
+162	Amazonia	n/a	$1,572,576	11/27
+163	Les Miserables (2012)	UPI	$1,562,762	2/13
+164	Behind the Candelabra	n/a	$1,511,179	9/18
+165	Last Vegas	UPI	$1,467,170	11/27
+166	About Time	UPI	$1,391,178	11/6
+167	Un prince (presque) charmant	Europa	$1,374,495	1/9
+168	Quartet	Pyramide	$1,366,395	4/3
+169	La marche	Europa	$1,366,051	11/27
+170	Finding Nemo (in 3D)	Disney	$1,355,586	1/16
+171	Jimmy P.	n/a	$1,354,303	9/11
+172	The Call	UGC	$1,332,439	5/29
+173	This Is 40	UPI	$1,323,427	3/13
+174	Pas très normales activités	PPI	$1,322,443	1/30
+175	Promised Land (2012)	n/a	$1,262,489	4/17
+176	The Master	Metropolitan	$1,255,411	1/9
+177	Dark Skies	Wild Bunch	$1,251,699	6/26
+178	Demi-soeur	n/a	$1,250,699	6/5
+179	Two Mothers	n/a	$1,247,653	4/3
+180	The Last Exorcism Part II	n/a	$1,242,398	3/13
+181	Redemption (2013)	Metropolitan	$1,225,423	7/10
+182	La marque des anges - Miserere	n/a	$1,212,657	6/26
+183	Hannah Arendt	n/a	$1,204,617	4/24
+184	Machete Kills	Wild Bunch	$1,202,566	10/2
+185	Pour une femme	Europa	$1,191,771	7/3
+186	The Big Wedding	Metropolitan	$1,190,937	5/22
+187	Seven Psychopaths	n/a	$1,165,887	1/30
+188	Au bonheur des ogres (The Scapegoat)	n/a	$1,142,870	10/16
+189	Des gens qui s'embrassent	n/a	$1,132,057	4/10
+190	Le temps de l'aventure (Just a Sigh)	n/a	$1,118,362	4/10
+191	Hyde Park on Hudson	Diaphana	$1,084,466	2/27
+192	Bullet to the Head	Metropolitan	$1,076,910	2/27
+193	One Direction: This is Us	n/a	$1,070,312	8/28
+194	Les invincibles	Europa	$1,063,970	9/18
+195	La cité rose	UGC	$1,060,094	3/27
+196	No (Chile - 2012)	Wild Bunch	$962,028	3/6
+197	Rue Mandar	Wild Bunch	$929,109	1/23
+198	Une chanson pour ma mère	Disney	$927,978	3/27
+199	Battle of the Year	n/a	$926,184	11/13
+200	Passion (2013)	n/a	$911,773	2/13
+201	Maniac	WB	$906,305	1/2
+202	Stolen (2012)	Metropolitan	$895,000	7/24
+203	Grown Ups 2	n/a	$865,399	9/11
+204	Angélique	Europa	$861,801	12/18
+205	Pitch Perfect	UPI	$819,426	5/8
+206	Hôtel Normandy	n/a	$812,031	5/8
+207	Violette	Diaphana	$787,064	11/6
+208	Gambit	Metropolitan	$776,340	2/6
+209	Frances Ha	n/a	$727,441	7/3
+210	Le jour attendra (Paris Countdown)	n/a	$705,139	7/24
+211	Little Cookie	UGC	$657,693	1/23
+212	All Is Lost	UPI	$653,383	12/11
+213	Je fais le mort	Diaphana	$653,383	12/11
+214	La fleur de l'âge	n/a	$622,156	5/1
+215	This is the End	n/a	$509,512	10/9
+216	The Lunchbox	n/a	$474,401	12/11
+217	You're Next	n/a	$462,010	9/4
+218	L' Artiste Et Son Modele (Artist And His Model)	Bac	$448,582	3/13
+219	Une place sur la Terre (A Place on Earth)	n/a	$438,978	8/28
+220	Dead Man Down	Metropolitan	$436,669	4/3
+221	Oggy et les cafards	Bac	$425,659	8/7
+222	Foxfire (2013)	n/a	$414,806	1/2
+223	Stoker	Fox	$401,430	5/1
+224	Pop Redemption	n/a	$396,221	6/5
+225	Cheba Louisa	Wild Bunch	$391,655	5/8
+226	The World's End	UPI	$390,982	8/28
+227	Michael Kohlhaas	n/a	$371,503	8/14
+228	Henri (2013)	n/a	$368,108	12/4
+229	Intersections	Europa	$361,078	1/30
+230	Jackass Presents: Bad Grandpa	PPI	$358,562	12/11
+231	The Bay	n/a	$352,431	6/19
+232	The Iceman (2013)	Metropolitan	$350,962	6/5
+233	A Touch of Sin	n/a	$329,657	12/11
+234	Attila Marcel	n/a	$324,682	10/30
+235	Denis	n/a	$321,140	5/1
+236	Broken City	n/a	$318,556	6/26
+237	La grande bellezza (The Great Beauty)	n/a	$314,467	5/22
+238	Aya de Yopougon	UGC	$314,047	7/17
+239	The Attack	Wild Bunch	$307,450	5/29
+240	The Broken Circle Breakdown	n/a	$306,257	8/28
+241	Fanny	n/a	$304,383	7/10
+242	Red Dawn (2012)	Metropolitan	$286,998	8/28
+243	Les salauds (Bastards)	Wild Bunch	$283,271	8/7
+244	To The Wonder	Metropolitan	$279,907	3/6
+245	Pinocchio (2013)	Gebeka	$274,636	2/20
+246	Camille Claudel, 1915	n/a	$266,757	3/13
+247	Queen of Montreuil	Diaphana	$259,220	3/20
+248	Grand départ	n/a	$257,080	9/4
+249	Rock the Casbah	n/a	$254,974	9/11
+250	Movie 43	Metropolitan	$252,358	6/19
+251	The Selfish Giant	Pyramide	$244,131	12/18
+252	The Perks of Being a Wallflower	n/a	$237,747	1/2
+253	Girl Most Likely	n/a	$226,791	8/7
+254	Identity Thief	UPI	$221,820	6/12
+255	Texas Chainsaw 3D	Metropolitan	$221,215	7/31
+256	Unfinished Song	n/a	$215,996	5/15
+257	La confrérie des larmes (Brotherhood of Tears)	n/a	$212,928	10/9
+258	Before Midnight	Diaphana	$211,134	6/26
+259	Parkland	Metropolitan	$210,051	10/2
+260	Les petits princes	Europa	$208,273	6/26
+261	Shadow Dancer	Wild Bunch	$207,323	2/6
+262	The Congress	n/a	$197,127	7/3
+263	The Fifth Estate	Metropolitan	$196,714	12/4
+264	Gabrielle (2013)	n/a	$180,199	10/16
+265	Oh Boy	Diaphana	$178,377	6/5
+266	Belle du Seigneur	n/a	$166,342	6/19
+267	The Man with the Iron Fists	UPI	$154,170	1/2
+268	Zaytoun	n/a	$135,423	2/27
+269	Kapringen (A Hijacking)	n/a	$133,477	7/10
+270	Hypnotisören (The Hypnotist)	UGC	$114,772	5/8
+271	Ain't Them Bodies Saints	Diaphana	$112,671	9/18
+272	La danza de la realidad (The Dance of Reality)	n/a	$104,162	9/4
+273	Your Sister's Sister	n/a	$94,011	7/3
+274	Goodbye Morocco	n/a	$92,783	2/13
+275	Les conquérants (The Conquerors)	Pyramide	$89,451	9/25
+276	The Sessions	Fox	$88,695	3/6
+277	Samsara	n/a	$85,945	3/27
+278	Der kleine Rabe Socke (Raven the Little Rascal)	Gebeka	$85,945	3/27
+279	Metro Manila	n/a	$77,036	7/17
+280	Vi Perdono (Miele)	n/a	$74,939	9/25
+281	Lemale et ha'halal (Fill the Void)	n/a	$72,877	5/1
+282	Prince Avalanche	n/a	$71,763	10/30
+283	A Late Quartet	Metropolitan	$70,364	7/10
+284	Juliette	Wild Bunch	$52,714	7/17
+285	Antiviral	n/a	$52,654	2/13
+286	Le premier homme (The First Man)	n/a	$52,180	4/3
+287	Borgman	n/a	$49,529	11/20
+288	North West	Bac	$44,874	10/9
+289	Kong Curling	n/a	$42,527	1/2
+290	Djúpið (The Deep)	Bac	$40,608	4/24
+291	Csak a szél (Just the Wind)	n/a	$38,830	6/12
+292	The East	Fox	$38,826	7/10
+293	Kibô no kuni (The Land of Hope)	Metropolitan	$37,323	4/24
+294	Diaz	n/a	$37,086	6/5
+295	20 Feet from Stardom	n/a	$36,265	12/4
+296	Im Nebel (In the Fog)	n/a	$36,116	1/30
+297	As I Lay Dying	Metropolitan	$30,643	10/9
+298	Rampart	Metropolitan	$24,292	7/3
+299	Dupa dealuri (Beyond the Hills)	n/a	$24,263	4/10
+300	Arrugas (Wrinkles)	Bac	$17,406	1/30
+301	Tres (2012)	n/a	$17,303	4/24
+302	Electrick Children	Bac	$17,293	6/26
+303	Mademoiselle C	n/a	$16,504	10/16
+304	Kinshasa Kids	n/a	$16,503	4/3
+305	Room 237	Wild Bunch	$16,403	6/19
+306	Post Tenebras Lux	n/a	$11,856	5/8
+307	The Act of Killing	n/a	$10,320	4/10
+308	Berberian Sound Studio	n/a	$8,599	4/3
+309	Leave It on the Floor	n/a	$6,375	8/7
+310	Good as You	n/a	$5,502	6/26
+311	Dracula 3D	n/a	$4,833	11/27
+312	La tête la première	n/a	$4,546	4/17
+313	The Way, Way Back	Fox	$2,323	11/27
+314	Parental Guidance	Fox	$2,321	3/13

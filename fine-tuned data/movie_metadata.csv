@@ -1,0 +1,115 @@
+movie_title,director_name,actor_1_name,actor_2_name,title_year,num_critic_for_reviews,duration,gross,genres,num_user_for_reviews,language,country,content_rating,budget,imdb_score
+Batman v Superman: Dawn of Justice ,Zack Snyder,Henry Cavill,Lauren Cohan,2016,673,183,330249062,Action|Adventure|Sci-Fi,3018,English,USA,PG-13,250000000,6.9
+Captain America: Civil War ,Anthony Russo,Robert Downey Jr.,Scarlett Johansson,2016,516,147,407197282,Action|Adventure|Sci-Fi,1022,English,USA,PG-13,250000000,8.2
+Star Trek Beyond ,Justin Lin,Sofia Boutella,Melissa Roxburgh,2016,322,122,130468626,Action|Adventure|Sci-Fi|Thriller,432,English,USA,PG-13,185000000,7.5
+The Legend of Tarzan ,David Yates,Christoph Waltz,Alexander Skarsgård,2016,248,110,124051759,Action|Adventure|Drama|Romance,239,English,USA,PG-13,180000000,6.6
+X-Men: Apocalypse ,Bryan Singer,Jennifer Lawrence,Michael Fassbender,2016,396,144,154985087,Action|Adventure|Sci-Fi,622,English,USA,PG-13,178000000,7.3
+Suicide Squad ,David Ayer,Will Smith,Robin Atkin Downes,2016,418,123,161087183,Action|Adventure|Comedy|Sci-Fi,971,English,USA,PG-13,175000000,6.9
+The Jungle Book ,Jon Favreau,Scarlett Johansson,Bill Murray,2016,370,106,362645141,Adventure|Drama|Family|Fantasy,398,English,UK,PG,175000000,7.8
+Now You See Me 2 ,Jon M. Chu,Daniel Radcliffe,Morgan Freeman,2016,196,129,64685359,Action|Adventure|Comedy|Crime|Mystery|Thriller,139,English,USA,PG-13,90000000,6.9
+The Secret Life of Pets ,Yarrow Cheney,Steve Coogan,Eric Stonestreet,2016,165,87,323505540,Animation|Comedy|Family,155,English,Japan,PG,75000000,6.8
+The Angry Birds Movie ,Clay Kaytis,Peter Dinklage,Josh Gad,2016,141,97,107225164,Action|Animation|Comedy|Family,126,English,USA,PG,73000000,6.3
+The Finest Hours ,Craig Gillespie,Michael Raymond-James,Abraham Benrubi,2016,178,117,27550735,Action|Drama|History|Thriller,113,English,USA,PG-13,,6.8
+London Has Fallen ,Babak Najafi,Gerard Butler,Radha Mitchell,2016,225,99,62401264,Action|Crime|Drama|Thriller,323,English,UK,R,60000000,5.9
+Deadpool ,Tim Miller,Ryan Reynolds,Ed Skrein,2016,579,108,363024263,Action|Adventure|Comedy|Romance|Sci-Fi,1058,English,USA,R,58000000,8.1
+Central Intelligence ,Rawson Marshall Thurber,Dwayne Johnson,Thomas Kretschmann,2016,177,107,126088877,Action|Comedy|Crime,110,English,USA,PG-13,50000000,6.6
+13 Hours ,Michael Bay,Toby Stephens,James Badge Dale,2016,204,144,52822418,Action|Drama|Thriller|War,219,English,USA,R,50000000,7.4
+The Conjuring 2 ,James Wan,Javier Botet,Frances O'Connor,2016,300,134,102310175,Horror|Mystery|Thriller,279,English,USA,R,40000000,7.8
+The Jungle Book ,Jon Favreau,Scarlett Johansson,Bill Murray,2016,370,106,362645141,Adventure|Drama|Family|Fantasy,398,English,UK,PG,175000000,7.8
+Money Monster ,Jodie Foster,Julia Roberts,Jack O'Connell,2016,268,98,41008532,Crime|Drama|Thriller,103,English,USA,R,27000000,6.7
+Dirty Grandpa ,Dan Mazer,Robert De Niro,Zoey Deutch,2016,158,109,35537564,Comedy,166,English,USA,R,11500000,6
+Lights Out ,David F. Sandberg,Billy Burke,Amiah Miller,2016,159,81,56536016,Horror,95,English,USA,PG-13,4900000,6.9
+Avengers: Age of Ultron ,Joss Whedon,Chris Hemsworth,Robert Downey Jr.,2015,635,141,458991599,Action|Adventure|Sci-Fi,1117,English,USA,PG-13,250000000,7.5
+Jurassic World ,Colin Trevorrow,Bryce Dallas Howard,Judy Greer,2015,644,124,652177271,Action|Adventure|Sci-Fi|Thriller,1290,English,USA,PG-13,150000000,7
+Furious 7 ,James Wan,Jason Statham,Paul Walker,2015,424,140,350034110,Action|Crime|Thriller,657,English,USA,PG-13,190000000,7.2
+The Good Dinosaur ,Peter Sohn,A.J. Buckley,Jack McGraw,2015,298,93,123070338,Adventure|Animation|Comedy|Family|Fantasy,345,English,USA,PG,,6.8
+Jupiter Ascending ,Lana Wachowski,Channing Tatum,Mila Kunis,2015,384,127,47375327,Action|Adventure|Sci-Fi,720,English,USA,PG-13,176000000,5.4
+Inside Out ,Pete Docter,Amy Poehler,Mindy Kaling,2015,536,95,356454367,Adventure|Animation|Comedy|Drama|Family|Fantasy,773,English,USA,PG,175000000,8.3
+The Lovers ,Roland Joffé,Tamsin Egerton,Alice Englert,2015,10,109,,Action|Adventure|Romance|Sci-Fi,15,English,Belgium,R,,4.5
+Tomorrowland ,Brad Bird,Judy Greer,Chris Bauer,2015,443,130,93417865,Action|Adventure|Family|Mystery|Sci-Fi,497,English,USA,PG,190000000,6.5
+The Hunger Games: Mockingjay - Part 2 ,Francis Lawrence,Jennifer Lawrence,Philip Seymour Hoffman,2015,389,137,281666058,Adventure|Sci-Fi,383,English,USA,PG-13,160000000,6.6
+Terminator Genisys ,Alan Taylor,J.K. Simmons,Emilia Clarke,2015,474,126,89732035,Action|Adventure|Sci-Fi,867,English,USA,PG-13,155000000,6.6
+Mad Max: Fury Road ,George Miller,Tom Hardy,Charlize Theron,2015,739,120,153629485,Action|Adventure|Sci-Fi|Thriller,1588,English,Australia,R,150000000,8.1
+Mission: Impossible - Rogue Nation ,Christopher McQuarrie,Tom Cruise,Jeremy Renner,2015,465,131,195000874,Action|Adventure|Thriller,440,English,China,PG-13,150000000,7.4
+Pan ,Joe Wright,Hugh Jackman,Cara Delevingne,2015,256,111,34964818,Adventure|Family|Fantasy,186,English,USA,PG,150000000,5.8
+The Revenant ,Alejandro G. Iñárritu,Leonardo DiCaprio,Tom Hardy,2015,556,156,183635922,Adventure|Drama|Thriller|Western,1188,English,USA,R,135000000,8.1
+Ant-Man ,Peyton Reed,Judy Greer,Hayley Atwell,2015,517,117,180191634,Action|Adventure|Comedy|Sci-Fi,549,English,USA,PG-13,130000000,7.4
+Home ,Tim Johnson,Jim Parsons,Matt Jones,2015,165,94,177343675,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,214,English,USA,PG,135000000,6.7
+Fantastic Four ,Josh Trank,Tim Blake Nelson,Reg E. Cathey,2015,369,100,56114221,Action|Adventure|Sci-Fi,695,English,USA,PG-13,120000000,4.3
+San Andreas ,Brad Peyton,Dwayne Johnson,Ioan Gruffudd,2015,358,114,155181732,Action|Adventure|Drama|Thriller,499,English,USA,PG-13,110000000,6.1
+Insurgent ,Robert Schwentke,Kate Winslet,Theo James,2015,263,119,129995817,Adventure|Sci-Fi|Thriller,258,English,USA,PG-13,110000000,6.3
+The Martian ,Ridley Scott,Matt Damon,Donald Glover,2015,568,151,228430993,Adventure|Drama|Sci-Fi,1023,English,USA,PG-13,108000000,8.1
+The Man from U.N.C.L.E. ,Guy Ritchie,Henry Cavill,Elizabeth Debicki,2015,362,116,45434443,Action|Adventure|Comedy,360,English,USA,PG-13,75000000,7.3
+Minions ,Kyle Balda,Steve Carell,Jon Hamm,2015,308,91,336029560,Action|Animation|Comedy|Family|Sci-Fi,275,English,USA,PG,74000000,6.4
+Focus ,Glenn Ficarra,Will Smith,Adrian Martinez,2015,279,105,53846915,Comedy|Crime|Drama|Romance,221,English,USA,R,50100000,6.6
+Everest ,Baltasar Kormákur,Michael Kelly,Martin Henderson,2015,361,121,43247140,Adventure|Biography|Drama|History|Sport|Thriller,265,English,UK,PG-13,55000000,7.1
+The Hateful Eight ,Quentin Tarantino,Craig Stark,Jennifer Jason Leigh,2015,596,187,54116191,Crime|Drama|Mystery|Thriller|Western,1018,English,USA,R,44000000,7.9
+Fifty Shades of Grey ,Sam Taylor-Johnson,Jennifer Ehle,Luke Grimes,2015,362,129,166147885,Drama|Romance,1360,English,USA,R,40000000,4.1
+The Intern ,Nancy Meyers,Robert De Niro,Anne Hathaway,2015,241,121,75274748,Comedy|Drama,304,English,USA,PG-13,35000000,7.2
+The Hobbit: The Battle of the Five Armies ,Peter Jackson,Aidan Turner,Adam Brown,2014,422,164,255108370,Adventure|Fantasy,802,English,New Zealand,PG-13,250000000,7.5
+Transformers: Age of Extinction ,Michael Bay,Bingbing Li,Sophia Myles,2014,378,165,245428137,Action|Adventure|Sci-Fi,918,English,USA,PG-13,210000000,5.7
+The Amazing Spider-Man 2 ,Marc Webb,Emma Stone,Andrew Garfield,2014,495,142,202853933,Action|Adventure|Fantasy|Sci-Fi,1067,English,USA,PG-13,200000000,6.7
+X-Men: Days of Future Past ,Bryan Singer,Jennifer Lawrence,Peter Dinklage,2014,539,149,233914986,Action|Adventure|Fantasy|Sci-Fi|Thriller,752,English,USA,PG-13,200000000,8
+Edge of Tomorrow ,Doug Liman,Tom Cruise,Lara Pulver,2014,585,113,100189501,Action|Adventure|Sci-Fi,741,English,USA,PG-13,178000000,7.9
+Maleficent ,Robert Stromberg,Angelina Jolie Pitt,Sharlto Copley,2014,401,97,241407328,Action|Adventure|Family|Fantasy|Romance,634,English,USA,PG,180000000,7
+Dawn of the Planet of the Apes ,Matt Reeves,Gary Oldman,Judy Greer,2014,521,130,208543795,Action|Adventure|Drama|Sci-Fi,620,English,USA,PG-13,170000000,7.6
+Captain America: The Winter Soldier ,Anthony Russo,Scarlett Johansson,Chris Evans,2014,576,136,259746958,Action|Adventure|Sci-Fi,742,English,USA,PG-13,170000000,7.8
+Big Hero 6 ,Don Hall,Damon Wayans Jr.,Daniel Henney,2014,384,102,222487711,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,433,English,USA,PG,165000000,7.9
+Guardians of the Galaxy ,James Gunn,Bradley Cooper,Vin Diesel,2014,653,121,333130696,Action|Adventure|Sci-Fi,1097,English,USA,PG-13,170000000,8.1
+Interstellar ,Christopher Nolan,Matthew McConaughey,Anne Hathaway,2014,712,169,187991439,Adventure|Drama|Sci-Fi,2725,English,USA,PG-13,165000000,8.6
+Mr. Peabody & Sherman ,Rob Minkoff,Ty Burrell,Zach Callison,2014,196,92,111505642,Adventure|Animation|Comedy|Family|Sci-Fi,130,English,USA,PG,145000000,6.9
+Exodus: Gods and Kings ,Ridley Scott,Christian Bale,María Valverde,2014,314,150,65007045,Action|Adventure|Drama,657,English,UK,PG-13,140000000,6.1
+How to Train Your Dragon 2 ,Dean DeBlois,Gerard Butler,Djimon Hounsou,2014,292,102,176997107,Action|Adventure|Animation|Comedy|Family|Fantasy,343,English,USA,PG,145000000,7.9
+Penguins of Madagascar ,Eric Darnell,Benedict Cumberbatch,Annet Mahendru,2014,153,92,83348920,Adventure|Animation|Comedy|Family,118,English,USA,PG,132000000,6.7
+Noah ,Darren Aronofsky,Anthony Hopkins,Emma Watson,2014,434,138,101160529,Action|Adventure|Drama,1240,English,USA,PG-13,125000000,5.8
+Night at the Museum: Secret of the Tomb ,Shawn Levy,Robin Williams,Rami Malek,2014,154,98,113733726,Adventure|Comedy|Family|Fantasy,126,English,USA,PG,127000000,6.2
+Rio 2 ,Carlos Saldanha,Miguel Ferrer,Rachel Crow,2014,159,101,131536019,Adventure|Animation|Comedy|Family|Musical,99,English,USA,G,103000000,6.4
+300: Rise of an Empire ,Noam Murro,Eva Green,Sullivan Stapleton,2014,366,102,106369117,Action|Drama|Fantasy|War,523,English,USA,R,110000000,6.2
+The Expendables 3 ,Patrick Hughes,Jason Statham,Sylvester Stallone,2014,320,131,39292022,Action|Adventure|Thriller,351,English,USA,PG-13,90000000,6.1
+Transcendence ,Wally Pfister,Johnny Depp,Morgan Freeman,2014,355,119,23014504,Drama|Mystery|Romance|Sci-Fi|Thriller,462,English,UK,PG-13,100000000,6.3
+Divergent ,Neil Burger,Kate Winslet,Theo James,2014,459,139,150832203,Adventure|Mystery|Sci-Fi,713,English,USA,PG-13,85000000,6.7
+Fury ,David Ayer,Brad Pitt,Logan Lerman,2014,406,134,85707116,Action|Drama|War,701,English,USA,R,68000000,7.6
+Pompeii ,Paul W.S. Anderson,Sasha Roiz,Currie Graham,2014,272,105,23219748,Action|Adventure|Drama|History|Romance,308,English,Canada,PG-13,80000000,5.6
+"I, Frankenstein ",Stuart Beattie,Caitlin Stasey,Kevin Grevioux,2014,308,92,19059018,Action|Fantasy|Sci-Fi|Thriller,194,English,Australia,PG-13,65000000,5.1
+Gone Girl ,David Fincher,Patrick Fugit,Sela Ward,2014,568,149,167735396,Crime|Drama|Mystery|Thriller,1127,English,USA,R,61000000,8.1
+The Lego Movie ,Phil Lord,Morgan Freeman,Will Ferrell,2014,435,100,257756197,Action|Adventure|Animation|Comedy|Family|Fantasy,471,English,Australia,PG,60000000,7.8
+American Sniper ,Clint Eastwood,Bradley Cooper,Leonard Roberts,2014,490,133,350123553,Action|Biography|Drama|History|Thriller|War,916,English,USA,R,58800000,7.3
+22 Jump Street ,Phil Lord,Channing Tatum,Craig Roberts,2014,330,112,191616238,Action|Comedy|Crime,322,English,USA,R,50000000,7.1
+Into the Woods ,Rob Marshall,Johnny Depp,Meryl Streep,2014,321,125,127997349,Adventure|Comedy|Drama|Fantasy|Musical,779,English,USA,PG,50000000,6
+The Judge ,David Dobkin,Robert Downey Jr.,Robert Duvall,2014,276,141,47105085,Crime|Drama,275,English,USA,R,50000000,7.4
+Taken 3 ,Olivier Megaton,Liam Neeson,Dougray Scott,2014,222,115,89253340,Action|Thriller,323,English,France,PG-13,48000000,6
+The Interview ,Evan Goldberg,James Franco,Randall Park,2014,293,112,6105175,Comedy,835,English,USA,R,44000000,6.6
+Lucy ,Luc Besson,Scarlett Johansson,Morgan Freeman,2014,433,89,126546825,Action|Sci-Fi|Thriller,918,English,France,R,40000000,6.4
+Horrible Bosses 2 ,Sean Anders,Kevin Spacey,Christoph Waltz,2014,196,116,54414716,Comedy|Crime,187,English,USA,R,42000000,6.3
+A Million Ways to Die in the West ,Seth MacFarlane,Liam Neeson,Charlize Theron,2014,303,136,42615685,Comedy|Western,416,English,USA,R,40000000,6.1
+The Maze Runner ,Wes Ball,Ki Hong Lee,Aml Ameen,2014,297,113,102413606,Action|Mystery|Sci-Fi|Thriller,524,English,USA,PG-13,34000000,6.8
+The Grand Budapest Hotel ,Wes Anderson,Bill Murray,Tom Wilkinson,2014,536,99,59073773,Adventure|Comedy|Crime|Drama,644,English,USA,R,25000000,8.1
+Million Dollar Arm ,Craig Gillespie,Jon Hamm,Suraj Sharma,2014,151,124,36447959,Biography|Drama|Sport,96,English,USA,PG,25000000,7
+The Lone Ranger ,Gore Verbinski,Johnny Depp,Ruth Wilson,2013,450,150,89289910,Action|Adventure|Western,711,English,USA,PG-13,215000000,6.5
+Man of Steel ,Zack Snyder,Henry Cavill,Christopher Meloni,2013,733,143,291021565,Action|Adventure|Fantasy|Sci-Fi,2536,English,USA,PG-13,225000000,7.2
+The Hobbit: The Desolation of Smaug ,Peter Jackson,Aidan Turner,Adam Brown,2013,509,186,258355354,Adventure|Fantasy,951,English,USA,PG-13,225000000,7.9
+Iron Man 3 ,Shane Black,Robert Downey Jr.,Jon Favreau,2013,608,195,408992272,Action|Adventure|Sci-Fi,1187,English,USA,PG-13,200000000,7.2
+Monsters University ,Dan Scanlon,Steve Buscemi,Tyler Labine,2013,376,104,268488329,Adventure|Animation|Comedy|Family|Fantasy,265,English,USA,G,200000000,7.3
+Oz the Great and Powerful ,Sam Raimi,Tim Holmes,Mila Kunis,2013,525,130,234903076,Adventure|Family|Fantasy,511,English,USA,PG,215000000,6.4
+World War Z ,Marc Forster,Peter Capaldi,Brad Pitt,2013,654,123,202351611,Action|Adventure|Horror|Sci-Fi|Thriller,995,English,USA,PG-13,190000000,7
+Star Trek Into Darkness ,J.J. Abrams,Benedict Cumberbatch,Bruce Greenwood,2013,590,132,228756232,Action|Adventure|Sci-Fi,1171,English,USA,PG-13,190000000,7.8
+Jack the Giant Slayer ,Bryan Singer,Eddie Marsan,Ewen Bremner,2013,338,114,65171860,Adventure|Fantasy,205,English,USA,PG-13,195000000,6.3
+The Great Gatsby ,Baz Luhrmann,Leonardo DiCaprio,Elizabeth Debicki,2013,490,143,144812796,Drama|Romance,753,English,Australia,PG-13,105000000,7.3
+Pacific Rim ,Guillermo del Toro,Charlie Hunnam,Clifton Collins Jr.,2013,575,131,101785482,Action|Adventure|Sci-Fi,1106,English,USA,PG-13,190000000,7
+Frozen ,Chris Buck,Josh Gad,Maurice LaMarche,2013,406,102,400736600,Adventure|Animation|Comedy|Family|Fantasy|Musical,904,English,USA,PG,150000000,7.6
+Thor: The Dark World ,Alan Taylor,Chris Hemsworth,Natalie Portman,2013,486,112,206360018,Action|Adventure|Fantasy,532,English,USA,PG-13,170000000,7.1
+White House Down ,Roland Emmerich,Channing Tatum,Jake Weber,2013,339,131,73103784,Action|Drama|Thriller,434,English,USA,PG-13,150000000,6.4
+Oblivion ,Joseph Kosinski,Morgan Freeman,Tom Cruise,2013,539,124,89021735,Action|Adventure|Mystery|Sci-Fi,892,English,USA,PG-13,120000000,7
+The Wolverine ,James Mangold,Hugh Jackman,Tao Okamoto,2013,440,138,132550960,Action|Adventure|Sci-Fi|Thriller,533,English,USA,PG-13,120000000,6.7
+The Croods ,Kirk De Micco,Ryan Reynolds,Emma Stone,2013,257,98,187165546,Adventure|Animation|Comedy|Family|Fantasy,195,English,USA,PG,135000000,7.3
+Gravity ,Alfonso Cuarón,Phaldut Sharma,Basher Savage,2013,738,91,274084951,Adventure|Drama|Sci-Fi|Thriller,1885,English,UK,PG-13,100000000,7.8
+The Smurfs 2 ,Raja Gosnell,Jacob Tremblay,Nancy O'Dell,2013,125,105,71017784,Adventure|Animation|Comedy|Family|Fantasy,59,English,USA,PG,105000000,5.4
+Ender's Game ,Gavin Hood,Harrison Ford,Moises Arias,2013,326,114,61656849,Action|Sci-Fi,554,English,USA,PG-13,110000000,6.7
+The Wolf of Wall Street ,Martin Scorsese,Leonardo DiCaprio,Matthew McConaughey,2013,606,240,116866727,Biography|Comedy|Crime|Drama,1138,English,USA,R,100000000,8.2
+The Secret Life of Walter Mitty ,Ben Stiller,Adam Scott,Adrian Martinez,2013,362,114,58229120,Adventure|Comedy|Drama|Fantasy|Romance,515,English,USA,PG,90000000,7.3
+Cloudy with a Chance of Meatballs 2 ,Cody Cameron,Will Forte,Khamani Griffin,2013,169,95,119793567,Animation|Comedy|Family|Fantasy|Sci-Fi,85,English,USA,PG,78000000,6.5
+Despicable Me 2 ,Pierre Coffin,Steve Carell,Miranda Cosgrove,2013,306,98,368049635,Animation|Comedy|Family|Sci-Fi,284,English,USA,PG,76000000,7.5
+Now You See Me ,Louis Leterrier,Morgan Freeman,Common,2013,384,125,117698894,Crime|Mystery|Thriller,629,English,USA,PG-13,75000000,7.3
+Olympus Has Fallen ,Antoine Fuqua,Gerard Butler,Morgan Freeman,2013,358,119,98895417,Action|Thriller,698,English,USA,R,70000000,6.5
+Legends of Oz: Dorothy's Return ,Will Finn,Lea Michele,Oliver Platt,2013,51,88,8460990,Adventure|Animation|Family|Fantasy|Musical,54,English,USA,PG,70000000,5.6
+Escape Plan ,Mikael Håfström,Sylvester Stallone,50 Cent,2013,286,115,25121291,Action|Crime|Mystery|Sci-Fi|Thriller,279,English,USA,R,50000000,6.7

@@ -1,0 +1,940 @@
+1	Captain America: Civil War	Disney	$41,420,350	4/29
+2	Batman v Superman: Dawn of Justice	WB	$36,200,000	3/24
+3	Suicide Squad	WB	$27,600,000	8/5
+4	Finding Dory	Disney	$24,781,954	7/15
+5	The Jungle Book	Disney	$24,351,449	4/8
+6	The Secret Life of Pets	UPI	$22,590,000	7/29
+7	Ice Age: Collision Course	Fox	$22,228,297	7/1
+8	The Conjuring 2	WB	$20,425,659	6/10
+9	Deadpool	Fox	$18,653,169	2/12
+10	X-Men: Apocalypse	Fox	$17,807,456	5/19
+11	Zootopia	Disney	$17,050,000	2/19
+12	Kung Fu Panda 3	Fox	$15,897,655	3/11
+13	¿Qué Culpa Tiene el Niño?	Diamond	$14,440,402	5/13
+14	Independence Day: Resurgence	Fox	$14,155,646	6/24
+15	Fantastic Beasts and Where To Find Them	WB	$14,045,533	11/18
+16	The Legend of Tarzan	WB	$13,900,000	7/8
+17	Alice Through the Looking Glass	Disney	$13,726,743	5/27
+18	Doctor Strange	Disney	$13,581,478	10/28
+19	The Revenant	Fox	$12,958,023	1/21
+20	No Manches Frida	Videocine	$11,836,599	9/16
+21	Me Before You	WB	$11,600,000	6/24
+22	Now You See Me 2	Corazon	$10,823,214	7/22
+23	Miss Peregrine's Home for Peculiar Children	Fox	$9,876,268	9/30
+24	Teenage Mutant Ninja Turtles: Out of the Shadows	PPI	$9,358,823	6/3
+25	Storks	WB	$7,853,667	9/23
+26	The Huntsman Winter's War	UPI	$7,685,545	4/8
+27	Alvin and the Chipmunks The Road Chip	Fox	$7,461,267	1/1
+28	Trolls	Fox	$7,286,662	11/4
+29	Daddy's Home	PPI	$7,056,781	1/29
+30	The Angry Birds Movie	Sony	$7,016,536	5/13
+31	Treintona, Soltera y Fantástica	Videocine	$6,899,647	10/7
+32	Ben-Hur (2016)	PPI	$6,694,818	8/19
+33	Ghostbusters (2016)	Sony	$6,637,061	8/12
+34	Moana	Disney	$6,362,032	12/2
+35	Inferno	Sony	$6,343,785	10/14
+36	Miracles from Heaven	Sony	$5,708,535	3/31
+37	Warcraft	UPI	$5,580,000	6/17
+38	The 5th Wave	Sony	$5,547,450	1/29
+39	Lights Out	WB	$5,500,000	7/29
+40	Point Break (2015)	WB	$5,354,261	1/8
+41	Ouija: Origin of Evil	UPI	$5,232,515	10/21
+42	Central Intelligence	UPI	$5,222,244	7/1
+43	La Leyenda del Chupacabras	Videocine	$5,124,930	10/21
+44	The Divergent Series: Allegiant	Corazon	$5,091,595	3/18
+45	The Purge: Election Year	UPI	$5,061,106	8/19
+46	The Boy (2016)	Diamond	$4,953,162	1/29
+47	The BFG	Disney	$4,701,774	8/12
+48	Gods of Egypt	Corazon	$4,564,695	2/26
+49	Concussion (2015)	Sony	$4,464,162	1/1
+50	The Accountant	WB	$4,424,852	11/4
+51	Compadres	Videocine	$4,225,771	4/1
+52	London Has Fallen	Diamond	$4,114,367	3/11
+53	Pete's Dragon	Disney	$3,805,762	9/16
+54	The Danish Girl	UPI	$3,789,435	1/15
+55	Jason Bourne	UPI	$3,750,000	8/26
+56	The Shallows	Sony	$3,608,763	7/15
+57	Neighbors 2: Sorority Rising	UPI	$3,458,000	5/27
+58	The Witch	UPI	$3,414,834	5/19
+59	Don't Breathe	Sony	$3,375,582	9/16
+60	The Girl on the Train (2016)	UPI	$3,236,226	11/11
+61	Dirty Grandpa	Diamond	$3,179,746	3/4
+62	Solace	Diamond	$2,905,274	1/1
+63	Busco Novio Para Mi Mujer	Videocine	$2,828,868	2/12
+64	Star Trek Beyond	PPI	$2,684,045	9/9
+65	Bad Moms	Diamond	$2,684,024	8/26
+66	Underworld: Blood Wars	Sony	$2,633,313	12/2
+67	Deepwater Horizon	Corazon	$2,602,663	9/30
+68	Mechanic: Resurrection	Cinepolis	$2,488,805	9/9
+69	Creed	WB	$2,460,699	1/29
+70	Mike and Dave Need Wedding Dates	Fox	$2,370,704	9/2
+71	Jack Reacher: Never Go Back	PPI	$2,351,315	11/25
+72	Sully	WB	$2,200,163	12/2
+73	Bridget Jones's Baby	UPI	$2,186,017	9/16
+74	Blair Witch	Videocine	$2,104,187	9/30
+75	Desierto	Cinepolis	$2,055,323	4/15
+76	How to Be Single	WB	$1,900,000	2/19
+77	El Jeremias	Sony	$1,871,783	10/28
+78	Money Monster	Sony	$1,794,338	6/16
+79	Room	UPI	$1,760,929	2/19
+80	Arrival	Sony	$1,756,282	11/11
+81	Km 31-2	Videocine	$1,693,944	11/4
+82	Nine Lives (2016)	Diamond	$1,666,401	9/2
+83	Que pena tu vida	Videocine	$1,599,851	12/2
+84	Macho	Corazon	$1,550,804	11/11
+85	The Big Short	PPI	$1,475,500	1/8
+86	La vida inmoral de la pareja ideal	Cinepolis	$1,414,463	10/21
+87	Joy	Fox	$1,409,739	1/8
+88	Campamento del terror (Summer Camp)	Videocine	$1,409,101	1/8
+89	10 Cloverfield Lane	PPI	$1,358,735	4/15
+90	Me estás matando Susana	Videocine	$1,338,188	8/19
+91	Spotlight	Sony	$1,314,401	1/15
+92	Kubo and the Two Strings	UPI	$1,293,190	10/7
+93	Norm of the North	Gussi	$1,263,254	2/5
+94	Mortadelo y Filemón contra Jimmy el Cachondo	Videocine	$1,221,690	1/15
+95	Nerve	Videocine	$1,198,538	9/2
+96	The Forest	Diamond	$1,156,041	2/19
+97	Pay the Ghost	Zima	$1,114,934	1/15
+98	Zoolander 2	PPI	$1,105,757	2/26
+99	Office Christmas Party	PPI	$1,086,224	12/9
+100	Mother's Day	Zima	$1,055,525	5/6
+101	The Other Side of the Door	Fox	$1,047,100	5/6
+102	The Magnificent Seven (2016)	Sony	$1,039,402	9/23
+103	Eye in the Sky	Corazon	$992,418	4/22
+104	The Nice Guys	Diamond	$988,779	7/8
+105	Rumbos Paralelos	Videocine	$975,795	5/19
+106	The Finest Hours	Disney	$872,330	2/26
+107	Criminal (2016)	Zima	$868,069	7/22
+108	Las Aparicio	Videocine	$860,502	2/26
+109	La Niña de la Mina	Videocine	$842,771	7/1
+110	Risen	Sony	$828,567	3/18
+111	The Faith of Anna Waters	Sky Media	$827,696	7/8
+112	Shut In	Diamond	$814,423	11/25
+113	Bastille Day	Gussi	$799,684	9/23
+114	The Whole Truth	Zima	$763,488	8/5
+115	Capture the Flag (Atrapa la bandera)	PPI	$754,949	3/25
+116	The Hateful Eight	Diamond	$733,865	2/5
+117	My Big Fat Greek Wedding 2	UPI	$731,869	3/25
+118	Keeping Up with the Joneses	Fox	$730,242	11/25
+119	Before I Wake	Gussi	$706,653	4/22
+120	El cumple de la abuela	n/a	$701,193	1/1
+121	Masterminds (2016)	Gussi	$675,777	10/14
+122	Brooklyn	n/a	$626,214	2/5
+123	Bølgen (The Wave)	Gussi	$617,614	7/29
+124	Sausage Party	Sony	$617,351	10/7
+125	A Hologram for the King	Cinepolis	$599,891	6/10
+126	Fathers and Daughters	Gussi	$551,399	5/27
+127	Fifty Shades of Black	Zima	$531,318	2/5
+128	The Light Between Oceans	CDC	$524,293	9/23
+129	Train to Busan	Cinepolis	$481,623	12/9
+130	Backtrack	Sky Media	$453,746	3/4
+131	God's Not Dead 2	Zima	$431,943	4/22
+132	The Young Messiah	Zima	$390,268	3/11
+133	Julieta	UPI	$375,676	7/8
+134	Pride and Prejudice and Zombies	Sony	$373,430	2/5
+135	Burnt	Corazon	$360,860	4/8
+136	The Choice	Videocine	$360,616	3/4
+137	The Infiltrator	Zima	$358,597	10/21
+138	Pinocchio (2013)	Zima	$351,035	6/17
+139	Eddie the Eagle	Fox	$337,372	4/1
+140	Blood Father	Zima	$323,350	10/7
+141	13 Hours	PPI	$323,263	3/4
+142	Paraiso perdido	Videocine	$321,528	3/11
+143	Carol	Corazon	$308,056	2/12
+144	Chronic (2015)	Videocine	$289,437	4/8
+145	Robinson Crusoe (2016)	Gussi	$284,864	11/11
+146	Tini: El gran cambio de Violetta	Disney	$238,645	6/3
+147	Guatdafoc (Sundown)	Videocine	$229,963	4/22
+148	Cafe Society	Imagem	$225,499	11/18
+149	Legend	Disney	$225,209	2/19
+150	Batman: The Killing Joke	WB	$218,007	7/29
+151	Hail, Caesar!	n/a	$207,000	4/22
+152	Free State of Jones	Cinepolis	$174,478	8/12
+153	Morgan	Fox	$173,828	9/9
+154	07:19 La Hora del Temblor	Cinepolis	$173,756	9/23
+155	Mon roi (My King)	Canibal	$171,212	5/6
+156	Genius	Sun	$170,044	10/7
+157	Cell	Cinepolis	$161,629	7/22
+158	Visions	Gussi	$161,380	2/12
+159	Boruto: Naruto the Movie	Cinepolis	$144,394	4/15
+160	Pawn Sacrifice	Gussi	$138,563	2/26
+161	Irrational Man	Gussi	$123,318	3/18
+162	El Americano: The Movie	n/a	$122,503	1/22
+163	Viral	Cinepolis	$119,452	10/7
+164	Skiptrace	Zima	$107,323	8/19
+165	Dragon Nest: Warriors' Dawn	Gussi	$105,513	1/22
+166	By the Sea	UPI	$100,691	1/1
+167	Son of Saul	Sony	$100,060	2/26
+168	Palmeras en la nieve (Palm Trees in the Snow)	n/a	$95,383	3/4
+169	The 9th Life of Louis Drax	Gussi	$93,976	11/18
+170	De Surprise	Gussi	$90,920	6/10
+171	Un peu, beaucoup, aveuglément! (Blind Date)	n/a	$89,795	3/4
+172	Our Kind of Traitor	Diamond	$89,728	9/30
+173	Truman (2015)	Gussi	$81,818	4/8
+174	Ocho apellidos catalanes	n/a	$81,273	1/21
+175	Ratchet & Clank	Diamond	$81,172	6/10
+176	Maggie's Plan	Sony	$75,234	8/19
+177	Blackway	Amarok	$70,134	12/9
+178	Im Labyrinth des Schweigens (Labyrinth of Lies)	Zima	$66,924	5/19
+179	Queen of Katwe	Disney	$65,859	11/4
+180	Mustang	n/a	$63,229	2/5
+181	Youth	Mant.	$62,962	4/29
+182	Captain Fantastic	UPI	$62,627	12/9
+183	Truth	Zima	$58,536	3/24
+184	Until Forever (Por Siempre)	CanZion	$55,477	11/4
+185	Anomalisa	PPI	$54,745	2/5
+186	Kahlil Gibran's The Prophet	n/a	$51,482	1/21
+187	Louder Than Bombs	Canibal	$50,986	7/1
+188	Sushi a la mexicana (East Side Sushi)	Cinepolis	$50,869	8/5
+189	Embrace of the Serpent	n/a	$50,398	2/12
+190	American Ultra	Corazon	$48,342	1/8
+191	Un homme idéal	n/a	$44,463	1/1
+192	Our Little Sister	n/a	$32,493	3/11
+193	Grandma (2015)	Sony	$28,096	2/12
+194	Plastic (2014)	n/a	$22,730	1/21
+195	Nobody from Nowhere	n/a	$22,511	4/15
+196	Hands of Stone	Diamond	$20,257	11/11
+197	Mia madre	n/a	$19,005	1/8
+198	Boy and the World	n/a	$18,915	1/1
+199	Tusen Ganger God Natt	n/a	$15,868	1/8
+200	La tête haute	n/a	$15,537	3/18
+201	Eisenstein in Guanajuato	n/a	$12,395	1/21
+202	Rock The Kasbah	Sony	$10,806	3/11
+203	Tangerine	n/a	$9,913	3/18
+204	Lucifer (2014)	n/a	$9,711	1/29
+205	Haganenet (The Kindergarten Teacher)	n/a	$9,660	1/29
+206	Finding Fela	n/a	$2,882	2/12
+207	Love & Mercy	Sony	$1,938	2/19
+208	La tierra y la sombra (Land and Shade)	n/a	$1,400	3/11
+1	Furious 7	UPI	$51,682,039	4/2
+2	Avengers: Age of Ultron	Disney	$50,940,433	4/30
+3	Minions	UPI	$43,910,109	7/9
+4	Jurassic World	UPI	$42,105,404	6/11
+5	Inside Out	Disney	$31,100,000	6/19
+6	San Andreas	WB	$28,445,871	5/29
+7	Star Wars: The Force Awakens	Disney	$27,191,173	12/17
+8	Hotel Transylvania 2	Sony	$23,925,697	9/25
+9	The Hunger Games: Mockingjay - Part 2	Videocine	$20,156,285	11/20
+10	Cinderella (2015)	Disney	$15,486,930	3/13
+11	The SpongeBob Movie: Sponge Out of Water	PPI	$15,176,891	1/29
+12	Ant-Man	Disney	$15,100,000	7/17
+13	Fifty Shades of Grey	UPI	$14,148,888	2/12
+14	The Good Dinosaur	Disney	$13,253,270	11/27
+15	Mission: Impossible - Rogue Nation	PPI	$12,053,845	7/30
+16	Pixels	Sony	$12,000,000	7/24
+17	Spectre	Sony	$11,604,067	11/6
+18	Terminator Genisys	PPI	$11,167,631	7/2
+19	Home	Fox	$11,101,769	3/27
+20	Fantastic Four	Fox	$10,240,076	8/6
+21	Un Gallo con Muchos Huevos	Videocine	$9,975,921	8/20
+22	Little Boy	Videocine	$9,697,966	5/15
+23	Maze Runner: The Scorch Trials	Fox	$9,511,948	9/10
+24	Taken 3	Fox	$9,357,828	1/30
+25	Insurgent	Corazon	$9,288,932	3/20
+26	Focus	WB	$8,410,724	3/6
+27	Everest	UPI	$8,232,318	9/16
+28	Mad Max: Fury Road	WB	$7,909,567	5/15
+29	American Sniper	WB	$7,870,217	2/20
+30	The Peanuts Movie	Fox	$7,825,529	12/25
+31	The Martian	Fox	$7,759,156	10/1
+32	Pan	WB	$7,280,836	10/9
+33	Goosebumps	Sony	$7,105,137	10/23
+34	Ouija	Videocine	$6,617,360	1/8
+35	In the Heart of the Sea	WB	$6,335,173	12/4
+36	Dragon Ball Z: Fukkatsu No F	Fox	$6,155,757	6/19
+37	The Little Prince	Corazon	$6,073,185	11/13
+38	The Intern	WB	$5,940,670	10/1
+39	Crimson Peak	UPI	$5,716,941	10/30
+40	Fury	Sony	$5,687,195	1/1
+41	Tomorrowland	Disney	$5,671,204	5/22
+42	Paul Blart: Mall Cop 2	Sony	$5,615,133	4/17
+43	Seventh Son	UPI	$5,319,361	1/15
+44	Paranormal Activity: The Ghost Dimension	PPI	$5,272,870	10/23
+45	Victor Frankenstein	Fox	$5,176,528	11/27
+46	Vacation	WB	$4,704,406	8/14
+47	Insidious Chapter 3	Sony	$4,686,592	6/26
+48	The Woman in Black 2: Angel of Death	n/a	$4,665,141	1/22
+49	Into the Woods	Disney	$4,650,412	2/6
+50	Paper Towns	Fox	$4,407,702	7/24
+51	The Last Witch Hunter	Corazon	$4,190,040	10/30
+52	Ted 2	UPI	$4,105,608	8/27
+53	Poltergeist (2015)	Fox	$4,061,811	6/26
+54	Jupiter Ascending	WB	$3,826,366	2/5
+55	Kingsman: The Secret Service	Fox	$3,777,669	2/27
+56	Spy	Fox	$3,776,833	6/5
+57	Run All Night	WB	$3,765,177	4/17
+58	Don Gato: el inicio de la pandilla (Top Cat Begins)	WB	$3,204,601	10/30
+59	The Lazarus Effect	Videocine	$3,143,528	3/27
+60	The 33	Fox	$3,072,751	8/27
+61	Chappie	Sony	$2,992,048	3/13
+62	The Vatican Tapes	n/a	$2,990,474	8/6
+63	La belle et la bête	Zima	$2,679,929	1/23
+64	Hitman: Agent 47	Fox	$2,629,316	8/20
+65	The Age of Adaline	n/a	$2,596,528	5/8
+66	Hot Pursuit	WB	$2,562,573	6/26
+67	Sinister 2	Corazon	$2,520,742	9/3
+68	The Gallows	WB	$2,429,647	7/17
+69	The Theory of Everything	UPI	$2,339,275	1/8
+70	The Imitation Game	n/a	$2,313,209	2/5
+71	Sicario	Videocine	$2,234,320	10/30
+72	Krampus	UPI	$2,048,921	12/11
+73	No Escape	n/a	$2,047,373	9/25
+74	Scouts Guide to the Zombie Apocalypse	PPI	$2,030,837	11/13
+75	The Man from U.N.C.L.E.	WB	$1,997,078	9/3
+76	Escobar: Paradise Lost	Zima	$1,943,734	1/15
+77	The Secret in their Eyes (2015)	Diamond	$1,856,632	12/11
+78	Unbroken	UPI	$1,822,401	1/29
+79	The Walk	Sony	$1,817,746	10/16
+80	Bridge of Spies	Fox	$1,752,608	10/23
+81	Tinker Bell and the Legend of the NeverBeast	Disney	$1,727,841	1/16
+82	Clown (2014)	Gussi	$1,726,619	5/22
+83	The Transporter Refueled	Gussi	$1,713,683	10/9
+84	Annie (2014)	Sony	$1,683,629	1/23
+85	The Longest Ride	Fox	$1,641,849	4/10
+86	James Wan Presents Demonic	n/a	$1,622,108	8/20
+87	The Visit	UPI	$1,504,004	9/25
+88	Wicked Flying Monkeys	Videocine	$1,436,742	4/10
+89	Miss You Already	Gussi	$1,407,695	12/25
+90	Mortdecai	Videocine	$1,382,788	4/24
+91	The Boy Next Door	UPI	$1,367,745	3/20
+92	Southpaw	n/a	$1,366,459	8/14
+93	The Cobbler	Zima	$1,353,414	2/20
+94	The Gift (2015)	Gussi	$1,302,568	9/16
+95	Love, Rosie	Gussi	$1,261,792	4/17
+96	Unfriended	UPI	$1,251,578	8/14
+97	War Room	n/a	$1,202,867	8/27
+98	Project Almanac	PPI	$1,197,027	3/6
+99	Whiplash	Sony	$1,192,390	1/23
+100	Heist (2015)	Gussi	$1,011,787	11/13
+101	The Gambler	PPI	$976,973	1/8
+102	Black Mass	WB	$943,278	11/20
+103	Woman in Gold	n/a	$937,548	7/2
+104	Ooops! Noah Is Gone	n/a	$877,937	7/30
+105	Qu'est-ce qu'on a fait au Bon Dieu?	n/a	$870,899	3/6
+106	Good People	n/a	$852,722	1/1
+107	Love the Coopers	Corazon	$835,399	12/4
+108	The Possession of Michael King	Gussi	$833,265	2/12
+109	How to Make Love Like an Englishman	Zima	$815,338	9/3
+110	Out of the Dark	Zima	$765,523	4/10
+111	The Hallow	Zima	$745,975	11/6
+112	Shaun the Sheep Movie	UPI	$743,172	9/3
+113	Let's Be Cops	Fox	$717,309	1/8
+114	Still Alice	n/a	$708,600	2/20
+115	The Water Diviner	Zima	$706,524	5/22
+116	Happy Times (Xingfu Shiguang)	n/a	$704,628	2/20
+117	Pitch Perfect 2	UPI	$695,136	8/6
+118	The Damned (2014)	Gussi	$678,939	12/4
+119	Malaventura	Videocine	$672,888	2/12
+120	Steve Jobs	UPI	$642,058	12/25
+121	Beyond the Reach	n/a	$595,450	6/5
+122	Jessabelle	Gussi	$575,069	2/27
+123	Playing It Cool	Gussi	$539,933	7/17
+124	Boyhood	UPI	$476,973	1/1
+125	It Follows	Gussi	$471,577	7/24
+126	Knock Knock	Corazon	$450,752	9/10
+127	Ladrones	Videocine	$440,909	11/13
+128	Selma	Zima	$438,538	2/12
+129	The 7th Dwarf	n/a	$427,324	9/10
+130	McFarland, USA	Disney	$424,265	2/27
+131	5 Flights Up (Ruth & Alex)	Zima	$403,111	6/11
+132	Grace of Monaco	Gussi	$396,380	8/27
+133	La famille Bélier	Corazon	$389,797	2/27
+134	She's Funny That Way	n/a	$384,329	8/20
+135	Do You Believe?	n/a	$380,292	3/20
+136	The Second Best Exotic Marigold Hotel	Fox	$376,881	5/8
+137	Straight Outta Compton	UPI	$371,425	10/9
+138	Child 44	Corazon	$370,758	4/24
+139	Ju-on: The Final Curse	n/a	$363,752	8/14
+140	Goodnight Mommy	n/a	$353,034	12/4
+141	Snowpiercer	Gussi	$341,256	10/1
+142	The Loft	Gussi	$328,865	5/15
+143	The Gunman	Corazon	$320,775	6/26
+144	Kill the Messenger	Gussi	$318,698	4/10
+145	Foxcatcher	Sony	$315,865	1/16
+146	Suite Francaise	n/a	$311,837	12/4
+147	Ghoul	n/a	$308,690	12/11
+148	Danny Collins	Gussi	$304,941	7/30
+149	The Last: Naruto the Movie	n/a	$299,216	5/22
+150	Hector And The Search For Happiness	Gussi	$298,155	6/5
+151	Ricki and the Flash	Sony	$296,730	9/10
+152	A Little Chaos	Zima	$291,136	7/17
+153	Trainwreck	UPI	$289,635	10/16
+154	Outcast (2014)	Gussi	$277,032	8/14
+155	Dark Places	Corazon	$274,741	6/5
+156	Magic Mike XXL	WB	$274,633	9/16
+157	Wild (2014)	Fox	$271,502	1/16
+158	The Forger	Zima	$264,604	11/13
+159	600 Millas (600 Miles)	Videocine	$260,644	12/4
+160	5 to 7	Zima	$259,757	4/24
+161	The Salt of the Earth	n/a	$245,775	4/30
+162	El Clan	Fox	$229,559	12/17
+163	The Captive	n/a	$223,820	4/24
+164	Self/Less	n/a	$222,124	7/24
+165	El desconocido (Retribution)	n/a	$190,627	10/23
+166	Maya the Bee Movie	n/a	$178,347	10/16
+167	Entourage	WB	$173,341	7/30
+168	A Walk in the Woods	Zima	$172,173	11/27
+169	Samba	n/a	$162,071	10/23
+170	Timbuktu	n/a	$152,897	3/27
+171	Suffragette	UPI	$146,913	12/11
+172	A Most Violent Year	n/a	$136,838	5/8
+173	Pride (2014)	n/a	$135,212	6/26
+174	The Interview	Sony	$128,759	2/6
+175	Para Elisa	n/a	$120,276	4/24
+176	While We're Young	n/a	$119,674	11/6
+177	Les boulistes (Les invincibles)	n/a	$114,927	6/19
+178	Macbeth (2015)	n/a	$106,421	11/27
+179	Don't Blink	n/a	$104,549	10/1
+180	Passion	Gussi	$99,942	1/23
+181	Tales of Halloween	n/a	$99,772	11/13
+182	Selección canina	Gussi	$97,268	4/24
+183	Inherent Vice	WB	$94,995	3/27
+184	Gett: The Trial of Viviane Amsalem	Zima	$85,449	5/29
+185	Une nouvelle amie (The New Girlfriend)	n/a	$84,745	11/20
+186	45 Years	n/a	$82,493	12/25
+187	Love (2015)	n/a	$80,067	12/11
+188	Respire	n/a	$79,807	7/9
+189	Bird People	n/a	$79,588	6/26
+190	Spare Parts	Videocine	$79,228	6/5
+191	The Voices	n/a	$75,311	8/6
+192	Autómata	Gussi	$71,793	5/22
+193	Eden	n/a	$69,609	8/6
+194	Amy	n/a	$62,964	11/13
+195	7 cajas (7 Boxes)	n/a	$61,755	7/30
+196	Monkey Kingdom	Disney	$56,681	4/17
+197	Il capitale umano	n/a	$56,633	7/24
+198	White God	Zima	$55,991	9/16
+199	Stockholm	n/a	$55,192	6/5
+200	He Named Me Malala	Fox	$53,603	11/13
+201	Hippocrates	n/a	$52,911	6/11
+202	My Old Lady	n/a	$51,489	12/4
+203	El club de los incomprendidos	n/a	$50,566	5/29
+204	Journal d'une femme de chambre	n/a	$50,370	8/27
+205	9 mois ferme (9 Month Stretch)	n/a	$44,869	5/15
+206	Avant l'hiver (Before the Winter Chill)	n/a	$43,850	5/22
+207	The Night Before	Sony	$41,202	12/11
+208	Filth	n/a	$39,261	11/27
+209	La confrérie des larmes (Brotherhood of Tears)	n/a	$35,352	12/4
+210	Me and Earl and the Dying Girl	Fox	$34,493	10/30
+211	We Are Your Friends	n/a	$34,399	10/9
+212	Victoria	n/a	$32,336	10/16
+213	Victoria	n/a	$32,336	10/16
+214	Incompresa (Misunderstood)	n/a	$31,160	9/25
+215	White Bird in a Blizzard	n/a	$28,211	12/11
+216	Mr. Holmes	Sony	$27,884	12/25
+217	Jauja	n/a	$26,348	5/15
+218	Todos están muertos	n/a	$24,918	10/16
+219	Open Windows	n/a	$24,284	10/16
+220	Xenia	n/a	$23,370	9/3
+221	Anina	n/a	$21,927	7/3
+222	The Farewell Party	Zima	$21,583	10/9
+223	Are You Here	Corazon	$19,552	8/20
+224	Le dernier diamant	n/a	$16,558	10/9
+225	Omoide no Marnie	Zima	$15,739	12/11
+226	Hermosa juventud (Beautiful Youth)	n/a	$14,311	7/24
+227	Adieu au langage (Goodbye to Language 3D)	n/a	$14,041	5/15
+228	What We Do in the Shadows	n/a	$12,297	7/2
+229	Barbie in Rock 'N Royals	n/a	$12,206	8/20
+230	The Tribe	n/a	$11,139	10/2
+231	Blue Ruin	n/a	$9,713	8/14
+232	Moebius	n/a	$7,914	5/29
+233	O Homem das Multidões	n/a	$6,339	7/24
+234	Addicted	Corazon	$5,684	5/15
+235	Super Nada	n/a	$5,458	3/27
+236	Almanaque	n/a	$4,916	6/19
+237	Plot for Peace	n/a	$4,853	8/14
+238	The Diary of a Teenage Girl	Sony	$2,985	12/17
+239	Iris (2015)	n/a	$2,929	11/20
+240	Arraianos	n/a	$1,503	2/13
+241	The Missing Picture	n/a	$1,081	10/2
+242	Citizenfour	n/a	$455	10/2
+243	Night Moves	n/a	$401	7/3
+244	8 Tiros	Sony	$227	9/25
+245	El último mago O Bilembambudin	Sony	$171	1/30
+1	Maleficent	Disney	$46,172,590	5/30
+2	Transformers: Age of Extinction	PPI	$33,534,598	7/10
+3	Rio 2	Fox	$30,905,962	4/10
+4	The Amazing Spider-Man 2	Sony	$28,460,534	4/17
+5	Captain America: The Winter Soldier	Disney	$25,720,282	3/28
+6	X-Men: Days of Future Past	Fox	$24,581,963	5/23
+7	Dawn of the Planet of the Apes	Fox	$24,579,285	7/24
+8	The Hunger Games: Mockingjay - Part 1	n/a	$23,729,251	11/20
+9	How to Train Your Dragon 2	Fox	$19,941,262	6/19
+10	Guardians of the Galaxy	Disney	$19,648,542	8/1
+11	Annabelle	WB	$19,189,547	10/23
+12	Penguins of Madagascar	Fox	$18,628,880	12/12
+13	Teenage Mutant Ninja Turtles (2014)	PPI	$18,214,290	8/7
+14	Big Hero 6	Disney	$16,989,441	11/14
+15	Godzilla (2014)	WB	$16,479,339	5/15
+16	Noah	PPI	$15,736,543	3/21
+17	The Fault in our Stars	Fox	$15,131,716	6/5
+18	300: Rise of an Empire	WB	$14,892,708	3/7
+19	Dracula Untold	UPI	$13,555,794	10/2
+20	La Dictadura Perfecta	n/a	$12,809,592	10/16
+21	Cásese quien pueda (Get Married If You Can)	Videocine	$12,710,975	2/14
+22	Lucy	UPI	$12,629,184	8/28
+23	Blended	WB	$12,577,038	6/25
+24	Into The Storm	WB	$10,621,639	9/4
+25	The Book of Life (2014)	Fox	$10,391,181	10/16
+26	The Maze Runner	Fox	$10,028,064	9/11
+27	The Lego Movie	WB	$10,004,633	2/7
+28	Hercules (2014)	PPI	$9,812,367	8/21
+29	Cantinflas	Videocine	$9,543,756	9/18
+30	Mr. Peabody & Sherman	Fox	$8,342,462	2/28
+31	Robocop (2014)	Sony	$8,012,807	2/14
+32	Edge of Tomorrow	WB	$8,001,255	6/5
+33	Divergent	n/a	$7,797,101	4/4
+34	Non-Stop	n/a	$7,497,250	5/1
+35	Paranormal Activity: The Marked Ones	PPI	$6,776,552	1/3
+36	La leyenda de las momias de Guanajuato	Videocine	$6,321,314	10/30
+37	47 Ronin	UPI	$5,844,181	1/31
+38	Interstellar	WB	$5,787,355	11/6
+39	The Expendables 3	Gussi	$5,746,377	8/14
+40	The Wolf of Wall Street	n/a	$5,706,398	1/10
+41	12 Years a Slave	n/a	$5,558,102	2/21
+42	Neighbors	UPI	$5,548,655	7/3
+43	I, Frankenstein	n/a	$5,387,885	1/24
+44	Más negro que la noche (Darker Than Night)	Videocine	$5,220,626	8/14
+45	Qué le dijiste a Dios?	Videocine	$5,161,905	1/17
+46	Sex Tape	Sony	$5,161,881	8/7
+47	The Boxtrolls	UPI	$5,073,059	9/11
+48	Guten Tag, Ramón	Fox	$4,832,599	8/21
+49	El Crimen del Cácaro Gumaro	Fox	$4,757,098	3/14
+50	Planes: Fire & Rescue	Disney	$4,502,236	7/18
+51	Deliver Us From Evil	Sony	$4,237,553	9/12
+52	Pompeii	Gussi	$4,141,754	2/21
+53	Alexander and the Terrible, Horrible, No Good, Very Bad Day	Disney	$4,094,389	10/10
+54	Need for Speed	Disney	$3,936,801	3/14
+55	The Other Woman (2014)	Fox	$3,875,056	5/1
+56	The Book Thief	Fox	$3,804,647	1/17
+57	The Equalizer	Sony	$3,562,425	9/25
+58	Devil's Due	Fox	$3,543,448	1/31
+59	Gone Girl	Fox	$3,444,473	10/2
+60	Son of God	n/a	$3,158,936	4/10
+61	Ender's Game	n/a	$3,028,212	1/3
+62	American Hustle	Sony	$2,995,621	1/17
+63	Transcendence	n/a	$2,939,607	6/19
+64	Paddington	n/a	$2,884,313	11/27
+65	The Judge	WB	$2,844,380	10/23
+66	If I Stay	WB	$2,830,269	8/28
+67	Jack Ryan: Shadow Recruit	PPI	$2,815,135	1/17
+68	The Nut Job	n/a	$2,661,700	8/21
+69	Muppets Most Wanted	Disney	$2,637,357	3/21
+70	Tarzan (2013)	Gussi	$2,474,594	3/14
+71	A Walk Among the Tombstones	n/a	$2,438,700	9/18
+72	Seinto Seiya: Legend of Sanctuary	n/a	$2,313,180	9/25
+73	Obediencia Perfecta	n/a	$2,170,783	5/1
+74	Amor de mis Amores	n/a	$2,167,370	9/4
+75	22 Jump Street	Sony	$2,115,811	8/28
+76	3 Days to Kill	Gussi	$2,080,394	5/8
+77	The Pirate Fairy	Disney	$2,058,700	4/24
+78	Heaven is for Real	Sony	$1,994,424	6/27
+79	Oculus	Gussi	$1,840,396	4/17
+80	Paraiso	Videocine	$1,821,484	7/3
+81	The Monuments Men	Fox	$1,753,510	2/14
+82	The Legend of Hercules	n/a	$1,713,602	2/7
+83	And So It Goes	n/a	$1,643,446	7/31
+84	The Grand Budapest Hotel	Fox	$1,638,127	4/24
+85	John Wick	n/a	$1,635,199	10/30
+86	As Above/So Below	UPI	$1,499,880	9/18
+87	Fachon Models	Videocine	$1,489,112	2/28
+88	Khumba	Gussi	$1,378,199	1/17
+89	God's Not Dead	n/a	$1,308,582	4/4
+90	The Giver	n/a	$1,274,913	9/25
+91	The Quiet Ones	n/a	$1,256,083	5/8
+92	The Purge: Anarchy	UPI	$1,183,331	7/31
+93	Nothing Left to Fear	n/a	$1,167,491	6/26
+94	Cesar Chavez	Videocine	$1,147,582	5/1
+95	Begin Again	Gussi	$1,085,450	10/9
+96	A Million Ways to Die in the West	UPI	$1,057,125	6/12
+97	Chef	n/a	$1,057,095	7/10
+98	What If (2014)	n/a	$1,054,097	8/14
+99	A Haunted House 2	Gussi	$970,884	4/24
+100	5 Bravo	Videocine	$966,427	7/17
+101	Cambio De Ruta	n/a	$959,576	5/22
+102	The November Man	n/a	$954,841	10/9
+103	Homefront	Gussi	$924,367	3/7
+104	Endless Love (2014)	n/a	$917,744	4/24
+105	Saving Mr. Banks	Disney	$914,547	2/21
+106	La jaula de oro (The Golden Dream)	n/a	$906,790	5/8
+107	I Hate Love	Videocine	$901,128	6/12
+108	Nymphomaniac (2013)	n/a	$882,628	5/15
+109	Dumb and Dumber To	Gussi	$881,061	11/13
+110	Dallas Buyers Club	UPI	$815,918	2/7
+111	The Remaining	n/a	$803,222	9/25
+112	Grudge Match	WB	$802,158	1/24
+113	Labor Day	PPI	$787,275	3/14
+114	Winter's Tale	WB	$759,941	2/14
+115	Birdman	Fox	$715,280	11/13
+116	Her (2013)	Sony	$708,616	1/31
+117	August: Osage County	Gussi	$692,849	2/28
+118	One Direction: Where We Are	n/a	$673,497	10/11
+119	205 - Zimmer der Angst	n/a	$652,977	1/10
+120	Brick Mansions	Gussi	$633,186	6/26
+121	Fading Gigolo	Gussi	$618,278	7/17
+122	Dolphin Tale 2	WB	$609,520	9/25
+123	La hija de Moctezuma	n/a	$587,461	10/9
+124	That Awkward Moment	Gussi	$577,364	5/15
+125	One Chance	n/a	$571,565	7/24
+126	Thanks for Sharing	n/a	$570,947	2/7
+127	The Haunting in Connecticut 2: Ghosts of Georgia	Gussi	$536,796	5/30
+128	Der Teufelsgeiger (The Devil's Violinist)	Gussi	$534,750	7/24
+129	Believe	n/a	$517,278	1/24
+130	Jersey Boys	WB	$513,773	7/17
+131	The Games Maker	Disney	$446,006	7/4
+132	Minuscule - La vallée des fourmis perdues (Minuscule, Valley of the Lost Ants)	n/a	$437,391	7/31
+133	La migliore offerta (The Best Offer)	n/a	$430,620	6/12
+134	Der Medicus (The Physician)	Gussi	$426,384	9/25
+135	Philomena	n/a	$410,388	2/7
+136	Tres bodas de más (Three Many Weddings)	n/a	$400,783	10/2
+137	Anchorman 2: The Legend Continues	PPI	$397,193	1/31
+138	Lone Survivor	n/a	$388,934	2/28
+139	Ilusión Nacional	Videocine	$354,647	4/4
+140	Draft Day	n/a	$352,660	8/28
+141	Nymphomaniac: Part 2	n/a	$350,019	7/3
+142	Magic in the Moonlight	Gussi	$337,079	10/23
+143	Tokarev	Gussi	$315,144	10/30
+144	The Railway Man	Gussi	$285,834	6/19
+145	The Hundred-Foot Journey	Disney	$279,866	9/4
+146	Renoir	n/a	$264,004	3/28
+147	Soshite chichi ni naru (Like Father, Like Son)	n/a	$258,370	1/3
+148	Mr. Morgan's Last Love	n/a	$252,111	8/7
+149	The Immigrant	n/a	$243,714	6/26
+150	Justin and the Knights of Valour	Gussi	$235,843	6/12
+151	La grande bellezza (The Great Beauty)	n/a	$232,805	3/7
+152	Los insólitos peces gato	n/a	$214,928	4/4
+153	No Tell Motel	n/a	$213,286	2/28
+154	Zip & Zap and the Marble Gang	n/a	$212,062	3/7
+155	Wadjda	n/a	$205,992	4/24
+156	Sin City 2	Gussi	$202,451	11/6
+157	Elsa & Fred (2014)	n/a	$198,953	10/30
+158	The Brass Teapot	n/a	$194,089	5/8
+159	The Returned	n/a	$193,943	10/30
+160	Earth to Echo	Gussi	$188,176	8/28
+161	Jeune & jolie (Young and Beautiful)	n/a	$183,062	6/19
+162	Million Dollar Arm	Disney	$163,372	8/14
+163	Deadfall (2012)	n/a	$161,081	1/24
+164	Nightcrawler	n/a	$153,857	11/6
+165	Las brujas de Zugarramurdi (Witching and Bitching)	n/a	$152,609	2/14
+166	The Lunchbox	n/a	$144,673	3/14
+167	Ocho apellidos vascos	n/a	$144,565	7/3
+168	Combustion	n/a	$144,485	8/7
+169	Mood Indigo	n/a	$142,302	1/17
+170	Yves Saint Laurent	n/a	$140,593	10/2
+171	Kaze tachinu (The Wind Rises)	n/a	$134,835	7/24
+172	All Is Lost	n/a	$133,213	3/21
+173	Eyjafjallajökull	n/a	$131,502	8/21
+174	Grand Piano	n/a	$127,626	8/21
+175	Les saveurs du Palais (Haute Cuisine)	n/a	$127,595	5/1
+176	My Little Pony: Equestria Girls - Rainbow Rocks	n/a	$124,601	11/6
+177	L'inconnu du lac (Stranger By the Lake)	n/a	$122,390	4/10
+178	Lovely Molly	n/a	$113,168	2/21
+179	Inside Llewyn Davis	n/a	$112,676	1/24
+180	A Few Best Men	n/a	$112,268	1/10
+181	Bears	Disney	$108,487	4/17
+182	The Trials of Cate McCall	Gussi	$102,654	1/31
+183	Le grand méchant loup	n/a	$101,848	5/30
+184	Oldboy (2013)	n/a	$101,050	9/18
+185	Vampire Academy	n/a	$98,258	2/21
+186	Wakolda	n/a	$96,927	10/23
+187	The Face of Love	Gussi	$96,850	9/4
+188	Tom à la ferme	n/a	$93,706	7/31
+189	Clouds Of Sils Maria	n/a	$89,624	11/6
+190	Yi dai zong shi (The Grandmaster)	n/a	$78,567	1/10
+191	La danza de la realidad (The Dance of Reality)	n/a	$76,165	6/12
+192	The Look of Love	n/a	$73,767	7/10
+193	The Past	n/a	$73,532	8/7
+194	The Devil's Hand	n/a	$72,836	11/6
+195	Still Mine	n/a	$68,997	3/7
+196	The Good Lie	n/a	$67,992	10/23
+197	Gloria	n/a	$64,430	1/10
+198	Breathe In	n/a	$60,165	5/15
+199	The Broken Circle Breakdown	n/a	$56,134	8/28
+200	Upstream Color	n/a	$55,233	1/3
+201	Klip	n/a	$54,032	7/10
+202	The Selfish Giant	n/a	$53,950	8/14
+203	What Maisie Knew	n/a	$53,821	2/7
+204	Gabrielle (2013)	n/a	$53,757	10/16
+205	Oh Boy	n/a	$48,453	9/25
+206	Nebraska	Sony	$42,780	2/21
+207	Svecenikova Djeca (The Priest's Children)	n/a	$41,216	10/9
+208	Vi är bäst!	n/a	$40,883	3/21
+209	In Their Skin	n/a	$36,428	1/24
+210	Pozitia copilului (Child's Pose)	n/a	$35,458	9/25
+211	La gran familia española	n/a	$35,291	11/6
+212	Barbie and the Secret Door	n/a	$33,983	8/21
+213	Violetta: La emoción en concierto	Disney	$31,334	5/9
+214	Lore	n/a	$29,531	1/17
+215	Party Girl	n/a	$29,002	10/30
+216	Secreto De Confesion	n/a	$28,841	2/28
+217	Paradies: Liebe	n/a	$28,137	2/28
+218	Jigoku de naze warui (Why Don't You Play in Hell?)	n/a	$21,609	7/3
+219	Devil's Knot	n/a	$21,468	9/18
+220	Narco Cultura	Gussi	$18,602	3/21
+221	No One Knows About Persian Cats	n/a	$16,675	6/12
+222	Angèle et Tony	n/a	$10,663	2/7
+223	The Armstrong Lie	Sony	$10,581	2/21
+224	Polisse	n/a	$10,373	7/24
+225	Bekas	n/a	$9,920	1/17
+226	Paradies: Glaube (Paradise: Faith)	n/a	$9,122	5/9
+227	Berberian Sound Studio	n/a	$8,943	5/22
+228	20 Feet from Stardom	n/a	$7,355	11/6
+229	Vic and Flo Saw a Bear	n/a	$5,613	9/4
+230	African Safari	n/a	$4,781	9/11
+231	Inevitable	Sony	$4,516	4/4
+232	Liv & Ingmar	n/a	$4,024	3/21
+233	Island of Lemurs: Madagascar (IMAX)	n/a	$3,580	10/23
+234	Pelo malo	n/a	$3,512	11/6
+235	El Secreto De Lucia	Sony	$1,488	5/9
+236	Tensión sexual no resuelta	n/a	$341	1/24
+237	Eddie: The Sleepwalking Cannibal	n/a	$174	8/22
+1	Iron Man 3	Disney	$48,566,365	4/26
+2	Despicable Me 2	UPI	$47,702,364	7/5
+3	Instructions Not Included	Videocine	$46,103,013	9/20
+4	Monsters University	Disney	$37,608,021	6/21
+5	Fast & Furious 6	UPI	$35,860,202	5/24
+6	The Croods	Fox	$27,682,452	3/22
+7	Nosotros los Nobles	WB	$26,250,219	3/28
+8	Frozen	Disney	$25,732,202	12/19
+9	The Hunger Games: Catching Fire	Videocine	$25,157,484	11/22
+10	Thor: The Dark World	Disney	$23,857,540	11/1
+11	World War Z	PPI	$23,481,670	6/28
+12	Man of Steel	WB	$21,127,388	6/14
+13	The Conjuring	WB	$18,948,011	8/23
+14	The Hobbit: The Desolation of Smaug	WB	$18,394,490	12/12
+15	Gravity	WB	$17,759,503	10/18
+16	The Wolverine	Fox	$17,021,460	7/26
+17	Pacific Rim	WB	$16,115,369	7/12
+18	Oz the Great and Powerful	Disney	$15,356,159	3/8
+19	G.I. Joe: Retaliation	PPI	$14,290,291	3/28
+20	Now You See Me	n/a	$13,897,322	8/2
+21	Hansel and Gretel: Witch Hunters	PPI	$13,788,120	1/25
+22	After Earth	Sony	$13,777,293	6/7
+23	Jack the Giant Slayer	WB	$13,517,642	3/15
+24	Grown Ups 2	Sony	$12,371,239	8/16
+25	The Smurfs 2	Sony	$12,002,955	8/2
+26	Turbo	Fox	$10,176,921	7/19
+27	Epic	Fox	$10,063,340	5/17
+28	The Lone Ranger	Disney	$10,034,798	7/19
+29	Mama	UPI	$9,823,169	2/1
+30	Cloudy with a Chance of Meatballs 2	Sony	$9,084,609	10/4
+31	A Good Day to Die Hard	Fox	$8,583,037	2/14
+32	Last Vegas	n/a	$8,388,133	12/19
+33	Pulling Strings	Videocine	$7,882,858	11/8
+34	Oblivion	UPI	$7,528,661	4/12
+35	Planes	Disney	$7,433,437	9/13
+36	Las aventuras de Tadeo Jones	PPI	$7,274,656	2/1
+37	Star Trek Into Darkness	PPI	$6,775,180	5/10
+38	The Secret Life of Walter Mitty	Fox	$6,567,280	12/25
+39	Percy Jackson: Sea of Monsters	Fox	$6,506,783	8/9
+40	The Hangover Part III	WB	$5,914,416	6/28
+41	Elysium	Sony	$5,753,147	9/27
+42	The Great Gatsby	WB	$5,303,342	5/31
+43	Les Miserables (2012)	UPI	$5,219,345	2/14
+44	White House Down	Sony	$5,105,548	9/6
+45	Jack Reacher	PPI	$4,633,456	1/4
+46	Walking with Dinosaurs	Fox	$4,620,028	12/19
+47	The Heat	Fox	$4,567,663	8/30
+48	Dragon Ball Z	n/a	$4,465,917	9/27
+49	Captain Phillips	Sony	$4,335,409	11/29
+50	Django Unchained	Sony	$4,026,816	1/18
+51	Insidious Chapter 2	Sony	$3,874,869	10/11
+52	The Mortal Instruments: City of Bones	n/a	$3,874,678	8/30
+53	Silver Linings Playbook	Gussi	$3,869,157	2/8
+54	Beautiful Creatures (2013)	Videocine	$3,782,992	2/22
+55	Flight	PPI	$3,545,999	2/8
+56	We're the Millers	WB	$3,445,074	9/6
+57	El cartel de los sapos	n/a	$3,155,260	1/11
+58	Carrie (2013)	Sony	$3,125,462	11/15
+59	Jackass Presents: Bad Grandpa	PPI	$3,109,862	11/29
+60	Gangster Squad	WB	$3,107,959	2/22
+61	Cinco De Mayo: La Batalla	Videocine	$2,621,380	5/3
+62	Olympus Has Fallen	n/a	$2,603,399	4/19
+63	The Internship	Fox	$2,549,352	9/13
+64	Rush (2013)	Gussi	$2,341,631	9/27
+65	Foosball	UPI	$2,317,039	11/15
+66	One Direction: This is Us	Sony	$2,313,955	8/30
+67	Escape From Planet Earth	n/a	$2,309,369	4/12
+68	Lincoln	Fox	$2,245,784	1/18
+69	Runner Runner	Fox	$2,047,434	10/11
+70	About Time	UPI	$2,026,175	12/6
+71	The Counselor	Fox	$1,966,847	11/15
+72	Zambezia	Videocine	$1,917,652	5/31
+73	Side Effects (2013)	Videocine	$1,817,149	3/22
+74	Free Birds	Gussi	$1,808,282	12/6
+75	The Call	n/a	$1,787,567	5/17
+76	A Haunted House	Gussi	$1,734,094	3/1
+77	Evil Dead (2013)	Sony	$1,712,684	4/5
+78	Prisoners	n/a	$1,651,018	11/8
+79	Me Late Chocolate	Videocine	$1,630,053	2/8
+80	Lee Daniels' The Butler	n/a	$1,555,410	11/15
+81	Parker	n/a	$1,512,067	3/1
+82	2 Guns	n/a	$1,418,768	9/13
+83	The Big Wedding	Gussi	$1,410,469	8/9
+84	Scary Movie 5	Gussi	$1,399,279	7/26
+85	The Family (2013)	n/a	$1,339,877	10/18
+86	Jobs	n/a	$1,314,198	10/4
+87	Pain and Gain	PPI	$1,276,567	8/9
+88	Warm Bodies	n/a	$1,274,888	2/8
+89	Blue Jasmine	n/a	$1,264,968	12/25
+90	Identity Thief	UPI	$1,168,346	5/3
+91	Jurassic Park (3D)	UPI	$1,121,429	8/23
+92	Broken City	n/a	$1,091,976	1/25
+93	Cirque Du Soleil: Worlds Away	n/a	$1,083,397	3/1
+94	Texas Chainsaw 3D	Gussi	$1,079,050	4/12
+95	R.I.P.D.	UPI	$1,075,984	9/27
+96	I'm So Excited	n/a	$1,027,631	7/5
+97	Bullet to the Head	n/a	$1,022,964	2/1
+98	Delivery Man	Disney	$982,184	12/6
+99	The Bling Ring	n/a	$957,089	7/26
+100	Safe Haven	Gussi	$949,162	5/10
+101	Dark Skies	Gussi	$916,420	4/19
+102	Trance	Fox	$910,169	5/3
+103	Red 2	n/a	$903,803	8/16
+104	Don Jon	Gussi	$870,635	11/29
+105	Hope Springs	Gussi	$864,054	2/22
+106	Riddick	Gussi	$843,320	10/25
+107	The Last Exorcism Part II	Gussi	$809,424	5/17
+108	Alex Cross	Videocine	$773,088	2/1
+109	The Purge	n/a	$764,889	11/8
+110	Killing Them Softly	Gussi	$751,957	1/11
+111	Stolen (2012)	Gussi	$751,849	4/5
+112	Anna Karenina	UPI	$751,623	3/1
+113	7 ans de mariage...	n/a	$733,050	1/25
+114	This Is 40	n/a	$732,613	4/19
+115	Shelter (2010)	Videocine	$708,753	10/18
+116	Hitchcock	Fox	$708,083	2/1
+117	Fire With Fire	n/a	$690,085	1/11
+118	Saving Santa	n/a	$680,620	12/12
+119	Amour	n/a	$665,662	1/18
+120	The Host (2013)	Gussi	$647,056	5/31
+121	Snitch	n/a	$646,725	4/12
+122	Paranoia	n/a	$600,986	10/11
+123	Stoker	Fox	$588,407	4/5
+124	Quartet	n/a	$570,845	4/26
+125	The Frozen Ground	n/a	$567,334	12/6
+126	Spring Breakers	n/a	$564,961	5/3
+127	Kick-Ass 2	UPI	$540,292	8/16
+128	Escape Plan	n/a	$537,923	10/11
+129	Beasts of the Southern Wild	Gussi	$533,055	2/14
+130	Kon-Tiki	Gussi	$517,274	3/28
+131	Zero Dark Thirty	n/a	$479,882	2/14
+132	The Last Stand	n/a	$476,373	1/18
+133	Metallica Through the Never	n/a	$474,522	10/4
+134	Diana	Gussi	$453,780	12/19
+135	A Royal Affair	n/a	$408,353	3/8
+136	Hit and Run	n/a	$407,538	3/15
+137	7 dans de mariage	n/a	$402,103	1/25
+138	Tercera Llamada	Gussi	$389,113	10/4
+139	Dino Time	Gussi	$386,586	8/30
+140	Dead Man Down	n/a	$370,163	5/17
+141	This is the End	Sony	$365,835	11/8
+142	The Oranges	n/a	$353,026	3/8
+143	The Haunting of Helena	n/a	$348,028	11/29
+144	Enough Said	Fox	$346,667	11/1
+145	Tlatelolco	n/a	$345,861	4/19
+146	The Fifth Estate	Disney	$343,959	10/25
+147	The Pact	n/a	$325,934	10/25
+148	Heli	n/a	$309,580	8/9
+149	The Bay	n/a	$306,014	7/12
+150	The Expatriate	n/a	$301,975	6/7
+151	Killing Season	Gussi	$297,617	9/20
+152	You're Next	n/a	$296,880	9/13
+153	The Place Beyond the Pines	n/a	$296,687	6/14
+154	Before Midnight	n/a	$285,994	8/2
+155	Redemption (2013)	n/a	$279,375	8/23
+156	Comme un chef (The Chef)	Gussi	$272,377	3/22
+157	Come Out and Play	Videocine	$269,097	9/6
+158	Battle of the Year	Sony	$263,943	12/6
+159	Les infidèles (The Players)	n/a	$255,287	7/12
+160	Adore (2013)	n/a	$250,748	10/25
+161	21 and Over	Gussi	$249,643	6/7
+162	La délicatesse	n/a	$247,033	4/5
+163	Canela	Videocine	$231,738	4/12
+164	Machete Kills	Gussi	$225,864	11/8
+165	Bachelorette	Gussi	$208,282	7/12
+166	The Sessions	Fox	$207,872	3/28
+167	Mud	n/a	$206,784	8/9
+168	Robosapien	n/a	$191,504	8/23
+169	Grave Encounters 2	n/a	$189,184	6/7
+170	La chance de ma vie	n/a	$183,396	1/4
+171	The Man with the Iron Fists	n/a	$177,778	5/31
+172	Copito de Nieve	n/a	$174,114	4/5
+173	The Godfather (2012 re-release)	n/a	$172,759	2/8
+174	Deseo	n/a	$170,339	9/13
+175	Therese (2013)	n/a	$166,905	7/26
+176	The Paperboy	Gussi	$162,621	9/6
+177	Mental	n/a	$160,612	10/25
+178	End of Watch	n/a	$156,666	5/10
+179	7 días en La Habana	n/a	$151,696	5/24
+180	Blancanieves	Gussi	$148,069	8/23
+181	De rouille et d'os (Rust and Bone)	Sony	$147,233	3/1
+182	V/H/S	Gussi	$145,542	1/25
+183	The Tall Man	n/a	$142,808	4/19
+184	The Son of No One	n/a	$141,270	1/11
+185	Being Flynn	n/a	$140,252	4/19
+186	The Master	n/a	$139,010	2/22
+187	Pitch Perfect	n/a	$130,037	3/1
+188	The Collection	n/a	$127,569	5/17
+189	Dans la maison (In the House)	n/a	$125,371	12/12
+190	Camille Claudel, 1915	n/a	$122,062	10/25
+191	El secreto del medallón de jade	n/a	$111,012	9/6
+192	Stand Up Guys	n/a	$106,517	5/10
+193	El sueño de Iván	n/a	$105,445	2/14
+194	Ginger and Rosa	n/a	$97,616	6/21
+195	Searching for Sugar Man	n/a	$95,159	6/28
+196	Only God Forgives	n/a	$93,775	12/12
+197	Dark Tide	Gussi	$91,035	1/4
+198	Lovelace	n/a	$90,681	9/20
+199	Filly Brown	Videocine	$90,054	7/19
+200	Hannah Arendt	n/a	$88,977	9/20
+201	The Door (2012)	n/a	$84,678	6/7
+202	Cosmopolis	n/a	$81,409	5/3
+203	Much Ado About Nothing (2013)	n/a	$80,578	7/19
+204	La guerre est déclarée (Declaration of War)	n/a	$64,553	6/14
+205	Do Knot Disturb	n/a	$58,375	9/20
+206	The Way, Way Back	n/a	$57,426	10/18
+207	Reencarnación	Gussi	$57,011	5/24
+208	Populaire	n/a	$54,291	11/22
+209	Fin (The End)	n/a	$47,838	9/20
+210	Damsels in Distress	Sony	$42,517	2/1
+211	The Iceman (2013)	Gussi	$41,123	10/18
+212	388 Arletta Avenue	n/a	$38,548	3/1
+213	Empire State	n/a	$34,795	11/29
+214	Dark Horse	n/a	$33,201	10/11
+215	The World's End	n/a	$32,250	10/11
+216	Faust	n/a	$28,991	3/1
+217	Le bruit des glaçons (The Clink of Ice)	n/a	$27,960	1/11
+218	A Glimpse Inside the Mind of Charles Swan III	n/a	$26,999	5/10
+219	El Premio	n/a	$26,671	2/8
+220	Da-reun na-ra-e-suh (In Another Country)	n/a	$23,872	12/6
+221	The Lost Medallion	n/a	$22,499	10/11
+222	2012 (re-issue)	Sony	$21,883	2/8
+223	Alpeis (Alps)	n/a	$21,781	11/1
+224	Tabu	n/a	$20,969	5/31
+225	Barbara (2012)	n/a	$19,623	8/30
+226	Mahler auf der Couch	n/a	$19,294	1/4
+227	The Human Resources Manager	n/a	$18,579	6/21
+228	Csak a szél (Just the Wind)	n/a	$15,718	12/6
+229	Blue Bird	n/a	$15,298	2/15
+230	Los Fabulosos Siete	n/a	$15,195	11/15
+231	Himizu	n/a	$14,592	4/5
+232	Actores S.A.	n/a	$14,150	11/15
+233	Hitpartzut X (Naomi)	n/a	$13,613	12/19
+234	Halt auf freier Strecke	n/a	$11,408	8/9
+235	Bir zamanlar Anadolu'da (Once Upon a Time in Anatolia)	n/a	$11,102	2/1
+236	Abrir puertas y ventanas (Back to Stay)	n/a	$11,036	5/10
+237	Im Nebel (In the Fog)	n/a	$10,482	12/20
+238	Las razones del corazón	n/a	$10,152	10/11
+239	Cesare deve morire	n/a	$9,449	9/6
+240	El último verano de la Boyita	n/a	$6,869	1/4
+241	La Regate	n/a	$6,469	9/13
+242	18 comidas	n/a	$5,780	12/20
+243	Gerhard Richter - Painting	n/a	$3,576	12/27
+244	Porfirio	n/a	$2,358	2/1
+245	Dormir al sol (Asleep in the Sun)	Sony	$2,244	6/28
+246	En waar de sterre bleef stille staan (Little Baby Jesus of Flandr)	n/a	$2,171	7/19
+247	Neighboring Sounds	n/a	$1,656	11/8
+248	De jueves a domingo (Thursday Till Sunday)	n/a	$1,497	10/11
+249	El Ascensor	n/a	$328	2/1
+250	Luna En Leo	Sony	$321	12/12
